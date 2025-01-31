@@ -1,0 +1,772 @@
+[
+    {
+        "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
+        "link": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
+        "published": "Tue, 17 Dec 2024 15:29",
+        "summary": "Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
+        "source": "DeepMind"
+    },
+    {
+        "title": "State-of-the-art video and image generation with Veo 2 and Imagen 3",
+        "link": "https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/",
+        "published": "Mon, 16 Dec 2024 17:01",
+        "summary": "We\u2019re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "link": "https://deepmind.google/discover/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
+        "published": "Wed, 11 Dec 2024 15:30",
+        "summary": "Today, we\u2019re announcing Gemini 2.0, our most capable multimodal AI model yet.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google DeepMind at NeurIPS 2024",
+        "link": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2024/",
+        "published": "Thu, 05 Dec 2024 17:45",
+        "summary": "Advancing adaptive AI agents, empowering 3D scene creation, and innovating LLM training for a smarter, safer future",
+        "source": "DeepMind"
+    },
+    {
+        "title": "GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy",
+        "link": "https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/",
+        "published": "Wed, 04 Dec 2024 15:59",
+        "summary": "New AI model advances the prediction of weather uncertainties and risks, delivering faster, more accurate forecasts up to 15 days ahead",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Genie 2: A large-scale foundation world model",
+        "link": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
+        "published": "Wed, 04 Dec 2024 14:23",
+        "summary": "Generating unlimited diverse training environments for future general agents",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaQubit tackles one of quantum computing\u2019s biggest challenges",
+        "link": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+        "published": "Wed, 20 Nov 2024 18:00",
+        "summary": "Our new AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The AI for Science Forum: A new era of discovery",
+        "link": "https://deepmind.google/discover/blog/the-ai-for-science-forum-a-new-era-of-discovery/",
+        "published": "Mon, 18 Nov 2024 19:57",
+        "summary": "The AI Science Forum highlights AI's present and potential role in revolutionizing scientific discovery and solving global challenges, emphasizing collaboration between the scientific community, policymakers, and industry leaders.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Pushing the frontiers of audio generation",
+        "link": "https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/",
+        "published": "Wed, 30 Oct 2024 15:00",
+        "summary": "Our pioneering speech generation technologies are helping people around the world interact with more natural, conversational and intuitive digital assistants and AI tools.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "New generative AI tools open the doors of music creation",
+        "link": "https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/",
+        "published": "Wed, 23 Oct 2024 16:53",
+        "summary": "Our latest AI music technologies are now available in MusicFX DJ, Music AI Sandbox and YouTube Shorts",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry",
+        "link": "https://deepmind.google/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/",
+        "published": "Wed, 09 Oct 2024 11:45",
+        "summary": "The award recognizes their work developing AlphaFold, a groundbreaking AI system that predicts the 3D structure of proteins from their amino acid sequences.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "How AlphaChip transformed computer chip design",
+        "link": "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/",
+        "published": "Thu, 26 Sep 2024 14:08",
+        "summary": "Our AI method has accelerated and optimized chip design, and its superhuman chip layouts are used in hardware around the world.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Updated production-ready Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more",
+        "link": "https://deepmind.google/discover/blog/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/",
+        "published": "Tue, 24 Sep 2024 16:03",
+        "summary": "We\u2019re releasing two updated production-ready Gemini models",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Empowering YouTube creators with generative AI",
+        "link": "https://deepmind.google/discover/blog/empowering-youtube-creators-with-generative-ai/",
+        "published": "Wed, 18 Sep 2024 14:30",
+        "summary": "New video generation technology in YouTube Shorts will help millions of people realize their creative vision",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Our latest advances in robot dexterity",
+        "link": "https://deepmind.google/discover/blog/advances-in-robot-dexterity/",
+        "published": "Thu, 12 Sep 2024 14:00",
+        "summary": "Two new AI systems, ALOHA Unleashed and DemoStart, help robots learn to perform complex tasks that require dexterous movement",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaProteo generates novel proteins for biology and health research",
+        "link": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+        "published": "Thu, 05 Sep 2024 15:00",
+        "summary": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "FermiNet: Quantum physics and chemistry from first principles",
+        "link": "https://deepmind.google/discover/blog/ferminet-quantum-physics-and-chemistry-from-first-principles/",
+        "published": "Thu, 22 Aug 2024 19:00",
+        "summary": "Using deep learning to solve fundamental problems in computational quantum chemistry and explore how matter interacts with light",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A new generation of African talent brings cutting-edge AI to scientific challenges",
+        "link": "https://deepmind.google/discover/blog/a-new-generation-of-african-talent-brings-cutting-edge-ai-to-scientific-challenges/",
+        "published": "Mon, 05 Aug 2024 12:00",
+        "summary": "Food security, healthcare and exploring the cosmos are among the ways students of a new pan-African Master\u2019s program aspire to apply AI",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Mapping the misuse of generative AI",
+        "link": "https://deepmind.google/discover/blog/mapping-the-misuse-of-generative-ai/",
+        "published": "Fri, 02 Aug 2024 10:50",
+        "summary": "New research analyzes the misuse of multimodal generative AI today, in order to help build safer and more responsible technologies.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Gemma Scope: helping the safety community shed light on the inner workings of language models",
+        "link": "https://deepmind.google/discover/blog/gemma-scope-helping-the-safety-community-shed-light-on-the-inner-workings-of-language-models/",
+        "published": "Wed, 31 Jul 2024 15:59",
+        "summary": "Announcing a comprehensive, open suite of sparse autoencoders for language model interpretability.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+        "link": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+        "published": "Thu, 25 Jul 2024 15:29",
+        "summary": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google DeepMind at ICML 2024",
+        "link": "https://deepmind.google/discover/blog/google-deepmind-at-icml-2024/",
+        "published": "Fri, 19 Jul 2024 10:00",
+        "summary": "Exploring AGI, the challenges of scaling and the future of multimodal generative AI",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Generating audio for video",
+        "link": "https://deepmind.google/discover/blog/generating-audio-for-video/",
+        "published": "Mon, 17 Jun 2024 16:00",
+        "summary": "Video-to-audio research uses video pixels and text prompts to generate rich soundtracks",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Looking ahead to the AI Seoul Summit",
+        "link": "https://deepmind.google/discover/blog/looking-ahead-to-the-ai-seoul-summit/",
+        "published": "Mon, 20 May 2024 07:00",
+        "summary": "How summits in Seoul, France and beyond can galvanize international cooperation on frontier AI safety",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing the Frontier Safety Framework",
+        "link": "https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/",
+        "published": "Fri, 17 May 2024 14:00",
+        "summary": "Our approach to analyzing and mitigating future risks posed by advanced AI models",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Gemini breaks new ground: a faster model, longer context and AI agents",
+        "link": "https://deepmind.google/discover/blog/gemini-breaks-new-ground-a-faster-model-longer-context-and-ai-agents/",
+        "published": "Tue, 14 May 2024 17:58",
+        "summary": "We\u2019re introducing a series of updates across the Gemini family of models, including the new 1.5 Flash, our lightweight model for speed and efficiency, and Project Astra, our vision for the future of AI assistants.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "New generative media models and tools, built with and for creators",
+        "link": "https://deepmind.google/discover/blog/new-generative-media-models-and-tools-built-with-and-for-creators/",
+        "published": "Tue, 14 May 2024 17:57",
+        "summary": "We\u2019re introducing Veo, our most capable model for generating high-definition video, and Imagen 3, our highest quality text-to-image model. We\u2019re also sharing new demo recordings created with our Music AI Sandbox.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Watermarking AI-generated text and video with SynthID",
+        "link": "https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/",
+        "published": "Tue, 14 May 2024 17:56",
+        "summary": "Announcing our novel watermarking method for AI-generated text and video, and how we\u2019re bringing SynthID to key Google products",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaFold 3 predicts the structure and interactions of all of life\u2019s molecules",
+        "link": "https://deepmind.google/discover/blog/alphafold-3-predicts-the-structure-and-interactions-of-all-lifes-molecules/",
+        "published": "Wed, 08 May 2024 16:00",
+        "summary": "Introducing a new AI model developed by Google DeepMind and Isomorphic Labs.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google DeepMind at ICLR 2024",
+        "link": "https://deepmind.google/discover/blog/google-deepmind-at-iclr-2024/",
+        "published": "Fri, 03 May 2024 13:39",
+        "summary": "Developing next-gen AI agents, exploring new modalities, and pioneering foundational learning",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The ethics of advanced AI assistants",
+        "link": "https://deepmind.google/discover/blog/the-ethics-of-advanced-ai-assistants/",
+        "published": "Fri, 19 Apr 2024 10:00",
+        "summary": "Exploring the promise and risks of a future with more capable AI",
+        "source": "DeepMind"
+    },
+    {
+        "title": "TacticAI: an AI assistant for football tactics",
+        "link": "https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/",
+        "published": "Tue, 19 Mar 2024 16:03",
+        "summary": "As part of our multi-year collaboration with Liverpool FC, we develop a full AI system that can advise coaches on corner kicks",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A generalist AI agent for 3D virtual environments",
+        "link": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
+        "published": "Wed, 13 Mar 2024 14:00",
+        "summary": "Introducing SIMA, a Scalable Instructable Multiworld Agent",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Gemma: Introducing new state-of-the-art open models",
+        "link": "https://deepmind.google/discover/blog/gemma-introducing-new-state-of-the-art-open-models/",
+        "published": "Wed, 21 Feb 2024 13:06",
+        "summary": "Gemma is built for responsible AI development from the same research and technology used to create Gemini models.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Our next-generation model: Gemini 1.5",
+        "link": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+        "published": "Thu, 15 Feb 2024 15:00",
+        "summary": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The next chapter of our Gemini era",
+        "link": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
+        "published": "Thu, 08 Feb 2024 13:00",
+        "summary": "We're bringing Gemini to more Google products",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
+        "link": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
+        "published": "Wed, 17 Jan 2024 16:00",
+        "summary": "Advancing AI reasoning in mathematics",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Shaping the future of advanced robotics",
+        "link": "https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/",
+        "published": "Thu, 04 Jan 2024 11:39",
+        "summary": "Introducing AutoRT, SARA-RT, and RT-Trajectory",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Images altered to trick machine vision can influence humans too",
+        "link": "https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/",
+        "published": "Tue, 02 Jan 2024 16:00",
+        "summary": "In a series of experiments published in Nature Communications, we found evidence that human judgments are indeed systematically influenced by adversarial perturbations.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "2023: A Year of Groundbreaking Advances in AI and Computing",
+        "link": "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
+        "published": "Fri, 22 Dec 2023 13:30",
+        "summary": "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "FunSearch: Making new discoveries in mathematical sciences using Large Language Models",
+        "link": "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/",
+        "published": "Thu, 14 Dec 2023 16:00",
+        "summary": "In a paper published in Nature, we introduce FunSearch, a method for searching for \u201cfunctions\u201d written in computer code, and find new solutions in mathematics and computer science. FunSearch works by pairing a pre-trained LLM, whose goal is to provide creative solutions in the form of computer code, with an automated \u201cevaluator\u201d, which guards against hallucinations and incorrect ideas.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google DeepMind at NeurIPS 2023",
+        "link": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
+        "published": "Fri, 08 Dec 2023 15:01",
+        "summary": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing Gemini: our largest and most capable AI model",
+        "link": "https://deepmind.google/discover/blog/introducing-gemini-our-largest-and-most-capable-ai-model/",
+        "published": "Wed, 06 Dec 2023 15:13",
+        "summary": "Making AI more helpful for everyone",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Millions of new materials discovered with deep learning",
+        "link": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+        "published": "Wed, 29 Nov 2023 16:04",
+        "summary": "We share the discovery of 2.2 million new crystals  \u2013  equivalent to nearly 800 years\u2019 worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Transforming the future of music creation",
+        "link": "https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/",
+        "published": "Thu, 16 Nov 2023 07:20",
+        "summary": "Announcing our most advanced music generation model and two new AI experiments, designed to open a new playground for creativity",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Empowering the next generation for an AI-enabled world",
+        "link": "https://deepmind.google/discover/blog/empowering-the-next-generation-for-an-ai-enabled-world/",
+        "published": "Wed, 15 Nov 2023 10:00",
+        "summary": "Experience AI's course and resources are expanding on a global scale",
+        "source": "DeepMind"
+    },
+    {
+        "title": "GraphCast: AI model for faster and more accurate global weather forecasting",
+        "link": "https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/",
+        "published": "Tue, 14 Nov 2023 15:00",
+        "summary": "We introduce GraphCast, a state-of-the-art AI model able to make medium-range weather forecasts with unprecedented accuracy",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A glimpse of the next generation of AlphaFold",
+        "link": "https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/",
+        "published": "Tue, 31 Oct 2023 13:00",
+        "summary": "Progress update: Our latest AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Evaluating social and ethical risks from generative AI",
+        "link": "https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/",
+        "published": "Thu, 19 Oct 2023 15:00",
+        "summary": "Introducing a context-based framework for comprehensively evaluating the social and ethical risks of AI systems",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Scaling up learning across many different robot types",
+        "link": "https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/",
+        "published": "Tue, 03 Oct 2023 15:00",
+        "summary": "Robots are great specialists, but poor generalists. Typically, you have to train a model for each task, robot, and environment. Changing a single variable often requires starting from scratch. But what if we could combine the knowledge across robotics and create a way to train a general-purpose robot?",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
+        "link": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+        "published": "Tue, 19 Sep 2023 13:37",
+        "summary": "New AI tool classifies the effects of 71 million \u2018missense\u2019 mutations.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Identifying AI-generated images with SynthID",
+        "link": "https://deepmind.google/discover/blog/identifying-ai-generated-images-with-synthid/",
+        "published": "Tue, 29 Aug 2023 00:00",
+        "summary": "New tool helps watermark and identify synthetic images created by Imagen",
+        "source": "DeepMind"
+    },
+    {
+        "title": "RT-2: New model translates vision and language into action",
+        "link": "https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/",
+        "published": "Fri, 28 Jul 2023 00:00",
+        "summary": "Robotic Transformer 2 (RT-2) is a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Using AI to fight climate change",
+        "link": "https://deepmind.google/discover/blog/using-ai-to-fight-climate-change/",
+        "published": "Fri, 21 Jul 2023 00:00",
+        "summary": "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions?",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google DeepMind\u2019s latest research at ICML 2023",
+        "link": "https://deepmind.google/discover/blog/google-deepmind-research-at-icml-2023/",
+        "published": "Thu, 20 Jul 2023 00:00",
+        "summary": "Exploring AI safety, adaptability, and efficiency for the real world",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Developing reliable AI tools for healthcare",
+        "link": "https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/",
+        "published": "Mon, 17 Jul 2023 00:00",
+        "summary": "We\u2019ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Exploring institutions for global AI governance",
+        "link": "https://deepmind.google/discover/blog/exploring-institutions-for-global-ai-governance/",
+        "published": "Tue, 11 Jul 2023 00:00",
+        "summary": "New white paper investigates models and functions of international institutions that could help manage opportunities and mitigate risks of advanced AI.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "RoboCat: A self-improving robotic agent",
+        "link": "https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/",
+        "published": "Tue, 20 Jun 2023 00:00",
+        "summary": "Robots are quickly becoming part of our everyday lives, but they\u2019re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed to collect real-world training data.\u00a0Our latest paper introduces a self-improving AI agent for robotics, RoboCat, that learns to perform a variety of tasks across different arms, and then self-generates new training data to improve its technique.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "YouTube: Enhancing the user experience",
+        "link": "https://deepmind.google/discover/blog/youtube-enhancing-the-user-experience/",
+        "published": "Fri, 16 Jun 2023 14:55",
+        "summary": "It\u2019s all about using our technology and research to help enrich people\u2019s lives. Like YouTube \u2014 and its mission to give everyone a voice and show them the world.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Google Cloud: Driving digital transformation",
+        "link": "https://deepmind.google/discover/blog/google-cloud-driving-digital-transformation/",
+        "published": "Wed, 14 Jun 2023 14:51",
+        "summary": "Google Cloud empowers organizations to digitally transform themselves into smarter businesses. It offers cloud computing, data analytics, and the latest artificial intelligence (AI) and machine learning tools.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "MuZero, AlphaZero, and AlphaDev: Optimizing computer systems",
+        "link": "https://deepmind.google/discover/blog/muzero-alphazero-and-alphadev-optimizing-computer-systems/",
+        "published": "Mon, 12 Jun 2023 14:41",
+        "summary": "How MuZero, AlphaZero, and AlphaDev are optimizing the computing ecosystem that powers our world of devices.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaDev discovers faster sorting algorithms",
+        "link": "https://deepmind.google/discover/blog/alphadev-discovers-faster-sorting-algorithms/",
+        "published": "Wed, 07 Jun 2023 00:00",
+        "summary": "New algorithms will transform the foundations of computing",
+        "source": "DeepMind"
+    },
+    {
+        "title": "An early warning system for novel AI risks",
+        "link": "https://deepmind.google/discover/blog/an-early-warning-system-for-novel-ai-risks/",
+        "published": "Thu, 25 May 2023 00:00",
+        "summary": "New research proposes a framework for evaluating general-purpose models against novel threats",
+        "source": "DeepMind"
+    },
+    {
+        "title": "DeepMind\u2019s latest research at ICLR 2023",
+        "link": "https://deepmind.google/discover/blog/deepminds-latest-research-at-iclr-2023/",
+        "published": "Thu, 27 Apr 2023 00:00",
+        "summary": "Next week marks the start of the 11th International Conference on Learning Representations (ICLR), taking place 1-5 May in Kigali, Rwanda. This will be the first major artificial intelligence (AI) conference to be hosted in Africa and the first in-person event since the start of the pandemic. Researchers from around the world will gather to share their cutting-edge work in deep learning spanning the fields of AI, statistics and data science, and applications including machine vision, gaming and robotics. We\u2019re proud to support the conference as a Diamond sponsor and DEI champion.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "How can we build human values into AI?",
+        "link": "https://deepmind.google/discover/blog/how-can-we-build-human-values-into-ai/",
+        "published": "Mon, 24 Apr 2023 00:00",
+        "summary": "Drawing from philosophy to identify fair principles for ethical AI...",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Announcing Google DeepMind",
+        "link": "https://deepmind.google/discover/blog/announcing-google-deepmind/",
+        "published": "Thu, 20 Apr 2023 00:00",
+        "summary": "DeepMind and the Brain team from Google Research will join forces to accelerate progress towards a world in which AI helps solve the biggest challenges facing humanity.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Competitive programming with AlphaCode",
+        "link": "https://deepmind.google/discover/blog/competitive-programming-with-alphacode/",
+        "published": "Thu, 08 Dec 2022 00:00",
+        "summary": "Solving novel problems and setting a new milestone in competitive programming.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI for the board game Diplomacy",
+        "link": "https://deepmind.google/discover/blog/ai-for-the-board-game-diplomacy/",
+        "published": "Tue, 06 Dec 2022 00:00",
+        "summary": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication \u2013 and we can learn a lot from playing them. In our recent paper, published today in Nature Communications, we show how artificial agents can use communication to better cooperate in the board game Diplomacy, a vibrant domain in artificial intelligence (AI) research, known for its focus on alliance building.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Mastering Stratego, the classic game of imperfect information",
+        "link": "https://deepmind.google/discover/blog/mastering-stratego-the-classic-game-of-imperfect-information/",
+        "published": "Thu, 01 Dec 2022 00:00",
+        "summary": "Game-playing artificial intelligence (AI) systems have advanced to a new frontier.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "DeepMind\u2019s latest research at NeurIPS 2022",
+        "link": "https://deepmind.google/discover/blog/deepminds-latest-research-at-neurips-2022/",
+        "published": "Fri, 25 Nov 2022 00:00",
+        "summary": "NeurIPS is the world\u2019s largest conference in artificial intelligence (AI) and machine learning (ML), and we\u2019re proud to support the event as Diamond sponsors, helping foster the exchange of research advances in the AI and ML community. Teams from across DeepMind are presenting 47 papers, including 35 external collaborations in virtual panels and poster sessions.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Building interactive agents in video game worlds",
+        "link": "https://deepmind.google/discover/blog/building-interactive-agents-in-video-game-worlds/",
+        "published": "Wed, 23 Nov 2022 00:00",
+        "summary": "Most artificial intelligence (AI) researchers now believe that writing computer code which can capture the nuances of situated interactions is impossible. Alternatively, modern machine learning (ML) researchers have focused on learning about these types of interactions from data. To explore these learning-based approaches and quickly build agents that can make sense of human instructions and safely perform actions in open-ended conditions, we created a research framework within a video game environment.Today, we\u2019re publishing a paper [INSERT LINK] and collection of videos, showing our early steps in building video game AIs that can understand fuzzy human concepts \u2013 and therefore, can begin to interact with people on their own terms.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Benchmarking the next generation of never-ending learners",
+        "link": "https://deepmind.google/discover/blog/benchmarking-the-next-generation-of-never-ending-learners/",
+        "published": "Tue, 22 Nov 2022 00:00",
+        "summary": "Learning how to build upon knowledge by tapping 30 years of computer vision research",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Best practices for data enrichment",
+        "link": "https://deepmind.google/discover/blog/best-practices-for-data-enrichment/",
+        "published": "Wed, 16 Nov 2022 00:00",
+        "summary": "Building a responsible approach to data collection with the Partnership on AI...",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The pursuit of AI education\u2014past, present, and future",
+        "link": "https://deepmind.google/discover/blog/the-pursuit-of-ai-educationpast-present-and-future/",
+        "published": "Tue, 08 Nov 2022 00:00",
+        "summary": "Meet Sylvia Christie, our education partnerships manager who\u2019s played a leading role in expanding our scholarship programme, which is marking its five-year anniversary.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Stopping malaria in its tracks",
+        "link": "https://deepmind.google/discover/blog/stopping-malaria-in-its-tracks/",
+        "published": "Thu, 13 Oct 2022 15:00",
+        "summary": "Developing a vaccine that could save hundreds of thousands of lives",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Measuring perception in AI models",
+        "link": "https://deepmind.google/discover/blog/measuring-perception-in-ai-models/",
+        "published": "Wed, 12 Oct 2022 00:00",
+        "summary": "Perception \u2013 the process of experiencing the world through senses \u2013 is a significant part of intelligence. And building agents with human-level perceptual understanding of the world is a central but challenging task, which is becoming increasingly important in robotics, self-driving cars, personal assistants, medical imaging, and more. So today, we\u2019re introducing the Perception Test, a multimodal benchmark using real-world videos to help evaluate the perception capabilities of a model.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "How undesired goals can arise with correct rewards",
+        "link": "https://deepmind.google/discover/blog/how-undesired-goals-can-arise-with-correct-rewards/",
+        "published": "Fri, 07 Oct 2022 00:00",
+        "summary": "As we build increasingly advanced artificial intelligence (AI) systems, we want to make sure they don\u2019t pursue undesired goals. Such behaviour in an AI agent is often the result of specification gaming \u2013 exploiting a poor choice of what they are rewarded for. In our latest paper, we explore a more subtle mechanism by which AI systems may unintentionally learn to pursue undesired goals: goal misgeneralisation (GMG).\u00a0GMG occurs when a system's capabilities generalise successfully but its goal does not generalise as desired, so the system competently pursues the wrong goal. Crucially, in contrast to specification gaming, GMG can occur even when the AI system is trained with a correct specification.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Discovering novel algorithms with AlphaTensor",
+        "link": "https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/",
+        "published": "Wed, 05 Oct 2022 00:00",
+        "summary": "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about finding the fastest way to multiply two matrices. This paper is a stepping stone in DeepMind\u2019s mission to advance science and unlock the most fundamental problems using AI. Our system, AlphaTensor, builds upon AlphaZero, an agent that has shown superhuman performance on board games, like chess, Go and shogi, and this work shows the journey of AlphaZero from playing games to tackling unsolved mathematical problems for the first time.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Fighting osteoporosis before it starts",
+        "link": "https://deepmind.google/discover/blog/fighting-osteoporosis-before-it-starts/",
+        "published": "Tue, 27 Sep 2022 14:16",
+        "summary": "Detecting signs of disease before bones start to break",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Understanding the faulty proteins linked to cancer and autism",
+        "link": "https://deepmind.google/discover/blog/understanding-the-faulty-proteins-linked-to-cancer-and-autism/",
+        "published": "Mon, 26 Sep 2022 15:19",
+        "summary": "Helping uncover how protein mutations cause diseases and disorders",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Supporting the next generation of AI leaders",
+        "link": "https://deepmind.google/discover/blog/supporting-the-next-generation-of-ai-leaders/",
+        "published": "Mon, 26 Sep 2022 00:00",
+        "summary": "We\u2019re partnering with six education charities and social enterprises in the United Kingdom (UK) to co-create a bespoke education programme to help tackle the gaps in STEM education and boost existing programmes.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Solving the mystery of how an ancient bird went extinct",
+        "link": "https://deepmind.google/discover/blog/solving-the-mystery-of-how-an-ancient-bird-went-extinct/",
+        "published": "Thu, 22 Sep 2022 15:27",
+        "summary": "Creating a tool to study extinct species from 50,000 years ago",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Building safer dialogue agents",
+        "link": "https://deepmind.google/discover/blog/building-safer-dialogue-agents/",
+        "published": "Thu, 22 Sep 2022 00:00",
+        "summary": "In our latest paper, we introduce Sparrow \u2013 a dialogue agent that\u2019s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user, answer questions, and search the internet using Google when it\u2019s helpful to look up evidence to inform its responses.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Targeting early-onset Parkinson\u2019s with AI",
+        "link": "https://deepmind.google/discover/blog/targeting-early-onset-parkinsons-with-ai/",
+        "published": "Wed, 21 Sep 2022 15:37",
+        "summary": "Predictions that  pave the way to new treatments",
+        "source": "DeepMind"
+    },
+    {
+        "title": "How our principles helped define AlphaFold\u2019s release",
+        "link": "https://deepmind.google/discover/blog/how-our-principles-helped-define-alphafolds-release/",
+        "published": "Wed, 14 Sep 2022 00:00",
+        "summary": "Our Operating Principles have come to define both our commitment to prioritising widespread benefit, as well as the areas of research and applications we refuse to pursue. These principles have been at the heart of our decision making since DeepMind was founded, and continue to be refined as the AI landscape changes and grows. They are designed for our role as a research-driven science company and consistent with Google\u2019s AI principles.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Maximising the impact of our breakthroughs",
+        "link": "https://deepmind.google/discover/blog/maximising-the-impact-of-our-breakthroughs/",
+        "published": "Fri, 09 Sep 2022 00:00",
+        "summary": "Colin, CBO at DeepMind, discusses collaborations with Alphabet and how we integrate ethics, accountability, and safety into everything we do.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "My journey from DeepMind intern to mentor",
+        "link": "https://deepmind.google/discover/blog/my-journey-from-deepmind-intern-to-mentor/",
+        "published": "Thu, 08 Sep 2022 00:00",
+        "summary": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "In conversation with AI: building better language models",
+        "link": "https://deepmind.google/discover/blog/in-conversation-with-ai-building-better-language-models/",
+        "published": "Tue, 06 Sep 2022 00:00",
+        "summary": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "From motor control to embodied intelligence",
+        "link": "https://deepmind.google/discover/blog/from-motor-control-to-embodied-intelligence/",
+        "published": "Wed, 31 Aug 2022 00:00",
+        "summary": "Using human and animal motions to teach robots to dribble a ball, and simulated humanoid characters to carry boxes and play football",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Advancing conservation with AI-based facial recognition of turtles",
+        "link": "https://deepmind.google/discover/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles/",
+        "published": "Thu, 25 Aug 2022 00:00",
+        "summary": "We came across Zindi \u2013 a dedicated partner with complementary goals \u2013 who are the largest community of African data scientists and host competitions that focus on solving Africa\u2019s most pressing problems. Our Science team\u2019s Diversity, Equity, and Inclusion (DE&amp;I) team worked with Zindi to identify a scientific challenge that could help advance conservation efforts and grow involvement in AI. Inspired by Zindi\u2019s bounding box turtle challenge, we landed on a project with the potential for real impact: turtle facial recognition.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Discovering when an agent is present in a system",
+        "link": "https://deepmind.google/discover/blog/discovering-when-an-agent-is-present-in-a-system/",
+        "published": "Thu, 18 Aug 2022 00:00",
+        "summary": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that shape agent behaviour, CIDs help illuminate potential risks before training an agent and can inspire better agent designs. But how do we know when a CID is an accurate model of a training setup?",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Realising scientists are the real superheroes",
+        "link": "https://deepmind.google/discover/blog/realising-scientists-are-the-real-superheroes/",
+        "published": "Thu, 11 Aug 2022 00:00",
+        "summary": "Meet Edgar Du\u00e9\u00f1ez-Guzm\u00e1n, a research engineer on our Multi-Agent Research team who\u2019s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The race to cure a billion people from a deadly parasitic disease",
+        "link": "https://deepmind.google/discover/blog/the-race-to-cure-a-billion-people-from-a-deadly-parasitic-disease/",
+        "published": "Thu, 28 Jul 2022 16:49",
+        "summary": "Accelerating the search for life saving leishmaniasis treatments",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Tracing the evolution of proteins back to the origin of life",
+        "link": "https://deepmind.google/discover/blog/tracing-the-evolution-of-proteins-back-to-the-origin-of-life/",
+        "published": "Thu, 28 Jul 2022 16:30",
+        "summary": "Looking into a protein\u2019s past to unlock the mysteries of life itself",
+        "source": "DeepMind"
+    },
+    {
+        "title": "How the honeybee could help protect species around the world",
+        "link": "https://deepmind.google/discover/blog/how-the-honeybee-could-help-protect-species-around-the-world/",
+        "published": "Thu, 28 Jul 2022 16:25",
+        "summary": "New insights into immunity to help protect the world\u2019s flora",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaFold transforms biology for millions around the world",
+        "link": "https://deepmind.google/discover/blog/alphafold-transforms-biology-for-millions-around-the-world/",
+        "published": "Thu, 28 Jul 2022 16:19",
+        "summary": "Big data that leads to discoveries that benefit everyone",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Advancing discovery of better drugs and medicine",
+        "link": "https://deepmind.google/discover/blog/advancing-discovery-of-better-drugs-and-medicine/",
+        "published": "Thu, 28 Jul 2022 16:14",
+        "summary": "Researchers are designing more effective drugs than ever before",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Creating plastic-eating enzymes that could save us from pollution",
+        "link": "https://deepmind.google/discover/blog/creating-plastic-eating-enzymes-that-could-save-us-from-pollution/",
+        "published": "Thu, 28 Jul 2022 16:10",
+        "summary": "Helping plastics become 100% recyclable",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AlphaFold unlocks one of the greatest puzzles in biology",
+        "link": "https://deepmind.google/discover/blog/alphafold-unlocks-one-of-the-greatest-puzzles-in-biology/",
+        "published": "Thu, 28 Jul 2022 15:59",
+        "summary": "Piecing together one of the largest molecular structures in human cells",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Accelerating the race against antibiotic resistance",
+        "link": "https://deepmind.google/discover/blog/accelerating-the-race-against-antibiotic-resistance/",
+        "published": "Thu, 28 Jul 2022 15:48",
+        "summary": "Unlocking a decade of data in minutes to help beat antibiotic resistance",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI\u2019s energy obsession just got a reality check",
+        "link": "https://www.technologyreview.com/2025/01/28/1110599/ais-energy-obsession-gets-a-reality-check/",
+        "published": "Tue, 28 Jan 2025 10:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Just a week in, the AI sector has already seen its first battle of wits under the new Trump administration. The clash stems from two key pieces of news: the announcement of&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How a top Chinese AI model overcame US sanctions",
+        "link": "https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/",
+        "published": "Fri, 24 Jan 2025 18:26",
+        "summary": "The AI community is abuzz over DeepSeek R1, a new open-source reasoning model.&#160; The model was developed by the Chinese AI startup DeepSeek, which claims that R1 matches or even surpasses OpenAI\u2019s ChatGPT o1 on multiple key benchmarks but operates at a fraction of the cost.&#160; \u201cThis could be a truly equalizing breakthrough that is&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "What\u2019s next for robots",
+        "link": "https://www.technologyreview.com/2025/01/23/1110496/whats-next-for-robots/",
+        "published": "Thu, 23 Jan 2025 19:09",
+        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Jan Liphardt teaches bioengineering at Stanford, but to many strangers in Los Altos, California, he is a peculiar man they see walking a four-legged robotic dog down&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI launches Operator\u2014an agent that can use a computer for you",
+        "link": "https://www.technologyreview.com/2025/01/23/1110484/openai-launches-operator-an-agent-that-can-use-a-computer-for-you/",
+        "published": "Thu, 23 Jan 2025 18:00",
+        "summary": "After weeks of buzz, OpenAI has released Operator, its first AI agent. Operator is a web app that can carry out simple online tasks in a browser, such as booking concert tickets or filling an online grocery order. The app is powered by a new model called Computer-Using Agent\u2014CUA (\u201ccoo-ah\u201d), for short\u2014built on top of&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Implementing responsible AI in the generative age",
+        "link": "https://www.technologyreview.com/2025/01/22/1110043/implementing-responsible-ai-in-the-generative-age/",
+        "published": "Wed, 22 Jan 2025 13:26",
+        "summary": "Many organizations have experimented with AI, but they haven\u2019t always gotten the full value from their investments. A host of issues standing in the way center on the accuracy, fairness, and security&#160;of AI systems. In response, organizations are actively exploring the principles of responsible AI: the idea that AI systems must be fair, transparent, and&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI has upped its lobbying efforts nearly sevenfold",
+        "link": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
+        "published": "Wed, 22 Jan 2025 00:11",
+        "summary": "OpenAI spent $1.76 million on government lobbying in 2024 and $510,000 in the last three months of the year alone, according to a new disclosure filed on January 22\u2014a significant jump from 2023, when the company spent just $260,000 on Capitol Hill. The company also disclosed a new in-house lobbyist, Meghan Dorn, who worked for&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Why it\u2019s so hard to use AI to diagnose cancer",
+        "link": "https://www.technologyreview.com/2025/01/21/1110192/why-its-so-hard-to-use-ai-to-diagnose-cancer/",
+        "published": "Tue, 21 Jan 2025 10:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Peering into the body to find and diagnose cancer is all about spotting patterns. Radiologists use x-rays and magnetic resonance imaging to illuminate tumors, and pathologists examine tissue from kidneys, livers,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The second wave of AI coding is here",
+        "link": "https://www.technologyreview.com/2025/01/20/1110180/the-second-wave-of-ai-coding-is-here/",
+        "published": "Mon, 20 Jan 2025 11:52",
+        "summary": "Ask people building generative AI what generative AI is good for right now\u2014what they\u2019re really fired up about\u2014and many will tell you: coding.&#160; \u201cThat\u2019s something that\u2019s been very exciting for developers,\u201d Jared Kaplan, chief scientist at Anthropic, told MIT Technology Review this month: \u201cIt\u2019s really understanding what\u2019s wrong with code, debugging it.\u201d Copilot, a tool&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Meta\u2019s new AI model can translate speech from more than 100 languages",
+        "link": "https://www.technologyreview.com/2025/01/15/1109994/metas-new-ai-model-can-translate-speech-from-more-than-100-languages/",
+        "published": "Wed, 15 Jan 2025 16:00",
+        "summary": "Meta has released a new AI model that can translate speech from 101 different languages. It represents a step toward real-time, simultaneous interpretation, where words are translated as soon as they come out of someone\u2019s mouth.&#160; Typically, translation models for speech use a multistep approach. First they translate speech into text. Then they translate that&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Training robots in the AI-powered industrial metaverse",
+        "link": "https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/",
+        "published": "Tue, 14 Jan 2025 16:49",
+        "summary": "Imagine the bustling floors of tomorrow\u2019s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamlessly and safely alongside human counterparts. These robots can transition effortlessly between tasks\u2014from assembling intricate electronic components to handling complex machinery assembly. Each robot&#8217;s unique education enables it to predict maintenance needs, optimize energy consumption, and innovate&#8230;",
+        "source": "Technology Review"
+    }
+]

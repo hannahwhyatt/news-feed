@@ -1,0 +1,28 @@
+{
+  "ui": {
+    "type": "div",
+    "label": "",
+    "children": [
+      {
+        "type": "div",
+        "label": "Bullet Point",
+        "children": [],
+        "attributes": [
+          {
+            "name": "content",
+            "value": "A new benchmark has been established for evaluating large language models (LLMs), focusing on their ability to provide accurate responses grounded in source material while minimizing hallucinations."
+          },
+          {
+            "name": "content",
+            "value": "Google DeepMind has announced Gemini 2.0, an advanced multimodal AI model, alongside significant updates to video generation technologies with Veo 2 and Imagen 3, enhancing the creative capabilities of digital content creation."
+          },
+          {
+            "name": "content",
+            "value": "Aligning with AI ethics, new frameworks and tools like SynthID for watermarking AI-generated media have been introduced, aimed at ensuring responsible AI usage and enhancing transparency in generative AI technology."
+          }
+        ]
+      }
+    ],
+    "attributes": []
+  }
+}
