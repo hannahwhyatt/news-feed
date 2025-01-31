@@ -20,8 +20,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests feedparser
 
-      - name: Fetch and summarize news
-        run: python fetch_news.py
+      - name: Fetch news headlines
+        run: python src/fetch_news.py
+
+      - name: Summarise news headlines
+        env:
+          OPENAI_API_KEY: ${{ secrets.SECRET_GEN_AI_KEY }}
+        run: python src/summarise_headlines.py
 
       - name: Commit and push updated news
         run: |
