@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add data/news.json
+          git add data/summarised_news.json
           git commit -m "Update weekly news feed"
           git push
