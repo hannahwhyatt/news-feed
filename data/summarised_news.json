@@ -5,20 +5,20 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet Point",
+        "label": "",
         "children": [],
         "attributes": [
           {
-            "name": "content",
-            "value": "A new benchmark has been established for evaluating large language models (LLMs), focusing on their ability to provide accurate responses grounded in source material while minimizing hallucinations."
+            "name": "summary",
+            "value": "Google DeepMind has launched several advanced AI models, including Gemini 2.0 and updated versions of their Gemini models, aimed at enhancing AI capabilities in various domains such as multimodal learning and generative tasks."
           },
           {
-            "name": "content",
-            "value": "Google DeepMind has announced Gemini 2.0, an advanced multimodal AI model, alongside significant updates to video generation technologies with Veo 2 and Imagen 3, enhancing the creative capabilities of digital content creation."
+            "name": "summary",
+            "value": "A new benchmark for evaluating the factual accuracy of language models has been introduced, alongside state-of-the-art innovations in video and image generation techniques, highlighting a significant stride in the field of artificial intelligence."
           },
           {
-            "name": "content",
-            "value": "Aligning with AI ethics, new frameworks and tools like SynthID for watermarking AI-generated media have been introduced, aimed at ensuring responsible AI usage and enhancing transparency in generative AI technology."
+            "name": "summary",
+            "value": "Google DeepMind's recent research and innovations demonstrate its commitment to ethical AI development and collaboration across the scientific community, further reinforcing the importance of responsible advancements in AI for tackling global challenges."
           }
         ]
       }

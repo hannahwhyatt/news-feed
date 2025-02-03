@@ -700,6 +700,27 @@
         "source": "DeepMind"
     },
     {
+        "title": "DeepSeek might not be such good news for energy after all",
+        "link": "https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/",
+        "published": "Fri, 31 Jan 2025 21:13",
+        "summary": "In the week since a Chinese AI model called DeepSeek became a household name, a dizzying number of narratives have gained steam, with varying degrees of accuracy: that the model is collecting your personal data (maybe); that it will upend AI as we know it (too soon to tell\u2014but do read my colleague Will\u2019s story&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI releases its new o3-mini reasoning model for free",
+        "link": "https://www.technologyreview.com/2025/01/31/1110757/openai-makes-its-reasoning-model-for-free/",
+        "published": "Fri, 31 Jan 2025 19:00",
+        "summary": "On Thursday, Microsoft announced that it\u2019s rolling OpenAI&#8217;s reasoning model o1 out to its Copilot users, and now OpenAI is releasing a new reasoning model, o3-mini, to people who use the free version of ChatGPT. This will mark the first time that the vast majority of people will have access to one of OpenAI\u2019s reasoning&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How DeepSeek ripped up the AI playbook\u2014and why everyone\u2019s going to follow its lead",
+        "link": "https://www.technologyreview.com/2025/01/31/1110740/how-deepseek-ripped-up-the-ai-playbook-and-why-everyones-going-to-follow-it/",
+        "published": "Fri, 31 Jan 2025 16:28",
+        "summary": "Join us on Monday, February 3 as our editors discuss what DeepSeek\u2019s breakout success means for AI and the broader tech industry.\u00a0Register for this special subscriber-only session today. When the Chinese firm DeepSeek dropped a large language model called R1 last week, it sent shock waves through the US tech industry. Not only did R1&#8230;",
+        "source": "Technology Review"
+    },
+    {
         "title": "AI\u2019s energy obsession just got a reality check",
         "link": "https://www.technologyreview.com/2025/01/28/1110599/ais-energy-obsession-gets-a-reality-check/",
         "published": "Tue, 28 Jan 2025 10:00",
@@ -746,27 +767,6 @@
         "link": "https://www.technologyreview.com/2025/01/21/1110192/why-its-so-hard-to-use-ai-to-diagnose-cancer/",
         "published": "Tue, 21 Jan 2025 10:00",
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Peering into the body to find and diagnose cancer is all about spotting patterns. Radiologists use x-rays and magnetic resonance imaging to illuminate tumors, and pathologists examine tissue from kidneys, livers,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The second wave of AI coding is here",
-        "link": "https://www.technologyreview.com/2025/01/20/1110180/the-second-wave-of-ai-coding-is-here/",
-        "published": "Mon, 20 Jan 2025 11:52",
-        "summary": "Ask people building generative AI what generative AI is good for right now\u2014what they\u2019re really fired up about\u2014and many will tell you: coding.&#160; \u201cThat\u2019s something that\u2019s been very exciting for developers,\u201d Jared Kaplan, chief scientist at Anthropic, told MIT Technology Review this month: \u201cIt\u2019s really understanding what\u2019s wrong with code, debugging it.\u201d Copilot, a tool&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Meta\u2019s new AI model can translate speech from more than 100 languages",
-        "link": "https://www.technologyreview.com/2025/01/15/1109994/metas-new-ai-model-can-translate-speech-from-more-than-100-languages/",
-        "published": "Wed, 15 Jan 2025 16:00",
-        "summary": "Meta has released a new AI model that can translate speech from 101 different languages. It represents a step toward real-time, simultaneous interpretation, where words are translated as soon as they come out of someone\u2019s mouth.&#160; Typically, translation models for speech use a multistep approach. First they translate speech into text. Then they translate that&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Training robots in the AI-powered industrial metaverse",
-        "link": "https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/",
-        "published": "Tue, 14 Jan 2025 16:49",
-        "summary": "Imagine the bustling floors of tomorrow\u2019s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamlessly and safely alongside human counterparts. These robots can transition effortlessly between tasks\u2014from assembling intricate electronic components to handling complex machinery assembly. Each robot&#8217;s unique education enables it to predict maintenance needs, optimize energy consumption, and innovate&#8230;",
         "source": "Technology Review"
     }
 ]
