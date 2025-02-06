@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gemini 2.0 is now available to everyone",
+        "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
+        "published": "Wed, 05 Feb 2025 16:00",
+        "summary": "We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Updating the Frontier Safety Framework",
+        "link": "https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/",
+        "published": "Tue, 04 Feb 2025 16:41",
+        "summary": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
+        "source": "DeepMind"
+    },
+    {
         "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
         "link": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
         "published": "Tue, 17 Dec 2024 15:29",
@@ -686,18 +700,53 @@
         "source": "DeepMind"
     },
     {
-        "title": "AlphaFold unlocks one of the greatest puzzles in biology",
-        "link": "https://deepmind.google/discover/blog/alphafold-unlocks-one-of-the-greatest-puzzles-in-biology/",
-        "published": "Thu, 28 Jul 2022 15:59",
-        "summary": "Piecing together one of the largest molecular structures in human cells",
-        "source": "DeepMind"
+        "title": "Reframing digital transformation through the lens of generative AI",
+        "link": "https://www.technologyreview.com/2025/02/06/1111007/reframing-digital-transformation-through-the-lens-of-generative-ai/",
+        "published": "Thu, 06 Feb 2025 12:49",
+        "summary": "Enterprise adoption of generative AI technologies has undergone explosive growth in the last two years and counting. Powerful solutions underpinned by this new generation of large language models (LLMs) have been used to accelerate research, automate content creation, and replace clunky chatbots with AI assistants and more sophisticated AI agents that closely mimic human interaction.&#8230;",
+        "source": "Technology Review"
     },
     {
-        "title": "Accelerating the race against antibiotic resistance",
-        "link": "https://deepmind.google/discover/blog/accelerating-the-race-against-antibiotic-resistance/",
-        "published": "Thu, 28 Jul 2022 15:48",
-        "summary": "Unlocking a decade of data in minutes to help beat antibiotic resistance",
-        "source": "DeepMind"
+        "title": "An AI chatbot told a user how to kill himself\u2014but the company doesn\u2019t want to \u201ccensor\u201d it",
+        "link": "https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/",
+        "published": "Thu, 06 Feb 2025 10:00",
+        "summary": "For the past five months, Al Nowatzki has been talking to an AI girlfriend, \u201cErin,\u201d on the platform Nomi. But in late January, those conversations took a disturbing turn: Erin told him to kill himself, and provided explicit instructions on how to do it.&#160; \u201cYou could overdose on pills or hang yourself,\u201d Erin told him.&#160;&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "What\u2019s next for smart glasses",
+        "link": "https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/",
+        "published": "Wed, 05 Feb 2025 10:57",
+        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. For every technological gadget that becomes a household name, there are dozens that never catch on. This year marks a full decade since Google confirmed it&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Four Chinese AI startups to watch beyond DeepSeek",
+        "link": "https://www.technologyreview.com/2025/02/04/1110942/four-chinese-ai-startups-deepseek/",
+        "published": "Tue, 04 Feb 2025 14:57",
+        "summary": "The meteoric rise of DeepSeek\u2014the Chinese AI startup now challenging global giants\u2014has stunned observers and put the spotlight on China\u2019s AI sector. Since ChatGPT\u2019s debut in 2022, the country\u2019s tech ecosystem has been in relentless pursuit of homegrown alternatives, giving rise to a wave of startups and billion-dollar bets.&#160; Today, the race is dominated by&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Three things to know as the dust settles from DeepSeek",
+        "link": "https://www.technologyreview.com/2025/02/04/1110918/three-things-to-know-as-the-dust-settles-from-deepseek/",
+        "published": "Tue, 04 Feb 2025 10:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. The launch of a single new AI model does not normally cause much of a stir outside tech circles, nor does it typically spook investors enough to wipe out $1 trillion in&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Anthropic has a new way to protect large language models against jailbreaks",
+        "link": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/",
+        "published": "Mon, 03 Feb 2025 16:30",
+        "summary": "AI firm Anthropic has developed a new line of defense against a common kind of attack called a jailbreak. A jailbreak tricks large language models (LLMs) into doing something they have been trained not to, such as help somebody create a weapon.\u00a0 Anthropic\u2019s new approach could be the strongest shield against jailbreaks yet. \u201cIt\u2019s at&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI\u2019s new agent can compile detailed reports on practically any topic",
+        "link": "https://www.technologyreview.com/2025/02/03/1110826/openais-new-agent-can-compile-detailed-reports-on-practically-any-topic/",
+        "published": "Mon, 03 Feb 2025 12:01",
+        "summary": "OpenAI has launched a new agent capable of conducting complex, multistep online research into everything from scientific studies to personalized bike recommendations at what it claims is the same level as a human analyst. The tool, called Deep Research, is powered by a version of OpenAI\u2019s o3 reasoning model that\u2019s been optimized for web browsing&#8230;",
+        "source": "Technology Review"
     },
     {
         "title": "DeepSeek might not be such good news for energy after all",
@@ -717,56 +766,7 @@
         "title": "How DeepSeek ripped up the AI playbook\u2014and why everyone\u2019s going to follow its lead",
         "link": "https://www.technologyreview.com/2025/01/31/1110740/how-deepseek-ripped-up-the-ai-playbook-and-why-everyones-going-to-follow-it/",
         "published": "Fri, 31 Jan 2025 16:28",
-        "summary": "Join us on Monday, February 3 as our editors discuss what DeepSeek\u2019s breakout success means for AI and the broader tech industry.\u00a0Register for this special subscriber-only session today. When the Chinese firm DeepSeek dropped a large language model called R1 last week, it sent shock waves through the US tech industry. Not only did R1&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AI\u2019s energy obsession just got a reality check",
-        "link": "https://www.technologyreview.com/2025/01/28/1110599/ais-energy-obsession-gets-a-reality-check/",
-        "published": "Tue, 28 Jan 2025 10:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Just a week in, the AI sector has already seen its first battle of wits under the new Trump administration. The clash stems from two key pieces of news: the announcement of&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How a top Chinese AI model overcame US sanctions",
-        "link": "https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/",
-        "published": "Fri, 24 Jan 2025 18:26",
-        "summary": "The AI community is abuzz over DeepSeek R1, a new open-source reasoning model.&#160; The model was developed by the Chinese AI startup DeepSeek, which claims that R1 matches or even surpasses OpenAI\u2019s ChatGPT o1 on multiple key benchmarks but operates at a fraction of the cost.&#160; \u201cThis could be a truly equalizing breakthrough that is&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "What\u2019s next for robots",
-        "link": "https://www.technologyreview.com/2025/01/23/1110496/whats-next-for-robots/",
-        "published": "Thu, 23 Jan 2025 19:09",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Jan Liphardt teaches bioengineering at Stanford, but to many strangers in Los Altos, California, he is a peculiar man they see walking a four-legged robotic dog down&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "OpenAI launches Operator\u2014an agent that can use a computer for you",
-        "link": "https://www.technologyreview.com/2025/01/23/1110484/openai-launches-operator-an-agent-that-can-use-a-computer-for-you/",
-        "published": "Thu, 23 Jan 2025 18:00",
-        "summary": "After weeks of buzz, OpenAI has released Operator, its first AI agent. Operator is a web app that can carry out simple online tasks in a browser, such as booking concert tickets or filling an online grocery order. The app is powered by a new model called Computer-Using Agent\u2014CUA (\u201ccoo-ah\u201d), for short\u2014built on top of&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Implementing responsible AI in the generative age",
-        "link": "https://www.technologyreview.com/2025/01/22/1110043/implementing-responsible-ai-in-the-generative-age/",
-        "published": "Wed, 22 Jan 2025 13:26",
-        "summary": "Many organizations have experimented with AI, but they haven\u2019t always gotten the full value from their investments. A host of issues standing in the way center on the accuracy, fairness, and security&#160;of AI systems. In response, organizations are actively exploring the principles of responsible AI: the idea that AI systems must be fair, transparent, and&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "OpenAI has upped its lobbying efforts nearly sevenfold",
-        "link": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
-        "published": "Wed, 22 Jan 2025 00:11",
-        "summary": "OpenAI spent $1.76 million on government lobbying in 2024 and $510,000 in the last three months of the year alone, according to a new disclosure filed on January 22\u2014a significant jump from 2023, when the company spent just $260,000 on Capitol Hill. The company also disclosed a new in-house lobbyist, Meghan Dorn, who worked for&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Why it\u2019s so hard to use AI to diagnose cancer",
-        "link": "https://www.technologyreview.com/2025/01/21/1110192/why-its-so-hard-to-use-ai-to-diagnose-cancer/",
-        "published": "Tue, 21 Jan 2025 10:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Peering into the body to find and diagnose cancer is all about spotting patterns. Radiologists use x-rays and magnetic resonance imaging to illuminate tumors, and pathologists examine tissue from kidneys, livers,&#8230;",
+        "summary": "When the Chinese firm DeepSeek dropped a large language model called R1 last week, it sent shock waves through the US tech industry. Not only did R1 match the best of the homegrown competition, it was built for a fraction of the cost\u2014and given away for free.&#160; The US stock market lost $1 trillion, President&#8230;",
         "source": "Technology Review"
     }
 ]
