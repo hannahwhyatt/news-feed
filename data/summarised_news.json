@@ -5,45 +5,24 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet Point 1",
+        "label": "Bullet point 1",
         "children": [],
         "attributes": [
           {
             "name": "summary",
-            "value": "Chinese electric vehicle companies are increasingly pivoting towards humanoid robots, showcasing 16 of them at the highly viewed 2025 CCTV New Year Gala."
-          }
-        ]
-      },
-      {
-        "type": "div",
-        "label": "Bullet Point 2",
-        "children": [],
-        "attributes": [
+            "value": "China's electric vehicle manufacturers are increasingly diversifying into the humanoid robot sector, showcasing their creations at major public events."
+          },
           {
             "name": "summary",
-            "value": "Sougwen Chung, a Canadian-Chinese artist, collaborates with AI to leverage its capabilities rather than viewing it as a threat to artistic authenticity."
-          }
-        ]
-      },
-      {
-        "type": "div",
-        "label": "Bullet Point 3",
-        "children": [],
-        "attributes": [
+            "value": "Artist Sougwen Chung embraces AI as a collaborative tool in creative processes, pushing back against concerns about AI's impact on art."
+          },
           {
             "name": "summary",
-            "value": "Researchers have developed an AI model that can predict and generate protein localization, which could have significant implications for disease understanding and treatments."
-          }
-        ]
-      },
-      {
-        "type": "div",
-        "label": "Bullet Point 4",
-        "children": [],
-        "attributes": [
+            "value": "Recent advancements in AI have led to the development of a model predicting protein localization, potentially aiding disease treatment and understanding."
+          },
           {
             "name": "summary",
-            "value": "A new innovative entertainment revolution is underway, driven by emerging technologies like AI, which is reshaping content creation and consumption."
+            "value": "The introduction of Gemini 2.0 highlights significant progress in large multimodal AI models, expanding capabilities in content generation and interaction."
           }
         ]
       }
