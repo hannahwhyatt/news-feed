@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Researchers at the Whitehead Institute and CSAIL have developed a machine-learning model that accurately predicts and generates the localization of proteins, which could significantly advance our understanding of disease mechanisms."
+            "value": "Researchers at the Whitehead Institute and CSAIL have developed a machine learning model that accurately predicts protein localization, which has significant implications for understanding and treating diseases."
           },
           {
             "name": "summary",
-            "value": "Chinese electric vehicle manufacturers are now venturing into humanoid robotics, showcasing their robots on national television in a dramatic fashion, highlighting a shift in focus towards integrating AI in everyday products."
+            "value": "China's electric vehicle manufacturers are venturing into humanoid robotics, highlighted by a spectacle at the CCTV New Year Gala featuring 16 humanoid robots, showcasing their investment in advanced robotics technology."
           },
           {
             "name": "summary",
-            "value": "A new research paper emphasizes the importance of reasoning models in AI, suggesting that their potential to generalize capabilities might be greater than anticipated, and calls attention to the significance of this development in AI training."
+            "value": "The AI landscape is rapidly evolving, with the introduction of Gemini 2.0, a highly advanced multimodal AI model designed for enhanced performance, and state-of-the-art video generation technologies being rolled out."
           },
           {
             "name": "summary",
-            "value": "The latest version of Gemini 2.0 has been launched, introducing enhancements to AI modeling that aim to further push the boundaries of multimodal AI applications."
+            "value": "A new benchmark for evaluating the factual accuracy of large language models (LLMs) has been established, addressing the need for better measures to combat misinformation and improve the reliability of AI-generated content."
           }
         ]
       }

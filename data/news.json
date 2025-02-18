@@ -35,6 +35,13 @@
         "source": "Interconnects"
     },
     {
+        "title": "The EU AI Act is Coming to America",
+        "link": "https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america",
+        "published": "Thu, 13 Feb 2025 13:01",
+        "summary": "The AI regulation onslaught",
+        "source": "Hyperdimensional"
+    },
+    {
         "title": "Designing the future of entertainment",
         "link": "https://www.technologyreview.com/2025/02/13/1110420/designing-the-future-of-entertainment/",
         "published": "Thu, 13 Feb 2025 12:30",
@@ -84,6 +91,13 @@
         "source": "MIT News"
     },
     {
+        "title": "Knowledge Navigator",
+        "link": "https://www.hyperdimensional.co/p/knowledge-navigator",
+        "published": "Thu, 06 Feb 2025 13:40",
+        "summary": "Early thoughts on OpenAI Deep Research",
+        "source": "Hyperdimensional"
+    },
+    {
         "title": "Gemini 2.0 is now available to everyone",
         "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
         "published": "Wed, 05 Feb 2025 16:00",
@@ -112,6 +126,13 @@
         "source": "DeepMind"
     },
     {
+        "title": "Novus Ordo Seclorum",
+        "link": "https://www.hyperdimensional.co/p/novus-ordo-seclorum",
+        "published": "Thu, 30 Jan 2025 13:31",
+        "summary": "Reflections on DeepSeek",
+        "source": "Hyperdimensional"
+    },
+    {
         "title": "Why reasoning models will generalize",
         "link": "https://www.interconnects.ai/p/why-reasoning-models-will-generalize",
         "published": "Tue, 28 Jan 2025 21:00",
@@ -119,11 +140,25 @@
         "source": "Interconnects"
     },
     {
+        "title": "On Private Governance",
+        "link": "https://www.hyperdimensional.co/p/on-private-governance",
+        "published": "Mon, 27 Jan 2025 13:31",
+        "summary": "Forging a new path",
+        "source": "Hyperdimensional"
+    },
+    {
         "title": "The latest open artifacts (#6): Reasoning models, China's lead in open-source, and a growing multimodal space",
         "link": "https://www.interconnects.ai/p/open-artifacts-in-january-6-reasoning",
         "published": "Mon, 27 Jan 2025 13:03",
         "summary": "Artifacts Log 6. The open LM ecosystem yet again accelerates.",
         "source": "Interconnects"
+    },
+    {
+        "title": "Open-Source AI and the Future",
+        "link": "https://www.hyperdimensional.co/p/invitations",
+        "published": "Thu, 23 Jan 2025 13:45",
+        "summary": "Modest visions of an open-source AI future",
+        "source": "Hyperdimensional"
     },
     {
         "title": "Noteworthy AI Research Papers of 2024 (Part Two)",
