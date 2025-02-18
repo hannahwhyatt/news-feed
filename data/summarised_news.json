@@ -1,151 +1,51 @@
 {
   "ui": {
     "type": "div",
-    "label": "Summarised News",
+    "label": "News Summary",
     "children": [
       {
         "type": "div",
-        "label": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. While DOGE\u2019s efforts to shutter federal agencies dominate news...",
+        "label": "Bullet Point 1",
         "children": [],
-        "attributes": []
+        "attributes": [
+          {
+            "name": "summary",
+            "value": "Chinese electric vehicle companies are increasingly pivoting towards humanoid robots, showcasing 16 of them at the highly viewed 2025 CCTV New Year Gala."
+          }
+        ]
       },
       {
         "type": "div",
-        "label": "This artist collaborates with AI and robots: Many artists worry about the encroachment of artificial intelligence on artistic creation. But Sougwen Chung, a nonbinary Canadian-Chinese artist, instead sees AI as an opportunity for artists to embrace...",
+        "label": "Bullet Point 2",
         "children": [],
-        "attributes": []
+        "attributes": [
+          {
+            "name": "summary",
+            "value": "Sougwen Chung, a Canadian-Chinese artist, collaborates with AI to leverage its capabilities rather than viewing it as a threat to artistic authenticity."
+          }
+        ]
       },
       {
         "type": "div",
-        "label": "China\u2019s EV giants are betting big on humanoid robots: At the 2025 CCTV New Year Gala last month, a televised spectacle watched by over a billion viewers in China, 16 humanoid robots took the stage. Clad in vibrant floral print jackets, they took part in ...",
+        "label": "Bullet Point 3",
         "children": [],
-        "attributes": []
+        "attributes": [
+          {
+            "name": "summary",
+            "value": "Researchers have developed an AI model that can predict and generate protein localization, which could have significant implications for disease understanding and treatments."
+          }
+        ]
       },
       {
         "type": "div",
-        "label": "AI model deciphers the code in proteins that tells them where to go: Whitehead Institute and CSAIL researchers created a machine-learning model to predict and generate protein localization, with implications for understanding and remedying disease.",
+        "label": "Bullet Point 4",
         "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "An unexpected RL Renaissance: New talk! Forecasting the Alpaca moment for reasoning models and why the new style of RL training is a far bigger deal than the emergence of RLHF.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Designing the future of entertainment: An entertainment revolution, powered by AI and other emerging technologies, is fundamentally changing how content is created and consumed today. Media and entertainment (M&#38;E) brands are faced with...",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "The AI relationship revolution is already here: AI is everywhere, and it\u2019s starting to alter our relationships in new and unexpected ways\u2014relationships with our spouses, kids, colleagues, friends, and even ourselves. Although the technology remains...",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Deep Research, information vs. insight, and the nature of science: What AI will accelerate in the scientific process, what it cannot do, and how we can prepare for new manners of scientific investigation.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Gift from Sebastian Man \u201979, SM \u201980 supports MIT Stephen A. Schwarzman College of Computing building: Alumnus is the first major donor to support the building since Stephen A. Schwarzman\u2019s foundational gift.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Bridging philosophy and AI to explore computing ethics: In a new MIT course co-taught by EECS and philosophy professors, students tackle moral dilemmas of the digital age.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Puzzling out climate change: Accenture Fellow Shreyaa Raghavan applies machine learning and optimization methods to explore ways to reduce transportation sector emissions.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Can deep learning transform heart failure prevention?: A deep neural network called CHAIS may soon replace invasive procedures like catheterization as the new gold standard for monitoring heart health.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Gemini 2.0 is now available to everyone: We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Making the U.S. the home for open-source AI: Open-source AI is here to stay, but it is not a given that it will be American.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Understanding Reasoning LLMs: Methods and Strategies for Building and Refining Reasoning Models",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Updating the Frontier Safety Framework: Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Why reasoning models will generalize: People underestimate the long-term potential of \u201creasoning.\u201d",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "The latest open artifacts (#6): Reasoning models, China's lead in open-source, and a growing multimodal space: Artifacts Log 6. The open LM ecosystem yet again accelerates.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Noteworthy AI Research Papers of 2024 (Part Two): Six influential AI papers from July to December",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Noteworthy AI Research Papers of 2024 (Part One): Six influential AI papers from January to June",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models: Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "State-of-the-art video and image generation with Veo 2 and Imagen 3: We\u2019re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "Introducing Gemini 2.0: our new AI model for the agentic era: Today, we\u2019re announcing Gemini 2.0, our most capable multimodal AI model yet.",
-        "children": [],
-        "attributes": []
-      },
-      {
-        "type": "div",
-        "label": "LLM Research Papers: The 2024 List: Understanding Multimodal LLMs: An introduction to the main techniques and latest models",
-        "children": [],
-        "attributes": []
+        "attributes": [
+          {
+            "name": "summary",
+            "value": "A new innovative entertainment revolution is underway, driven by emerging technologies like AI, which is reshaping content creation and consumption."
+          }
+        ]
       }
     ],
     "attributes": []
