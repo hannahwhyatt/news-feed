@@ -36,7 +36,7 @@ def summarise_news(news):
             {"role": "system", "content": "You are a news summariser."},
             {
                 "role": "user",
-                "content": "Summarise the following news headlines into 3 bullet points. The bullet points should be sentences that comprehensively explain the news. Return ONLY the bullet points as a list, no headers." +
+                "content": "Summarise the following news headlines into 5 bullet points. The bullet points should be sentences that comprehensively explain the news. Return ONLY the bullet points as a list, no headers." +
                            '\n'.join([article['title'] + ": " + article['summary'] for article in news])
             }
         ],
