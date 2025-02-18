@@ -84,6 +84,13 @@
         "source": "MIT News"
     },
     {
+        "title": "Gemini 2.0 is now available to everyone",
+        "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
+        "published": "Wed, 05 Feb 2025 16:00",
+        "summary": "We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
+        "source": "DeepMind"
+    },
+    {
         "title": "Making the U.S. the home for open-source AI",
         "link": "https://www.interconnects.ai/p/making-the-us-the-home-for-open-source",
         "published": "Wed, 05 Feb 2025 13:03",
@@ -96,6 +103,13 @@
         "published": "Wed, 05 Feb 2025 12:11",
         "summary": "Methods and Strategies for Building and Refining Reasoning Models",
         "source": "Ahead of AI"
+    },
+    {
+        "title": "Updating the Frontier Safety Framework",
+        "link": "https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/",
+        "published": "Tue, 04 Feb 2025 16:41",
+        "summary": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
+        "source": "DeepMind"
     },
     {
         "title": "Why reasoning models will generalize",
@@ -124,6 +138,27 @@
         "published": "Tue, 31 Dec 2024 12:21",
         "summary": "Six influential AI papers from January to June",
         "source": "Ahead of AI"
+    },
+    {
+        "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
+        "link": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
+        "published": "Tue, 17 Dec 2024 15:29",
+        "summary": "Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
+        "source": "DeepMind"
+    },
+    {
+        "title": "State-of-the-art video and image generation with Veo 2 and Imagen 3",
+        "link": "https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/",
+        "published": "Mon, 16 Dec 2024 17:01",
+        "summary": "We\u2019re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
+        "link": "https://deepmind.google/discover/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
+        "published": "Wed, 11 Dec 2024 15:30",
+        "summary": "Today, we\u2019re announcing Gemini 2.0, our most capable multimodal AI model yet.",
+        "source": "DeepMind"
     },
     {
         "title": "LLM Research Papers: The 2024 List",
