@@ -5,22 +5,129 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Feed</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; }
-        .article { border-bottom: 1px solid #ddd; padding: 10px 0; }
-        .article a { text-decoration: none; color: blue; }
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+            max-width: 90%;
+            margin: 0 auto;
+            background-color: #1a1a1a;
+        }
+        .header-container {
+            max-width: 90%;
+            margin: 0 auto;
+            width: 100%;
+            padding-bottom: 20px;
+        }
+        .main-content {
+            flex: 2;
+            min-width: 0;
+            padding-right: 20px;
+        }
+        .twitter-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .twitter-sidebar {
+            /* width: 400px;
+            height: 400px; */
+            overflow-y: auto;
+        }
+        .article { 
+            border-bottom: 1px solid #444; 
+            padding: 10px 0; 
+        }
+        .article a { 
+            text-decoration: none; 
+            color: #66b3ff; 
+        }
         .article-header { display: flex; justify-content: space-between; align-items: center; }
-        .source-label { color: #666; font-size: 0.9em; }
+        .source-label { 
+            color: #999; 
+            font-size: 0.9em; 
+        }
+        .summary-section {
+            background-color: #2d2d2d;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        .summary-section h2 {
+            margin-top: 0;
+            color: #e0e0e0;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        .summary-section ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        .summary-section li {
+            margin-bottom: 8px;
+        }
     </style>
 </head>
 <body>
-    <h1>Weekly News Feed</h1>
-    <div id="news-feed">Loading...</div>
+    <div class="header-container">
+        <h1>Data Science Feed</h1>
+        <p id="last-updated"></p>
+    </div>
+    <div class="container">
+        <div class="main-content">
+            <div id="news-feed">Loading...</div>
+        </div>
+        <div class="twitter-container">
+            <div class="twitter-sidebar">
+                <a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/sama?ref_src=twsrc%5Etfw">Tweets by sama</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <div class="twitter-sidebar">
+                <a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/AIatMeta?ref_src=twsrc%5Etfw">Tweets by AIatMeta</a> 
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </div>
 
     <script>
         async function loadNews() {
             try {
                 const response = await fetch("./data/news.json");
                 const articles = await response.json();
+
+                // Helper function to add ordinal suffix
+                function getOrdinalSuffix(day) {
+                    if (day > 3 && day < 21) return 'th';
+                    switch (day % 10) {
+                        case 1: return 'st';
+                        case 2: return 'nd';
+                        case 3: return 'rd';
+                        default: return 'th';
+                    }
+                }
+
+                // Update the last-updated element with formatted date
+                const now = new Date();
+                const day = now.getDate();
+                const suffix = getOrdinalSuffix(day);
+                document.getElementById("last-updated").textContent = 
+                    `Last updated: ${now.toLocaleDateString('en-US', { 
+                        weekday: 'long',
+                        day: 'numeric',
+                        month: 'long',
+                        year: 'numeric'
+                    })}`.replace(/\d+/, day + suffix);
 
                 const summarised_news = await fetch("./data/summarised_news.json");
                 const summarisedData = await summarised_news.json();
@@ -33,7 +140,7 @@
                 const container = document.getElementById("news-feed");
                 container.innerHTML = `
                     <div class="summary-section">
-                        <h2>${summarisedData.ui.label}</h2>
+                        <h2>Summary</h2>
                         <ul>${bulletPoints}</ul>
                     </div>
                     ${articles.map(article => `
@@ -53,5 +160,6 @@
         }
         loadNews();
     </script>
+
 </body>
 </html>
