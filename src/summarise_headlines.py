@@ -43,7 +43,7 @@ def summarise_news(news):
             {"role": "system", "content": "You are a news summariser."},
             {
                 "role": "user",
-                "content": """Summarise the following news headlines into 4 bullet points. The bullet points should be sentences that comprehensively explain the news. Pay most attention to news directly related to data science and artificial intelligence. Return ONLY the bullet points as a list, following the format {
+                "content": """Summarise the following news headlines into 4 bullet points. The bullet points should be sentences that comprehensively explain the news. Return ONLY the bullet points as a list, following the format {
   "ui": {
     "type": "div",
     "label": "News Summary",
