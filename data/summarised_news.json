@@ -10,27 +10,21 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Researchers from the Whitehead Institute and CSAIL have developed an AI model that predicts protein localization, advancing our understanding of cellular functions and potential disease treatments."
+            "value": "Researchers at the Whitehead Institute and CSAIL have developed a machine-learning model that can predict and generate protein localization, which could have significant implications for disease understanding and treatment."
           },
           {
             "name": "summary",
-            "value": "In a trend merging electric vehicles with robotics, Chinese EV manufacturers showcased humanoid robots during the popular CCTV New Year Gala, signaling a shift toward integrating AI in everyday technology."
+            "value": "The emergence of new reinforcement learning techniques is reshaping perspectives on reasoning models, with discussions around the recent rise of RL training methods gaining traction in the AI community."
           },
           {
             "name": "summary",
-            "value": "Emerging AI technologies are revolutionizing the media and entertainment industry, changing how content is created and consumed, and presenting new opportunities and challenges for M&E brands."
+            "value": "The European Union's forthcoming AI regulations are anticipated to impact the American landscape as well, leading to an era of intensified scrutiny and governance of artificial intelligence applications."
           },
           {
             "name": "summary",
-            "value": "There is a growing focus on ethical considerations in AI, illustrated by a new MIT course that explores the moral dilemmas posed by advancements in technology and their societal implications."
+            "value": "A deep neural network, known as CHAIS, is being developed as a non-invasive alternative for heart failure monitoring, potentially revolutionizing patient care by replacing traditional, more invasive methods."
           }
         ]
-      },
-      {
-        "type": "div",
-        "label": "Bullet point 2",
-        "children": [],
-        "attributes": []
       }
     ],
     "attributes": []

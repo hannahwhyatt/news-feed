@@ -28,13 +28,6 @@
         "source": "MIT News"
     },
     {
-        "title": "So you want to buy your first AI product",
-        "link": "https://frontierai.substack.com/p/so-you-want-to-buy-your-first-ai",
-        "published": "Thu, 13 Feb 2025 18:35",
-        "summary": "A totally unbiased guide to evaluating AI applications",
-        "source": "The AI Frontier"
-    },
-    {
         "title": "An unexpected RL Renaissance",
         "link": "https://www.interconnects.ai/p/an-unexpected-rl-renaissance",
         "published": "Thu, 13 Feb 2025 15:34",
@@ -98,18 +91,18 @@
         "source": "MIT News"
     },
     {
-        "title": "DeepSeek, o3, and AI applications",
-        "link": "https://frontierai.substack.com/p/deepseek-o3-and-ai-applications",
-        "published": "Thu, 06 Feb 2025 18:30",
-        "summary": "R1 is good, but the world hasn't ended",
-        "source": "The AI Frontier"
-    },
-    {
         "title": "Knowledge Navigator",
         "link": "https://www.hyperdimensional.co/p/knowledge-navigator",
         "published": "Thu, 06 Feb 2025 13:40",
         "summary": "Early thoughts on OpenAI Deep Research",
         "source": "Hyperdimensional"
+    },
+    {
+        "title": "Gemini 2.0 is now available to everyone",
+        "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
+        "published": "Wed, 05 Feb 2025 16:00",
+        "summary": "We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
+        "source": "DeepMind"
     },
     {
         "title": "Making the U.S. the home for open-source AI",
@@ -124,5 +117,12 @@
         "published": "Wed, 05 Feb 2025 12:11",
         "summary": "Methods and Strategies for Building and Refining Reasoning Models",
         "source": "Ahead of AI"
+    },
+    {
+        "title": "Updating the Frontier Safety Framework",
+        "link": "https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/",
+        "published": "Tue, 04 Feb 2025 16:41",
+        "summary": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
+        "source": "DeepMind"
     }
 ]
