@@ -8,14 +8,14 @@ RSS_FEEDS = {
     "DeepMind": "https://www.deepmind.com/blog/feed/basic",
     "Technology Review": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "Berkeley AI Research": "https://bair.berkeley.edu/blog/feed",
-    # "OpenAI": "https://jamesg.blog/openai.xml",
     "MIT News": "http://news.mit.edu/rss/topic/artificial-intelligence2",
 }
 
 request_urls = {
     "Ahead of AI": "https://magazine.sebastianraschka.com/api/v1/archive?sort=new&search=&limit=12",
-    "Interconnects": "https://www.interconnects.ai/api/v1/archive?sort=new&search=&limit=12"
-    
+    "Interconnects": "https://www.interconnects.ai/api/v1/archive?sort=new&search=&limit=12",
+    "Hyperdimensional": "https://www.hyperdimensional.co/api/v1/archive?sort=new&search=&limit=12",
+    "The AI Frontier": "https://frontierai.substack.com/api/v1/archive?sort=new&search=&limit=12""
 }
 
 
