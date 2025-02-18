@@ -10,21 +10,27 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Researchers at the Whitehead Institute and CSAIL have developed a machine learning model that accurately predicts protein localization, which has significant implications for understanding and treating diseases."
+            "value": "Researchers from the Whitehead Institute and CSAIL have developed an AI model that predicts protein localization, advancing our understanding of cellular functions and potential disease treatments."
           },
           {
             "name": "summary",
-            "value": "China's electric vehicle manufacturers are venturing into humanoid robotics, highlighted by a spectacle at the CCTV New Year Gala featuring 16 humanoid robots, showcasing their investment in advanced robotics technology."
+            "value": "In a trend merging electric vehicles with robotics, Chinese EV manufacturers showcased humanoid robots during the popular CCTV New Year Gala, signaling a shift toward integrating AI in everyday technology."
           },
           {
             "name": "summary",
-            "value": "The AI landscape is rapidly evolving, with the introduction of Gemini 2.0, a highly advanced multimodal AI model designed for enhanced performance, and state-of-the-art video generation technologies being rolled out."
+            "value": "Emerging AI technologies are revolutionizing the media and entertainment industry, changing how content is created and consumed, and presenting new opportunities and challenges for M&E brands."
           },
           {
             "name": "summary",
-            "value": "A new benchmark for evaluating the factual accuracy of large language models (LLMs) has been established, addressing the need for better measures to combat misinformation and improve the reliability of AI-generated content."
+            "value": "There is a growing focus on ethical considerations in AI, illustrated by a new MIT course that explores the moral dilemmas posed by advancements in technology and their societal implications."
           }
         ]
+      },
+      {
+        "type": "div",
+        "label": "Bullet point 2",
+        "children": [],
+        "attributes": []
       }
     ],
     "attributes": []

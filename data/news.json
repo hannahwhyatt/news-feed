@@ -28,6 +28,13 @@
         "source": "MIT News"
     },
     {
+        "title": "So you want to buy your first AI product",
+        "link": "https://frontierai.substack.com/p/so-you-want-to-buy-your-first-ai",
+        "published": "Thu, 13 Feb 2025 18:35",
+        "summary": "A totally unbiased guide to evaluating AI applications",
+        "source": "The AI Frontier"
+    },
+    {
         "title": "An unexpected RL Renaissance",
         "link": "https://www.interconnects.ai/p/an-unexpected-rl-renaissance",
         "published": "Thu, 13 Feb 2025 15:34",
@@ -91,18 +98,18 @@
         "source": "MIT News"
     },
     {
+        "title": "DeepSeek, o3, and AI applications",
+        "link": "https://frontierai.substack.com/p/deepseek-o3-and-ai-applications",
+        "published": "Thu, 06 Feb 2025 18:30",
+        "summary": "R1 is good, but the world hasn't ended",
+        "source": "The AI Frontier"
+    },
+    {
         "title": "Knowledge Navigator",
         "link": "https://www.hyperdimensional.co/p/knowledge-navigator",
         "published": "Thu, 06 Feb 2025 13:40",
         "summary": "Early thoughts on OpenAI Deep Research",
         "source": "Hyperdimensional"
-    },
-    {
-        "title": "Gemini 2.0 is now available to everyone",
-        "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
-        "published": "Wed, 05 Feb 2025 16:00",
-        "summary": "We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
-        "source": "DeepMind"
     },
     {
         "title": "Making the U.S. the home for open-source AI",
@@ -116,97 +123,6 @@
         "link": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
         "published": "Wed, 05 Feb 2025 12:11",
         "summary": "Methods and Strategies for Building and Refining Reasoning Models",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Updating the Frontier Safety Framework",
-        "link": "https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/",
-        "published": "Tue, 04 Feb 2025 16:41",
-        "summary": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Novus Ordo Seclorum",
-        "link": "https://www.hyperdimensional.co/p/novus-ordo-seclorum",
-        "published": "Thu, 30 Jan 2025 13:31",
-        "summary": "Reflections on DeepSeek",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Why reasoning models will generalize",
-        "link": "https://www.interconnects.ai/p/why-reasoning-models-will-generalize",
-        "published": "Tue, 28 Jan 2025 21:00",
-        "summary": "People underestimate the long-term potential of \u201creasoning.\u201d",
-        "source": "Interconnects"
-    },
-    {
-        "title": "On Private Governance",
-        "link": "https://www.hyperdimensional.co/p/on-private-governance",
-        "published": "Mon, 27 Jan 2025 13:31",
-        "summary": "Forging a new path",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "The latest open artifacts (#6): Reasoning models, China's lead in open-source, and a growing multimodal space",
-        "link": "https://www.interconnects.ai/p/open-artifacts-in-january-6-reasoning",
-        "published": "Mon, 27 Jan 2025 13:03",
-        "summary": "Artifacts Log 6. The open LM ecosystem yet again accelerates.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Open-Source AI and the Future",
-        "link": "https://www.hyperdimensional.co/p/invitations",
-        "published": "Thu, 23 Jan 2025 13:45",
-        "summary": "Modest visions of an open-source AI future",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Noteworthy AI Research Papers of 2024 (Part Two)",
-        "link": "https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2",
-        "published": "Wed, 15 Jan 2025 12:11",
-        "summary": "Six influential AI papers from July to December",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Noteworthy AI Research Papers of 2024 (Part One)",
-        "link": "https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-1",
-        "published": "Tue, 31 Dec 2024 12:21",
-        "summary": "Six influential AI papers from January to June",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
-        "link": "https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
-        "published": "Tue, 17 Dec 2024 15:29",
-        "summary": "Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
-        "source": "DeepMind"
-    },
-    {
-        "title": "State-of-the-art video and image generation with Veo 2 and Imagen 3",
-        "link": "https://deepmind.google/discover/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/",
-        "published": "Mon, 16 Dec 2024 17:01",
-        "summary": "We\u2019re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Introducing Gemini 2.0: our new AI model for the agentic era",
-        "link": "https://deepmind.google/discover/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/",
-        "published": "Wed, 11 Dec 2024 15:30",
-        "summary": "Today, we\u2019re announcing Gemini 2.0, our most capable multimodal AI model yet.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "LLM Research Papers: The 2024 List",
-        "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list",
-        "published": "Sun, 08 Dec 2024 12:11",
-        "summary": "",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Understanding Multimodal LLMs",
-        "link": "https://magazine.sebastianraschka.com/p/understanding-multimodal-llms",
-        "published": "Sun, 03 Nov 2024 12:44",
-        "summary": "An introduction to the main techniques and latest models",
         "source": "Ahead of AI"
     }
 ]

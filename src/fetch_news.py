@@ -31,7 +31,7 @@ def clean_date(date_str):
 def fetch_news(feed_url, name, max_articles=5):
     articles = []
     feed = feedparser.parse(feed_url)
-    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=14)
+    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=2)
     
     for entry in feed.entries:
         try:
@@ -59,23 +59,27 @@ def fetch_news(feed_url, name, max_articles=5):
 
 def fetch_request_url(url, name, max_articles=5):
     articles = []
+    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=2)
+    print(start_date)
     response = requests.get(url)
+
     if response.status_code == 200:
         data = response.json()
         for entry in data:
             # Convert the post_date to UTC datetime
             post_date = datetime.datetime.fromisoformat(entry['post_date'].replace('Z', '+00:00'))
             post_date = post_date.astimezone(datetime.timezone.utc)
-            formatted_date = post_date.strftime("%a, %d %b %Y %H:%M")
-            
-            articles.append({
-                "title": entry['title'],
-                "link": entry['canonical_url'],
-                "published": formatted_date,
-                "numerical_date": post_date.isoformat(),  # Store as ISO format string
-                "summary": entry.get('subtitle', ''),
-                "source": name,
-            })
+            if post_date >= start_date:
+                formatted_date = post_date.strftime("%a, %d %b %Y %H:%M")
+                
+                articles.append({
+                    "title": entry['title'],
+                    "link": entry['canonical_url'],
+                    "published": formatted_date,
+                    "numerical_date": post_date.isoformat(),  # Store as ISO format string
+                    "summary": entry.get('subtitle', ''),
+                    "source": name,
+                    })
     
     number_of_articles = len(articles)
     print(f"Found {number_of_articles} articles from {name}. Saving {max_articles if number_of_articles > max_articles else number_of_articles} articles.")

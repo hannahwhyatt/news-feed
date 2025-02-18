@@ -117,17 +117,24 @@
                     }
                 }
 
-                // Update the last-updated element with formatted date
+                // Update the last-updated element with formatted date range
                 const now = new Date();
-                const day = now.getDate();
-                const suffix = getOrdinalSuffix(day);
-                document.getElementById("last-updated").textContent = 
-                    `Last updated: ${now.toLocaleDateString('en-US', { 
+                const twoWeeksAgo = new Date(now);
+                twoWeeksAgo.setDate(now.getDate() - 13);
+                
+                const formatDate = (date) => {
+                    const day = date.getDate();
+                    const suffix = getOrdinalSuffix(day);
+                    return date.toLocaleDateString('en-GB', { 
                         weekday: 'long',
                         day: 'numeric',
                         month: 'long',
                         year: 'numeric'
-                    })}`.replace(/\d+/, day + suffix);
+                    }).replace(/\d+/, day + suffix);
+                };
+
+                document.getElementById("last-updated").textContent = 
+                    `${formatDate(twoWeeksAgo)} - ${formatDate(now)}`;
 
                 const summarised_news = await fetch("./data/summarised_news.json");
                 const summarisedData = await summarised_news.json();
