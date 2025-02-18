@@ -30,14 +30,21 @@ class Response(BaseModel):
     ui: UI
 
 def summarise_news(news):
+    # Prepare articles with truncated summaries
+    formatted_articles = [
+        f"{article['title']}: {article['summary'][:200]}..." if len(article['summary']) > 200 
+        else f"{article['title']}: {article['summary']}"
+        for article in news
+    ]
+    
     response = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a news summariser."},
             {
                 "role": "user",
-                "content": "Summarise the following news headlines into 5 bullet points. The bullet points should be sentences that comprehensively explain the news. Return ONLY the bullet points as a list, no headers." +
-                           '\n'.join([article['title'] + ": " + article['summary'] for article in news])
+                "content": "Summarise the following news headlines into 4 bullet points. The bullet points should be sentences that comprehensively explain the news. Return ONLY the bullet points as a list, no headers." +
+                           '\n'.join(formatted_articles)
             }
         ],
         response_format=Response
