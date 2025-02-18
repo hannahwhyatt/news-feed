@@ -15,7 +15,7 @@ request_urls = {
     "Ahead of AI": "https://magazine.sebastianraschka.com/api/v1/archive?sort=new&search=&limit=12",
     "Interconnects": "https://www.interconnects.ai/api/v1/archive?sort=new&search=&limit=12",
     "Hyperdimensional": "https://www.hyperdimensional.co/api/v1/archive?sort=new&search=&limit=12",
-    "The AI Frontier": "https://frontierai.substack.com/api/v1/archive?sort=new&search=&limit=12""
+    "The AI Frontier": "https://frontierai.substack.com/api/v1/archive?sort=new&search=&limit=12"
 }
 
 
