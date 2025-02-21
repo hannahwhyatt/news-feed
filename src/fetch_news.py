@@ -31,7 +31,7 @@ def clean_date(date_str):
 def fetch_news(feed_url, name, max_articles=5):
     articles = []
     feed = feedparser.parse(feed_url)
-    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=2)
+    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=1)
     
     for entry in feed.entries:
         try:
@@ -39,7 +39,7 @@ def fetch_news(feed_url, name, max_articles=5):
             pub_date = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %z")
             pub_date = pub_date.astimezone(datetime.timezone.utc)
             
-            # Only include articles from the last 14 days
+            # Only include articles from the last 7 days
             if pub_date >= start_date or name in ["Ahead of AI"]:
                 articles.append({
                     "title": entry.title,
