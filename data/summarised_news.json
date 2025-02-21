@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "MIT researchers have developed FragFold, a new computational method that predicts protein fragments for binding or inhibition of targets, promising advancements in biological research and therapy."
+            "value": "MIT researchers have developed FragFold, a computational method that predicts protein fragments capable of binding to target proteins, presenting significant implications for biological research and therapeutic strategies."
           },
           {
             "name": "summary",
-            "value": "ReviveMed, a MIT spinout, utilizes AI to analyze body metabolites to identify underlying disease drivers, offering potential for personalized therapeutic matches."
+            "value": "In a new study, it was revealed that large language models (LLMs) process different types of data similarly to human reasoning, interpreting information based on meaning rather than format."
           },
           {
             "name": "summary",
-            "value": "China's electric vehicle manufacturers are increasingly investing in humanoid robot technology, illustrated by a recent gala performance featuring 16 robots, indicating a strategic pivot in their industry focus."
+            "value": "ReviveMed, an MIT spinout, is utilizing AI to analyze body metabolites in order to identify underlying disease drivers and optimize therapeutic matches for patients."
           },
           {
             "name": "summary",
-            "value": "New studies revealed that large language models can reason about various data types based on semantic understanding, highlighting advancements in AI's ability to process and interpret complex information."
+            "value": "An ongoing report on advancements in AI highlights the increasing complexity and innovation in reasoning models, notably following developments from China and the evolving landscape of electric vehicles and robotics."
           }
         ]
       }
