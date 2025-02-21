@@ -59,7 +59,7 @@ def fetch_news(feed_url, name, max_articles=5):
 
 def fetch_request_url(url, name, max_articles=5):
     articles = []
-    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=2)
+    start_date = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=1)
     print(start_date)
     response = requests.get(url)
 

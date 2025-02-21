@@ -1,5 +1,54 @@
 [
     {
+        "title": "AI system predicts protein fragments that can bind to or inhibit a target",
+        "link": "https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220",
+        "published": "Thu, 20 Feb 2025 14:35",
+        "summary": "FragFold, developed by MIT Biology researchers, is a computational method with potential for impact on biological research and therapeutic applications.",
+        "source": "MIT News"
+    },
+    {
+        "title": "You can\u2019t build a moat with AI (redux)",
+        "link": "https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux",
+        "published": "Thu, 20 Feb 2025 18:40",
+        "summary": "Using LLMs doesn't make a product special anymore",
+        "source": "The AI Frontier"
+    },
+    {
+        "title": "How Should AI Liability Work? (Part I)",
+        "link": "https://www.hyperdimensional.co/p/how-should-ai-liability-work-part",
+        "published": "Thu, 20 Feb 2025 13:35",
+        "summary": "The \u201cRace to The Top\u201d",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "The latest open artifacts (#7): Alpaca era of reasoning models, China's continued dominance, and tons of multimodal advancements",
+        "link": "https://www.interconnects.ai/p/artifacts-7",
+        "published": "Wed, 19 Feb 2025 19:03",
+        "summary": "Artifacts Log 7. It'll continue to be a fun spring for AI researchers and practitioners.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Like human brains, large language models reason about diverse data in a general way",
+        "link": "https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219",
+        "published": "Wed, 19 Feb 2025 00:00",
+        "summary": "A new study shows LLMs represent different data types based on their underlying meaning and reason about data in their dominant language.",
+        "source": "MIT News"
+    },
+    {
+        "title": "MIT spinout maps the body\u2019s metabolites to uncover the hidden drivers of disease",
+        "link": "https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219",
+        "published": "Wed, 19 Feb 2025 00:00",
+        "summary": "ReviveMed uses AI to gather large-scale data on metabolites \u2014 molecules like lipids, cholesterol, and sugar \u2014 to match patients with therapeutics.",
+        "source": "MIT News"
+    },
+    {
+        "title": "Grok 3 and an accelerating AI roadmap",
+        "link": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
+        "published": "Tue, 18 Feb 2025 20:20",
+        "summary": "Where AI is heading, why 2024 felt slow, and shifting priorities of frontier laboratories.",
+        "source": "Interconnects"
+    },
+    {
         "title": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot",
         "link": "https://www.technologyreview.com/2025/02/18/1111964/inside-chinas-electric-vehicle-to-humanoid-robot-pivot/",
         "published": "Tue, 18 Feb 2025 10:00",
@@ -28,20 +77,6 @@
         "source": "MIT News"
     },
     {
-        "title": "An unexpected RL Renaissance",
-        "link": "https://www.interconnects.ai/p/an-unexpected-rl-renaissance",
-        "published": "Thu, 13 Feb 2025 15:34",
-        "summary": "New talk! Forecasting the Alpaca moment for reasoning models and why the new style of RL training is a far bigger deal than the emergence of RLHF.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "The EU AI Act is Coming to America",
-        "link": "https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america",
-        "published": "Thu, 13 Feb 2025 13:01",
-        "summary": "The AI regulation onslaught",
-        "source": "Hyperdimensional"
-    },
-    {
         "title": "Designing the future of entertainment",
         "link": "https://www.technologyreview.com/2025/02/13/1110420/designing-the-future-of-entertainment/",
         "published": "Thu, 13 Feb 2025 12:30",
@@ -56,73 +91,10 @@
         "source": "Technology Review"
     },
     {
-        "title": "Deep Research, information vs. insight, and the nature of science",
-        "link": "https://www.interconnects.ai/p/deep-research-information-vs-insight-in-science",
-        "published": "Wed, 12 Feb 2025 13:03",
-        "summary": "What AI will accelerate in the scientific process, what it cannot do, and how we can prepare for new manners of scientific investigation.",
-        "source": "Interconnects"
-    },
-    {
         "title": "Gift from Sebastian Man \u201979, SM \u201980 supports MIT Stephen A. Schwarzman College of Computing building",
         "link": "https://news.mit.edu/2025/gift-sebastian-man-supports-mit-stephen-schwarzman-college-computing-building-0211",
         "published": "Tue, 11 Feb 2025 15:45",
         "summary": "Alumnus is the first major donor to support the building since Stephen A. Schwarzman\u2019s foundational gift.",
         "source": "MIT News"
-    },
-    {
-        "title": "Bridging philosophy and AI to explore computing ethics",
-        "link": "https://news.mit.edu/2025/bridging-philosophy-and-ai-to-explore-computing-ethics-0211",
-        "published": "Tue, 11 Feb 2025 15:15",
-        "summary": "In a new MIT course co-taught by EECS and philosophy professors, students tackle moral dilemmas of the digital age.",
-        "source": "MIT News"
-    },
-    {
-        "title": "Puzzling out climate change",
-        "link": "https://news.mit.edu/2025/puzzling-out-climate-change-shreyaa-raghavan-0210",
-        "published": "Mon, 10 Feb 2025 10:00",
-        "summary": "Accenture Fellow Shreyaa Raghavan applies machine learning and optimization methods to explore ways to reduce transportation sector emissions.",
-        "source": "MIT News"
-    },
-    {
-        "title": "Can deep learning transform heart failure prevention?",
-        "link": "https://news.mit.edu/2025/can-deep-learning-transform-heart-failure-prevention-0210",
-        "published": "Mon, 10 Feb 2025 09:00",
-        "summary": "A deep neural network called CHAIS may soon replace invasive procedures like catheterization as the new gold standard for monitoring heart health.",
-        "source": "MIT News"
-    },
-    {
-        "title": "Knowledge Navigator",
-        "link": "https://www.hyperdimensional.co/p/knowledge-navigator",
-        "published": "Thu, 06 Feb 2025 13:40",
-        "summary": "Early thoughts on OpenAI Deep Research",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Gemini 2.0 is now available to everyone",
-        "link": "https://deepmind.google/discover/blog/gemini-2-0-is-now-available-to-everyone/",
-        "published": "Wed, 05 Feb 2025 16:00",
-        "summary": "We\u2019re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Making the U.S. the home for open-source AI",
-        "link": "https://www.interconnects.ai/p/making-the-us-the-home-for-open-source",
-        "published": "Wed, 05 Feb 2025 13:03",
-        "summary": "Open-source AI is here to stay, but it is not a given that it will be American.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Understanding Reasoning LLMs",
-        "link": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
-        "published": "Wed, 05 Feb 2025 12:11",
-        "summary": "Methods and Strategies for Building and Refining Reasoning Models",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Updating the Frontier Safety Framework",
-        "link": "https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/",
-        "published": "Tue, 04 Feb 2025 16:41",
-        "summary": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
-        "source": "DeepMind"
     }
 ]

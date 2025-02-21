@@ -106,6 +106,15 @@
                 const response = await fetch("./data/news.json");
                 const articles = await response.json();
 
+                // Get the last run date
+                const lastRunResponse = await fetch("./data/last_run_date.txt");
+                const lastRunDate = await lastRunResponse.text();
+                
+                // Create dates from the last run
+                const now = new Date(lastRunDate);
+                const previousDate = new Date(now);
+                previousDate.setDate(now.getDate() - 6);
+                
                 // Helper function to add ordinal suffix
                 function getOrdinalSuffix(day) {
                     if (day > 3 && day < 21) return 'th';
@@ -118,10 +127,6 @@
                 }
 
                 // Update the last-updated element with formatted date range
-                const now = new Date();
-                const twoWeeksAgo = new Date(now);
-                twoWeeksAgo.setDate(now.getDate() - 13);
-                
                 const formatDate = (date) => {
                     const day = date.getDate();
                     const suffix = getOrdinalSuffix(day);
@@ -134,7 +139,7 @@
                 };
 
                 document.getElementById("last-updated").textContent = 
-                    `${formatDate(twoWeeksAgo)} - ${formatDate(now)}`;
+                    `${formatDate(previousDate)} - ${formatDate(now)}`;
 
                 const summarised_news = await fetch("./data/summarised_news.json");
                 const summarisedData = await summarised_news.json();

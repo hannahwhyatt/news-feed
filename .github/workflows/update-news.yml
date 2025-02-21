@@ -28,11 +28,16 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.SECRET_GEN_AI_KEY }}
         run: python src/summarise_headlines.py
 
+      - name: Update last run date
+        run: |
+          date '+%Y-%m-%d' > data/last_run_date.txt
+
       - name: Commit and push updated news
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
           git add data/summarised_news.json
+          git add data/last_run_date.txt
           git commit -m "Update weekly news feed"
           git push
