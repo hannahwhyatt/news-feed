@@ -1,10 +1,10 @@
 [
     {
-        "title": "AI system predicts protein fragments that can bind to or inhibit a target",
-        "link": "https://news.mit.edu/2025/ai-system-fragfold-predicts-protein-fragments-0220",
-        "published": "Thu, 20 Feb 2025 14:35",
-        "summary": "FragFold, developed by MIT Biology researchers, is a computational method with potential for impact on biological research and therapeutic applications.",
-        "source": "MIT News"
+        "title": "Claude 3.7 thonks and what's next for inference-time scaling",
+        "link": "https://www.interconnects.ai/p/claude-3-7-thonks",
+        "published": "Mon, 24 Feb 2025 21:15",
+        "summary": "(The classic lunch break post) The latest reasoning model and what it says about the direction of inference time compute and RL training.",
+        "source": "Interconnects"
     },
     {
         "title": "How Should AI Liability Work? (Part I)",
@@ -21,20 +21,6 @@
         "source": "Interconnects"
     },
     {
-        "title": "Like human brains, large language models reason about diverse data in a general way",
-        "link": "https://news.mit.edu/2025/large-language-models-reason-about-diverse-data-general-way-0219",
-        "published": "Wed, 19 Feb 2025 00:00",
-        "summary": "A new study shows LLMs represent different data types based on their underlying meaning and reason about data in their dominant language.",
-        "source": "MIT News"
-    },
-    {
-        "title": "MIT spinout maps the body\u2019s metabolites to uncover the hidden drivers of disease",
-        "link": "https://news.mit.edu/2025/mit-spinout-maps-body-metabolites-uncovering-hidden-disease-drivers-0219",
-        "published": "Wed, 19 Feb 2025 00:00",
-        "summary": "ReviveMed uses AI to gather large-scale data on metabolites \u2014 molecules like lipids, cholesterol, and sugar \u2014 to match patients with therapeutics.",
-        "source": "MIT News"
-    },
-    {
         "title": "Grok 3 and an accelerating AI roadmap",
         "link": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
         "published": "Tue, 18 Feb 2025 20:20",
@@ -46,13 +32,6 @@
         "link": "https://www.technologyreview.com/2025/02/18/1111964/inside-chinas-electric-vehicle-to-humanoid-robot-pivot/",
         "published": "Tue, 18 Feb 2025 10:00",
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. While DOGE\u2019s efforts to shutter federal agencies dominate news from Washington, the Trump administration is also making more global moves. Many of these center on China. Tariffs on goods from the country&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "This artist collaborates with AI and robots",
-        "link": "https://www.technologyreview.com/2025/02/17/1111387/ai-sougwen-chung-art-robots-collaboration/",
-        "published": "Mon, 17 Feb 2025 10:00",
-        "summary": "Many artists worry about the encroachment of artificial intelligence on artistic creation. But Sougwen Chung, a nonbinary Canadian-Chinese artist, instead sees AI as an opportunity for artists to embrace uncertainty and challenge people to think about technology and creativity in unexpected ways.&#160; Chung\u2019s exhibitions are driven by technology; they\u2019re also live and kinetic, with the&#8230;",
         "source": "Technology Review"
     }
 ]
