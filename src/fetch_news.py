@@ -6,9 +6,9 @@ import pprint
 
 RSS_FEEDS = {
     "DeepMind": "https://www.deepmind.com/blog/feed/basic",
-    "Technology Review": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "Berkeley AI Research": "https://bair.berkeley.edu/blog/feed",
-    "MIT News": "http://news.mit.edu/rss/topic/artificial-intelligence2",
+    "Technology Review": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    # "Berkeley AI Research": "https://bair.berkeley.edu/blog/feed",
+    # "MIT News": "http://news.mit.edu/rss/topic/artificial-intelligence2",
 }
 
 request_urls = {
