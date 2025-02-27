@@ -1,37 +1,51 @@
 [
     {
+        "title": "How Should AI Liability Work? (Part II)",
+        "link": "https://www.hyperdimensional.co/p/how-should-ai-liability-work-part-3df",
+        "published": "Wed, 26 Feb 2025 13:46",
+        "summary": "Wherein I actually answer the question",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "Character training: Understanding and crafting a language model's personality",
+        "link": "https://www.interconnects.ai/p/character-training",
+        "published": "Wed, 26 Feb 2025 13:03",
+        "summary": "Post-training in industry is very different than the academic papers and open-source models demonstrate. Let's dive into one of my favorite topics in language modeling development today.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "The AI Hype Index: Falling in love with chatbots, understanding babies, and the Pentagon\u2019s \u201ckill list\u201d",
+        "link": "https://www.technologyreview.com/2025/02/26/1111790/ai-hype-index-relationships-chatbots/",
+        "published": "Wed, 26 Feb 2025 10:52",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. The past few months have demonstrated how AI can bring us together. Meta released a model that can translate speech from more than&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Start building with Gemini 2.0 Flash and Flash-Lite",
+        "link": "https://deepmind.google/discover/blog/start-building-with-gemini-20-flash-and-flash-lite/",
+        "published": "Tue, 25 Feb 2025 18:02",
+        "summary": "Gemini 2.0 Flash-Lite is now generally available in the Gemini API for production use in Google AI Studio and for enterprise customers on Vertex AI",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Are friends electric?",
+        "link": "https://www.technologyreview.com/2025/02/25/1111767/book-reviews-ai-robots-automation-eve-herold-sarah-a-bell-antonio-casilli/",
+        "published": "Tue, 25 Feb 2025 10:15",
+        "summary": "To the best of my knowledge, I am not a robot. And yet, like other humans who spend too much time on the internet, I\u2019m routinely asked to prove this fact by clicking on crosswalks and motorcycles in photos, deciphering distorted numbers and letters, and checking little white boxes that affirm my non-robot status. These&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How AI is used to surveil workers",
+        "link": "https://www.technologyreview.com/2025/02/25/1112437/how-ai-is-used-to-surveil-workers/",
+        "published": "Tue, 25 Feb 2025 10:00",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Opaque algorithms meant to analyze worker productivity have been rapidly spreading through our workplaces, as detailed in a new must-read piece by Rebecca Ackermann, published Monday in MIT Technology Review.\u00a0 Since the&#8230;",
+        "source": "Technology Review"
+    },
+    {
         "title": "Claude 3.7 thonks and what's next for inference-time scaling",
         "link": "https://www.interconnects.ai/p/claude-3-7-thonks",
         "published": "Mon, 24 Feb 2025 21:15",
         "summary": "(The classic lunch break post) The latest reasoning model and what it says about the direction of inference time compute and RL training.",
         "source": "Interconnects"
-    },
-    {
-        "title": "How Should AI Liability Work? (Part I)",
-        "link": "https://www.hyperdimensional.co/p/how-should-ai-liability-work-part",
-        "published": "Thu, 20 Feb 2025 13:35",
-        "summary": "The \u201cRace to The Top\u201d",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "The latest open artifacts (#7): Alpaca era of reasoning models, China's continued dominance, and tons of multimodal advancements",
-        "link": "https://www.interconnects.ai/p/artifacts-7",
-        "published": "Wed, 19 Feb 2025 19:03",
-        "summary": "Artifacts Log 7. It'll continue to be a fun spring for AI researchers and practitioners.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Grok 3 and an accelerating AI roadmap",
-        "link": "https://www.interconnects.ai/p/grok-3-and-an-accelerating-ai-roadmap",
-        "published": "Tue, 18 Feb 2025 20:20",
-        "summary": "Where AI is heading, why 2024 felt slow, and shifting priorities of frontier laboratories.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot",
-        "link": "https://www.technologyreview.com/2025/02/18/1111964/inside-chinas-electric-vehicle-to-humanoid-robot-pivot/",
-        "published": "Tue, 18 Feb 2025 10:00",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. While DOGE\u2019s efforts to shutter federal agencies dominate news from Washington, the Trump administration is also making more global moves. Many of these center on China. Tariffs on goods from the country&#8230;",
-        "source": "Technology Review"
     }
 ]
