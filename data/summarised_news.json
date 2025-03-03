@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "The debate on how liability should work in AI continues, with a focus on addressing accountability in the technology's application."
+            "value": "The evolution of artificial intelligence (AI) has seen significant milestones, notably the landmark match between AlphaGo and Go champion Lee Sedol in 2016, showcasing AI's capabilities."
           },
           {
             "name": "summary",
-            "value": "Character training for language models requires more industry-specific methods post-training, diverging from traditional academic approaches."
+            "value": "OpenAI's new model GPT-4.5 lacks groundbreaking features, leading to skepticism about its impact on the AI landscape, despite indications that the AI sector remains robust."
           },
           {
             "name": "summary",
-            "value": "The AI Hype Index has been introduced to differentiate between realistic AI advancements and exaggerated claims, simplifying industry insights."
+            "value": "Controversially, Botify AI offers interactions with underage celebrity bots, raising ethical concerns regarding the nature of conversations it allows, especially with minors."
           },
           {
             "name": "summary",
-            "value": "Gemini 2.0 Flash and Flash-Lite are now available for production use, expanding capabilities for Google AI Studio and Vertex AI users."
+            "value": "The AI Hype Index aims to clarify the balance between AI's exaggerated expectations and its true capabilities, while Google introduces new tools for developers to leverage AI in practical applications."
           }
         ]
       }
