@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Gemma 3 has emerged as the most powerful AI model capable of running on a single GPU or TPU, and it stands out as the first open-source model to surpass GPT-3.5."
+            "value": "OpenAI released its first research examining the impact of ChatGPT on users' emotional wellbeing, confirming that over 400 million people interact with the AI weekly."
           },
           {
             "name": "summary",
-            "value": "Gemini Robotics, developed by Google DeepMind, integrates advanced large language models with robotics to enhance their dexterity and functionality in interacting with the physical world."
+            "value": "The latest update from OpenAI introduces significant developments including the return of approximately 30 billion models and implications surrounding the proposed ban on DeepSeek technology."
           },
           {
             "name": "summary",
-            "value": "The new Gemini 2.0 Flash offers developers tools to experiment with native image generation, expanding possibilities for applications in Google AI Studio and through the Gemini API."
+            "value": "A new policy proposal has been put forth aiming to establish actionable governance for private AI systems to ensure responsible development and deployment."
           },
           {
             "name": "summary",
-            "value": "Waabi's virtual robotrucks are so realistic that they can safely demonstrate the operational capabilities of driverless trucks without needing extensive on-road testing."
+            "value": "In a recent announcement, Google unveiled its Gemini AI model, which expands capabilities beyond chatbots to a broader range of applications, signaling a competitive move against OpenAI in the AI search sector."
           }
         ]
       }
