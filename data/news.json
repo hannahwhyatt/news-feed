@@ -1,51 +1,72 @@
 [
     {
-        "title": "OpenAI has released its first research into how using ChatGPT affects people\u2019s emotional wellbeing",
-        "link": "https://www.technologyreview.com/2025/03/21/1113635/openai-has-released-its-first-research-into-how-using-chatgpt-affects-peoples-emotional-wellbeing/",
-        "published": "Fri, 21 Mar 2025 17:44",
-        "summary": "OpenAI says over 400 million people use ChatGPT every week. But how does interacting with it affect us? Does it make us more or less lonely? These are some of the questions OpenAI set out to investigate, in partnership with the MIT Media Lab, in a pair of new studies.\u00a0 They found that only a&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The latest open artifacts (#8): The return of ~30B models, side effects of OpenAI's proposed DeepSeek ban, and yet another reasoning roundup",
-        "link": "https://www.interconnects.ai/p/the-latest-open-artifacts-8-the-return",
-        "published": "Thu, 20 Mar 2025 13:56",
-        "summary": "Artifacts Log 8. Expect this pace to continue until mid summer.",
+        "title": "GPT-4o's images and lessons from native input-output multimodality",
+        "link": "https://www.interconnects.ai/p/gpt-4os-images-and-lessons-from-native",
+        "published": "Sun, 30 Mar 2025 16:33",
+        "summary": "Hints of a natively multi-modal future.",
         "source": "Interconnects"
     },
     {
-        "title": "Putting Private AI Governance into Action",
-        "link": "https://www.hyperdimensional.co/p/putting-private-governance-into-action",
-        "published": "Thu, 20 Mar 2025 12:35",
-        "summary": "A policy proposal",
+        "title": "First Look at Reasoning From Scratch: Chapter 1",
+        "link": "https://magazine.sebastianraschka.com/p/first-look-at-reasoning-from-scratch",
+        "published": "Sat, 29 Mar 2025 11:11",
+        "summary": "An introduction to reasoning in today's LLMs",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "The first trial of generative AI therapy shows it might help with depression",
+        "link": "https://www.technologyreview.com/2025/03/28/1114001/the-first-trial-of-generative-ai-therapy-shows-it-might-help-with-depression/",
+        "published": "Fri, 28 Mar 2025 17:07",
+        "summary": "The first clinical trial of a therapy bot that uses generative AI suggests it was as effective as human therapy for participants with depression, anxiety, or risk for developing eating disorders. Even so, it doesn\u2019t give a go-ahead to the dozens of companies hyping such technologies while operating in a regulatory gray area.&#160; A team&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Anthropic can now track the bizarre inner workings of a large language model",
+        "link": "https://www.technologyreview.com/2025/03/27/1113916/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/",
+        "published": "Thu, 27 Mar 2025 17:00",
+        "summary": "The AI firm Anthropic has developed a way to peer inside a large language model and watch what it does as it comes up with a response, revealing key new insights into how the technology works. The takeaway: LLMs are even stranger than we thought. The Anthropic team was surprised by some of the counterintuitive&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Where We Are Headed ",
+        "link": "https://www.hyperdimensional.co/p/where-we-are-headed",
+        "published": "Thu, 27 Mar 2025 12:45",
+        "summary": "A rough sketch of the near future (part one)",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Powering the food industry with AI",
-        "link": "https://www.technologyreview.com/2025/03/19/1112920/powering-the-food-industry-with-ai/",
-        "published": "Wed, 19 Mar 2025 13:00",
-        "summary": "There has never been a more pressing time for food producers to harness technology to tackle the sector\u2019s tough mission. To produce ever more healthy and appealing food for a growing global population in a way that is resilient and affordable, all while minimizing waste and reducing the sector\u2019s environmental impact. From farm to factory,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Managing frontier model training organizations (or teams)",
-        "link": "https://www.interconnects.ai/p/how-to-manage-ai-training-organizations",
-        "published": "Wed, 19 Mar 2025 12:03",
-        "summary": "How do the frontier labs consistently train great models? How can they fail?",
+        "title": "Gemini 2.5 Pro and Google's second chance with AI",
+        "link": "https://www.interconnects.ai/p/gemini-25-pro-googles-second-ai-chance",
+        "published": "Wed, 26 Mar 2025 12:01",
+        "summary": "Plus some coverage for the latest DeepSeek.",
         "source": "Interconnects"
     },
     {
-        "title": "When you might start speaking to robots",
-        "link": "https://www.technologyreview.com/2025/03/18/1113271/when-you-might-start-speaking-to-robots/",
-        "published": "Tue, 18 Mar 2025 09:00",
-        "summary": "Last Wednesday, Google made a somewhat surprising announcement. It launched a version of its AI model, Gemini, that can do things not just in the digital realm of chatbots and internet search but out here in the physical world, via robots.&#160; Gemini Robotics fuses the power of large language models with spatial reasoning, allowing you&#8230;",
+        "title": "The AI Hype Index: DeepSeek mania, Israel\u2019s spying tool, and cheating at chess",
+        "link": "https://www.technologyreview.com/2025/03/26/1113694/ai-hype-index-artificial-intelligence-openai-manus-doge/",
+        "published": "Wed, 26 Mar 2025 09:00",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. While AI models are certainly capable of creating interesting and sometimes entertaining material, their output isn\u2019t necessarily useful. Google DeepMind is hoping that&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Is Google playing catchup on search with OpenAI?",
-        "link": "https://www.technologyreview.com/2025/03/17/1113255/is-google-playing-catchup-on-search-with-openai/",
-        "published": "Mon, 17 Mar 2025 09:37",
-        "summary": "This story originally appeared in&#160;The Debrief with Mat Honan, a weekly newsletter about the biggest stories in tech from our editor in chief.&#160;Sign up here&#160;to get the next one in your inbox. I\u2019ve been mulling over something that Will Heaven, our senior editor for AI,&#160;pointed out not too long ago: that all the big players&#8230;",
+        "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
+        "link": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
+        "published": "Wed, 26 Mar 2025 09:00",
+        "summary": "A year or so ago, Xiao Li was seeing floods of Nvidia chip deals on WeChat. A real estate contractor turned data center project manager, he had pivoted to AI infrastructure in 2023, drawn by the promise of China\u2019s AI craze.&#160; At that time, traders in his circle bragged about securing shipments of high-performing Nvidia&#8230;",
         "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI\u2019s new image generator aims to be practical enough for designers and advertisers",
+        "link": "https://www.technologyreview.com/2025/03/25/1113745/openais-new-image-generator-aims-to-be-practical-enough-for-designers-and-advertisers/",
+        "published": "Tue, 25 Mar 2025 18:00",
+        "summary": "OpenAI has released a new image generator that\u2019s designed less for typical surrealist AI art and more for highly controllable and practical creation of visuals\u2014a sign that OpenAI thinks its tools are ready for use in fields like advertising and graphic design.&#160; The image generator, which is now part of the company\u2019s GPT-4o model, was&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemini 2.5: Our most intelligent AI model",
+        "link": "https://deepmind.google/discover/blog/gemini-2-5-our-most-intelligent-ai-model/",
+        "published": "Tue, 25 Mar 2025 17:00",
+        "summary": "Gemini 2.5 is our most intelligent AI model, now with thinking built in.",
+        "source": "DeepMind"
     }
 ]
