@@ -1,51 +1,44 @@
 [
     {
-        "title": "RL backlog: OpenAI's many RLs, clarifying distillation, and latent reasoning",
-        "link": "https://www.interconnects.ai/p/rl-backlog-openais-many-rls-clarifying",
-        "published": "Sat, 05 Apr 2025 16:40",
-        "summary": "Notes I forgot to publish. Closing some loose ends in the reasoning model discussions.",
-        "source": "Interconnects"
+        "title": "How AI is interacting with our creative human processes",
+        "link": "https://www.technologyreview.com/2025/04/11/1114266/artificial-intelligence-book-reviews-vauhini-vara-david-hajdu-pria-anand/",
+        "published": "Fri, 11 Apr 2025 09:00",
+        "summary": "In 2021, 20 years after the death of her older sister, Vauhini Vara was still unable to tell the story of her loss. \u201cI wondered,\u201d she writes in Searches, her new collection of essays on AI technology, \u201cif Sam Altman\u2019s machine could do it for me.\u201d So she tried ChatGPT. But as it expanded on&#8230;",
+        "source": "Technology Review"
     },
     {
-        "title": "Where We Are Headed (Part II)",
-        "link": "https://www.hyperdimensional.co/p/where-we-are-headed-part-ii",
-        "published": "Fri, 04 Apr 2025 12:31",
-        "summary": "How to think about governing AI",
+        "title": "Generative AI is learning to spy for the US military",
+        "link": "https://www.technologyreview.com/2025/04/11/1114914/generative-ai-is-learning-to-spy-for-the-us-military/",
+        "published": "Fri, 11 Apr 2025 09:00",
+        "summary": "For much of last year, about 2,500 US service members from the 15th Marine Expeditionary Unit sailed aboard three ships throughout the Pacific, conducting training exercises in the waters off South Korea, the Philippines, India, and Indonesia. At the same time, onboard the ships, an experiment was unfolding: The Marines in the unit responsible for&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How I Work",
+        "link": "https://www.hyperdimensional.co/p/how-i-work",
+        "published": "Thu, 10 Apr 2025 12:45",
+        "summary": "Some introspection, and career advice of a sort",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Cyberattacks by AI agents are coming",
-        "link": "https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/",
-        "published": "Fri, 04 Apr 2025 10:32",
-        "summary": "Agents are the talk of the AI industry\u2014they\u2019re capable of planning, reasoning, and executing complex tasks like scheduling meetings, ordering groceries, or even taking over your computer to change settings on your behalf. But the same sophisticated abilities that make agents helpful assistants could also make them powerful tools for conducting cyberattacks. They could readily&#8230;",
+        "title": "How AI can help supercharge creativity",
+        "link": "https://www.technologyreview.com/2025/04/10/1114256/ai-creativity-art-collaboration-music/",
+        "published": "Thu, 10 Apr 2025 09:00",
+        "summary": "Sometimes Lizzie Wilson shows up to a rave with her AI sidekick.&#160; One weeknight this past February, Wilson plugged her laptop into a projector that threw her screen onto the wall of a low-ceilinged loft space in East London. A small crowd shuffled in the glow of dim pink lights. Wilson sat down and started&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Taking a responsible path to AGI",
-        "link": "https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/",
-        "published": "Wed, 02 Apr 2025 13:31",
-        "summary": "We\u2019re exploring the frontiers of AGI, prioritizing technical safety, proactive risk assessment, and collaboration with the AI community.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Evaluating potential cybersecurity threats of advanced AI",
-        "link": "https://deepmind.google/discover/blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/",
-        "published": "Wed, 02 Apr 2025 13:30",
-        "summary": "Our framework enables cybersecurity experts to identify which defenses are necessary\u2014and how to prioritize them",
-        "source": "DeepMind"
-    },
-    {
-        "title": "How do you teach an AI model to give therapy?",
-        "link": "https://www.technologyreview.com/2025/04/01/1114059/how-do-you-teach-an-ai-model-to-give-therapy/",
-        "published": "Tue, 01 Apr 2025 09:00",
-        "summary": "On March 27, the results of the first clinical trial for a generative AI therapy bot were published, and they showed that people in the trial who had depression or anxiety or were at risk for eating disorders benefited from chatting with the bot.&#160; I was surprised by those results, which you can read about&#8230;",
+        "title": "AI companions are the final stage of digital addiction, and lawmakers are taking aim",
+        "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
+        "published": "Tue, 08 Apr 2025 09:00",
+        "summary": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself following a relationship with an AI companion that Garcia alleges contributed to her son\u2019s death.&#160; The two will announce a new bill that would force the tech companies behind such AI companions&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Recent reasoning research: GRPO tweaks, base model RL, and data curation",
-        "link": "https://www.interconnects.ai/p/papers-im-reading-base-model-rl-grpo",
-        "published": "Mon, 31 Mar 2025 15:59",
-        "summary": "The papers I endorse as worth reading among a cresting wave of reasoning research.",
+        "title": "Llama 4: Did Meta just push the panic button?",
+        "link": "https://www.interconnects.ai/p/llama-4",
+        "published": "Mon, 07 Apr 2025 12:03",
+        "summary": "One of the weirdest releases of the year and understanding the future of the Llama endeavor. For the time being, we have some more amazing open weight models!",
         "source": "Interconnects"
     }
 ]
