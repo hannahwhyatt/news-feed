@@ -1,44 +1,86 @@
 [
     {
-        "title": "How AI is interacting with our creative human processes",
-        "link": "https://www.technologyreview.com/2025/04/11/1114266/artificial-intelligence-book-reviews-vauhini-vara-david-hajdu-pria-anand/",
-        "published": "Fri, 11 Apr 2025 09:00",
-        "summary": "In 2021, 20 years after the death of her older sister, Vauhini Vara was still unable to tell the story of her loss. \u201cI wondered,\u201d she writes in Searches, her new collection of essays on AI technology, \u201cif Sam Altman\u2019s machine could do it for me.\u201d So she tried ChatGPT. But as it expanded on&#8230;",
+        "title": "OpenAI's o3: Over-optimization is back and weirder than ever",
+        "link": "https://www.interconnects.ai/p/openais-o3-over-optimization-is-back",
+        "published": "Sat, 19 Apr 2025 16:09",
+        "summary": "Tools, true rewards, and a new direction for language models.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "The State of Reinforcement Learning for LLM Reasoning",
+        "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+        "published": "Sat, 19 Apr 2025 11:02",
+        "summary": "Understanding GRPO and New Insights from Reasoning Model Papers",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "Introducing Gemini 2.5 Flash",
+        "link": "https://deepmind.google/discover/blog/introducing-gemini-2-5-flash/",
+        "published": "Thu, 17 Apr 2025 19:02",
+        "summary": "Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A Google Gemini model now has a \u201cdial\u201d to adjust how much it reasons",
+        "link": "https://www.technologyreview.com/2025/04/17/1115375/a-google-gemini-model-now-has-a-dial-to-adjust-how-much-it-reasons/",
+        "published": "Thu, 17 Apr 2025 19:00",
+        "summary": "Google DeepMind\u2019s latest update to a top Gemini AI model includes a dial to control how much the system \u201cthinks\u201d through a response. The new feature is ostensibly designed to save money for developers, but it also concedes a problem: Reasoning models, the tech world\u2019s new obsession, are prone to overthinking, burning money and energy&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Generative AI is learning to spy for the US military",
-        "link": "https://www.technologyreview.com/2025/04/11/1114914/generative-ai-is-learning-to-spy-for-the-us-military/",
-        "published": "Fri, 11 Apr 2025 09:00",
-        "summary": "For much of last year, about 2,500 US service members from the 15th Marine Expeditionary Unit sailed aboard three ships throughout the Pacific, conducting training exercises in the waters off South Korea, the Philippines, India, and Indonesia. At the same time, onboard the ships, an experiment was unfolding: The Marines in the unit responsible for&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How I Work",
-        "link": "https://www.hyperdimensional.co/p/how-i-work",
-        "published": "Thu, 10 Apr 2025 12:45",
-        "summary": "Some introspection, and career advice of a sort",
+        "title": "Take Off",
+        "link": "https://www.hyperdimensional.co/p/take-off",
+        "published": "Thu, 17 Apr 2025 12:45",
+        "summary": "Some career news",
         "source": "Hyperdimensional"
     },
     {
-        "title": "How AI can help supercharge creativity",
-        "link": "https://www.technologyreview.com/2025/04/10/1114256/ai-creativity-art-collaboration-music/",
-        "published": "Thu, 10 Apr 2025 09:00",
-        "summary": "Sometimes Lizzie Wilson shows up to a rave with her AI sidekick.&#160; One weeknight this past February, Wilson plugged her laptop into a projector that threw her screen onto the wall of a low-ceilinged loft space in East London. A small crowd shuffled in the glow of dim pink lights. Wilson sat down and started&#8230;",
+        "title": "Adapting for AI\u2019s reasoning era",
+        "link": "https://www.technologyreview.com/2025/04/16/1115033/adapting-for-ais-reasoning-era/",
+        "published": "Wed, 16 Apr 2025 14:00",
+        "summary": "Anyone who crammed for exams in college knows that an impressive ability to regurgitate information is not synonymous with critical thinking. The large language models (LLMs) first publicly released in 2022 were impressive but limited\u2014like talented students who excel at multiple-choice exams but stumble when asked to defend their logic. Today&#8217;s advanced reasoning models are&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "AI companions are the final stage of digital addiction, and lawmakers are taking aim",
-        "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
-        "published": "Tue, 08 Apr 2025 09:00",
-        "summary": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself following a relationship with an AI companion that Garcia alleges contributed to her son\u2019s death.&#160; The two will announce a new bill that would force the tech companies behind such AI companions&#8230;",
+        "title": "AI is coming for music, too",
+        "link": "https://www.technologyreview.com/2025/04/16/1114433/ai-artificial-intelligence-music-diffusion-creativity-songs-writer/",
+        "published": "Wed, 16 Apr 2025 09:00",
+        "summary": "The end of this story includes samples of AI-generated music. Artificial intelligence was barely a term in 1956, when top scientists from the field of computing arrived at Dartmouth College for a summer conference. The computer scientist John McCarthy had coined the phrase in the funding proposal for the event, a gathering to work through&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Llama 4: Did Meta just push the panic button?",
-        "link": "https://www.interconnects.ai/p/llama-4",
-        "published": "Mon, 07 Apr 2025 12:03",
-        "summary": "One of the weirdest releases of the year and understanding the future of the Llama endeavor. For the time being, we have some more amazing open weight models!",
+        "title": "What is vibe coding, exactly?",
+        "link": "https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/",
+        "published": "Wed, 16 Apr 2025 09:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When OpenAI cofounder Andrej Karpathy excitedly took to X back in February to post about his new hobby, he probably had no idea he was about&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Generate videos in Gemini and Whisk with Veo 2",
+        "link": "https://deepmind.google/discover/blog/generate-videos-in-gemini-and-whisk-with-veo-2/",
+        "published": "Tue, 15 Apr 2025 17:00",
+        "summary": "Transform text-based prompts into high-resolution eight-second videos in Gemini Advanced and use Whisk Animate to turn images into eight-second animated clips.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A small US city is experimenting with AI to find out what residents want",
+        "link": "https://www.technologyreview.com/2025/04/15/1115125/a-small-us-city-experiments-with-ai-to-find-out-what-residents-want/",
+        "published": "Tue, 15 Apr 2025 17:00",
+        "summary": "Bowling Green, Kentucky, is home to 75,000 residents who recently wrapped up an experiment in using AI for democracy: Can an online polling platform, powered by machine learning, capture what residents want to see happen in their city? When Doug Gorman, elected leader of the county that includes Bowling Green, took office in 2023, it&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI's GPT-4.1 and separating the API from ChatGPT",
+        "link": "https://www.interconnects.ai/p/openais-gpt-41-and-separating-the",
+        "published": "Mon, 14 Apr 2025 19:28",
+        "summary": "OpenAI's latest models optimizing on intelligence per dollar. We'll continue to see ChatGPT handled differently than the API business.",
         "source": "Interconnects"
+    },
+    {
+        "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
+        "link": "https://deepmind.google/discover/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/",
+        "published": "Mon, 14 Apr 2025 17:00",
+        "summary": "DolphinGemma, a large language model developed by Google, is helping scientists study how dolphins communicate \u2014 and hopefully find out what they're saying, too.",
+        "source": "DeepMind"
     }
 ]
