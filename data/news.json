@@ -1,86 +1,44 @@
 [
     {
-        "title": "OpenAI's o3: Over-optimization is back and weirder than ever",
-        "link": "https://www.interconnects.ai/p/openais-o3-over-optimization-is-back",
-        "published": "Sat, 19 Apr 2025 16:09",
-        "summary": "Tools, true rewards, and a new direction for language models.",
+        "title": "Music AI Sandbox, now with new features and broader access",
+        "link": "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
+        "published": "Thu, 24 Apr 2025 15:01",
+        "summary": "Helping music professionals explore the potential of generative AI",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Seeing AI as a collaborator, not a creator",
+        "link": "https://www.technologyreview.com/2025/04/23/1114891/editors-letter-creativity-art-ai-collaboration-humanity-technology/",
+        "published": "Wed, 23 Apr 2025 09:00",
+        "summary": "The reason you are reading this letter from me today is that I was bored 30 years ago.&#160; I was bored and curious about the world and so I wound up spending a lot of time in the university computer lab, screwing around on Usenet and the early World Wide Web, looking for interesting things&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The future of AI processing",
+        "link": "https://www.technologyreview.com/2025/04/22/1114962/the-future-of-ai-processing/",
+        "published": "Tue, 22 Apr 2025 13:30",
+        "summary": "Artificial Intelligence (AI) is emerging in everyday use cases, thanks to advances in foundational models, more powerful chip technology, and abundant data. To become truly embedded and seamless, AI computation must now be distributed\u2014and much of it will take place on device and at the edge.&#160; To support this evolution, computation for running AI workloads&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Generative AI is reshaping South Korea\u2019s webcomics industry",
+        "link": "https://www.technologyreview.com/2025/04/22/1114874/generative-ai-south-korea-webcomics/",
+        "published": "Tue, 22 Apr 2025 09:00",
+        "summary": "\u201cMy mind is still sharp and my hands work just fine, so I have no interest in getting help from AI to draw or write stories,\u201d says Lee Hyun-se, a legendary South Korean cartoonist best known for his seminal series A Daunting Team, a 1983 manhwa about the coming-of-age of heroic underdog baseball players. \u201cStill,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The latest open artifacts (#9): RLHF book draft, where the open reasoning race is going, and unsung heroes of open LM work",
+        "link": "https://www.interconnects.ai/p/the-latest-open-artifacts-9-rlhf",
+        "published": "Mon, 21 Apr 2025 16:39",
+        "summary": "Artifacts Log 9. ",
         "source": "Interconnects"
     },
     {
-        "title": "The State of Reinforcement Learning for LLM Reasoning",
-        "link": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
-        "published": "Sat, 19 Apr 2025 11:02",
-        "summary": "Understanding GRPO and New Insights from Reasoning Model Papers",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Introducing Gemini 2.5 Flash",
-        "link": "https://deepmind.google/discover/blog/introducing-gemini-2-5-flash/",
-        "published": "Thu, 17 Apr 2025 19:02",
-        "summary": "Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "A Google Gemini model now has a \u201cdial\u201d to adjust how much it reasons",
-        "link": "https://www.technologyreview.com/2025/04/17/1115375/a-google-gemini-model-now-has-a-dial-to-adjust-how-much-it-reasons/",
-        "published": "Thu, 17 Apr 2025 19:00",
-        "summary": "Google DeepMind\u2019s latest update to a top Gemini AI model includes a dial to control how much the system \u201cthinks\u201d through a response. The new feature is ostensibly designed to save money for developers, but it also concedes a problem: Reasoning models, the tech world\u2019s new obsession, are prone to overthinking, burning money and energy&#8230;",
+        "title": "AI is pushing the limits of the physical world",
+        "link": "https://www.technologyreview.com/2025/04/21/1114764/ai-artificial-intelligence-architecture-building/",
+        "published": "Mon, 21 Apr 2025 10:00",
+        "summary": "Architecture often assumes a binary between built projects and theoretical ones. What physics allows in actual buildings, after all, is vastly different from what architects can imagine and design (often referred to as \u201cpaper architecture\u201d). That imagination has long been supported and enabled by design technology, but the latest advancements in artificial intelligence have prompted&#8230;",
         "source": "Technology Review"
-    },
-    {
-        "title": "Take Off",
-        "link": "https://www.hyperdimensional.co/p/take-off",
-        "published": "Thu, 17 Apr 2025 12:45",
-        "summary": "Some career news",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Adapting for AI\u2019s reasoning era",
-        "link": "https://www.technologyreview.com/2025/04/16/1115033/adapting-for-ais-reasoning-era/",
-        "published": "Wed, 16 Apr 2025 14:00",
-        "summary": "Anyone who crammed for exams in college knows that an impressive ability to regurgitate information is not synonymous with critical thinking. The large language models (LLMs) first publicly released in 2022 were impressive but limited\u2014like talented students who excel at multiple-choice exams but stumble when asked to defend their logic. Today&#8217;s advanced reasoning models are&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AI is coming for music, too",
-        "link": "https://www.technologyreview.com/2025/04/16/1114433/ai-artificial-intelligence-music-diffusion-creativity-songs-writer/",
-        "published": "Wed, 16 Apr 2025 09:00",
-        "summary": "The end of this story includes samples of AI-generated music. Artificial intelligence was barely a term in 1956, when top scientists from the field of computing arrived at Dartmouth College for a summer conference. The computer scientist John McCarthy had coined the phrase in the funding proposal for the event, a gathering to work through&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "What is vibe coding, exactly?",
-        "link": "https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/",
-        "published": "Wed, 16 Apr 2025 09:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When OpenAI cofounder Andrej Karpathy excitedly took to X back in February to post about his new hobby, he probably had no idea he was about&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Generate videos in Gemini and Whisk with Veo 2",
-        "link": "https://deepmind.google/discover/blog/generate-videos-in-gemini-and-whisk-with-veo-2/",
-        "published": "Tue, 15 Apr 2025 17:00",
-        "summary": "Transform text-based prompts into high-resolution eight-second videos in Gemini Advanced and use Whisk Animate to turn images into eight-second animated clips.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "A small US city is experimenting with AI to find out what residents want",
-        "link": "https://www.technologyreview.com/2025/04/15/1115125/a-small-us-city-experiments-with-ai-to-find-out-what-residents-want/",
-        "published": "Tue, 15 Apr 2025 17:00",
-        "summary": "Bowling Green, Kentucky, is home to 75,000 residents who recently wrapped up an experiment in using AI for democracy: Can an online polling platform, powered by machine learning, capture what residents want to see happen in their city? When Doug Gorman, elected leader of the county that includes Bowling Green, took office in 2023, it&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "OpenAI's GPT-4.1 and separating the API from ChatGPT",
-        "link": "https://www.interconnects.ai/p/openais-gpt-41-and-separating-the",
-        "published": "Mon, 14 Apr 2025 19:28",
-        "summary": "OpenAI's latest models optimizing on intelligence per dollar. We'll continue to see ChatGPT handled differently than the API business.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
-        "link": "https://deepmind.google/discover/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/",
-        "published": "Mon, 14 Apr 2025 17:00",
-        "summary": "DolphinGemma, a large language model developed by Google, is helping scientists study how dolphins communicate \u2014 and hopefully find out what they're saying, too.",
-        "source": "DeepMind"
     }
 ]
