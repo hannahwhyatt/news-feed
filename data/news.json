@@ -1,51 +1,58 @@
 [
     {
-        "title": "Sycophancy and the art of the model",
-        "link": "https://www.interconnects.ai/p/sycophancy-and-the-art-of-the-model",
-        "published": "Sun, 04 May 2025 16:45",
-        "summary": "GPT-4o-simp, LMArena backlash, and people refusing to understand how messy and crucial RLHF is.",
-        "source": "Interconnects"
+        "title": "Coding LLMs from the Ground Up: A Complete Course",
+        "link": "https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up",
+        "published": "Sat, 10 May 2025 11:03",
+        "summary": "",
+        "source": "Ahead of AI"
     },
     {
-        "title": "State of play of AI progress (and related brakes on an intelligence explosion)",
-        "link": "https://www.interconnects.ai/p/brakes-on-an-intelligence-explosion",
-        "published": "Wed, 30 Apr 2025 12:02",
-        "summary": "Why I don't think AI 2027 is going to come true.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "This data set helps researchers spot harmful stereotypes in LLMs",
-        "link": "https://www.technologyreview.com/2025/04/30/1115946/this-data-set-helps-researchers-spot-harmful-stereotypes-in-llms/",
-        "published": "Wed, 30 Apr 2025 09:41",
-        "summary": "AI models are riddled with culturally specific biases. A new data set, called SHADES, is designed to help developers combat the problem by spotting harmful stereotypes and other kinds of discrimination that emerge in AI chatbot responses across a wide range of languages. Margaret Mitchell, chief ethics scientist at AI startup Hugging Face, led the&#8230;",
+        "title": "A new AI translation system for headphones clones multiple voices simultaneously",
+        "link": "https://www.technologyreview.com/2025/05/09/1116215/a-new-ai-translation-system-for-headphones-clones-multiple-voices-simultaneously/",
+        "published": "Fri, 09 May 2025 09:00",
+        "summary": "Imagine going for dinner with a group of friends who switch in and out of different languages you don\u2019t speak, but still being able to understand what they\u2019re saying. This scenario is the inspiration for a new AI headphone system that translates the speech of multiple speakers simultaneously, in real time. The system, called Spatial&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The AI Hype Index: AI agent cyberattacks, racing robots, and musical models",
-        "link": "https://www.technologyreview.com/2025/04/29/1115918/the-ai-hype-index-ai-agent-cyberattacks-racing-robots-and-musical-models/",
-        "published": "Tue, 29 Apr 2025 10:00",
-        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. AI agents are the AI industry\u2019s hypiest new product\u2014intelligent assistants capable of completing tasks without human supervision. But while they can be theoretically&#8230;",
+        "title": "How to build a better AI benchmark",
+        "link": "https://www.technologyreview.com/2025/05/08/1116192/how-to-build-a-better-ai-benchmark/",
+        "published": "Thu, 08 May 2025 09:00",
+        "summary": "It\u2019s not easy being one of Silicon Valley\u2019s favorite benchmarks.&#160; SWE-Bench (pronounced \u201cswee bench\u201d) launched in November 2024 to evaluate an AI model\u2019s coding skill, using more than 2,000 real-world programming problems pulled from the public GitHub repositories of 12 different Python-based projects.&#160; In the months since then, it\u2019s quickly become one of the most&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "We need to start thinking of AI as \u201cnormal\u201d",
-        "link": "https://www.technologyreview.com/2025/04/29/1115928/is-ai-normal/",
-        "published": "Tue, 29 Apr 2025 09:00",
-        "summary": "Right now, despite its ubiquity, AI is seen as anything but a normal technology. There is talk of AI systems that will soon merit the term \u201csuperintelligence,\u201d and the former CEO of Google recently suggested we control AI models the way we control uranium and other nuclear weapons materials. Anthropic is dedicating time and money&#8230;",
+        "title": "This patient\u2019s Neuralink brain implant gets a boost from generative AI",
+        "link": "https://www.technologyreview.com/2025/05/07/1116139/this-brain-implant-gets-a-boost-from-generative-ai/",
+        "published": "Wed, 07 May 2025 09:00",
+        "summary": "Last November, Bradford G. Smith got a brain implant from Elon Musk\u2019s company Neuralink. The device, a set of thin wires attached to a computer about the thickness of a few quarters that sits in his skull, lets him use his thoughts to move a computer pointer on a screen.&#160; And by last week he&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Qwen 3: The new open standard",
-        "link": "https://www.interconnects.ai/p/qwen-3-the-new-open-standard",
-        "published": "Mon, 28 Apr 2025 23:25",
-        "summary": "A wonderful release, base models, reasoners, model size scales, and all before LlamaCon.",
+        "title": "Gemini 2.5 Pro Preview: even better coding performance",
+        "link": "https://deepmind.google/discover/blog/gemini-25-pro-preview-even-better-coding-performance/",
+        "published": "Tue, 06 May 2025 15:06",
+        "summary": "We\u2019ve seen developers doing amazing things with Gemini 2.5 Pro, so we decided to release an updated version a couple of weeks early to get into developers hands sooner.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Build rich, interactive web apps with an updated Gemini 2.5 Pro",
+        "link": "https://deepmind.google/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/",
+        "published": "Tue, 06 May 2025 15:00",
+        "summary": "Our updated version of Gemini 2.5 Pro Preview has improved capabilities for coding.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "What people get wrong about the leading Chinese open models: Adoption and censorship",
+        "link": "https://www.interconnects.ai/p/what-people-get-wrong-about-the-leading",
+        "published": "Tue, 06 May 2025 12:01",
+        "summary": "Narrative violations on licenses, adoption, and censorship. ",
         "source": "Interconnects"
     },
     {
-        "title": "Transparency and (shifting) priority stacks",
-        "link": "https://www.interconnects.ai/p/transparency-and-shifting-priority",
-        "published": "Mon, 28 Apr 2025 12:02",
-        "summary": "What you want to be open says a lot about your ranked priorities.",
-        "source": "Interconnects"
+        "title": "Why the humanoid workforce is running late",
+        "link": "https://www.technologyreview.com/2025/05/06/1116108/why-the-humanoid-workforce-is-running-late/",
+        "published": "Tue, 06 May 2025 09:00",
+        "summary": "On Thursday I watched Daniela Rus, one of the world\u2019s top experts on AI-powered robots, address a packed room at a Boston robotics expo. Rus spent a portion of her talk busting the notion that giant fleets of humanoids are already making themselves useful in manufacturing and warehouses around the world.&#160; That might come as&#8230;",
+        "source": "Technology Review"
     }
 ]
