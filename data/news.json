@@ -1,58 +1,37 @@
 [
     {
-        "title": "Coding LLMs from the Ground Up: A Complete Course",
-        "link": "https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up",
-        "published": "Sat, 10 May 2025 11:03",
-        "summary": "",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "A new AI translation system for headphones clones multiple voices simultaneously",
-        "link": "https://www.technologyreview.com/2025/05/09/1116215/a-new-ai-translation-system-for-headphones-clones-multiple-voices-simultaneously/",
-        "published": "Fri, 09 May 2025 09:00",
-        "summary": "Imagine going for dinner with a group of friends who switch in and out of different languages you don\u2019t speak, but still being able to understand what they\u2019re saying. This scenario is the inspiration for a new AI headphone system that translates the speech of multiple speakers simultaneously, in real time. The system, called Spatial&#8230;",
+        "title": "Google DeepMind\u2019s new AI agent cracks real-world problems better than humans can",
+        "link": "https://www.technologyreview.com/2025/05/14/1116438/google-deepminds-new-ai-uses-large-language-models-to-crack-real-world-problems/",
+        "published": "Wed, 14 May 2025 15:00",
+        "summary": "Google DeepMind has once again used large language models to discover new solutions to long-standing problems in math and computer science. This time the firm has shown that its approach can not only tackle unsolved theoretical puzzles, but improve a range of important real-world processes as well. Google DeepMind&#8217;s new tool, called AlphaEvolve, uses the&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "How to build a better AI benchmark",
-        "link": "https://www.technologyreview.com/2025/05/08/1116192/how-to-build-a-better-ai-benchmark/",
-        "published": "Thu, 08 May 2025 09:00",
-        "summary": "It\u2019s not easy being one of Silicon Valley\u2019s favorite benchmarks.&#160; SWE-Bench (pronounced \u201cswee bench\u201d) launched in November 2024 to evaluate an AI model\u2019s coding skill, using more than 2,000 real-world programming problems pulled from the public GitHub repositories of 12 different Python-based projects.&#160; In the months since then, it\u2019s quickly become one of the most&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "This patient\u2019s Neuralink brain implant gets a boost from generative AI",
-        "link": "https://www.technologyreview.com/2025/05/07/1116139/this-brain-implant-gets-a-boost-from-generative-ai/",
-        "published": "Wed, 07 May 2025 09:00",
-        "summary": "Last November, Bradford G. Smith got a brain implant from Elon Musk\u2019s company Neuralink. The device, a set of thin wires attached to a computer about the thickness of a few quarters that sits in his skull, lets him use his thoughts to move a computer pointer on a screen.&#160; And by last week he&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Gemini 2.5 Pro Preview: even better coding performance",
-        "link": "https://deepmind.google/discover/blog/gemini-25-pro-preview-even-better-coding-performance/",
-        "published": "Tue, 06 May 2025 15:06",
-        "summary": "We\u2019ve seen developers doing amazing things with Gemini 2.5 Pro, so we decided to release an updated version a couple of weeks early to get into developers hands sooner.",
+        "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+        "link": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "published": "Wed, 14 May 2025 14:59",
+        "summary": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
         "source": "DeepMind"
     },
     {
-        "title": "Build rich, interactive web apps with an updated Gemini 2.5 Pro",
-        "link": "https://deepmind.google/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/",
-        "published": "Tue, 06 May 2025 15:00",
-        "summary": "Our updated version of Gemini 2.5 Pro Preview has improved capabilities for coding.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "What people get wrong about the leading Chinese open models: Adoption and censorship",
-        "link": "https://www.interconnects.ai/p/what-people-get-wrong-about-the-leading",
-        "published": "Tue, 06 May 2025 12:01",
-        "summary": "Narrative violations on licenses, adoption, and censorship. ",
+        "title": "My path into AI",
+        "link": "https://www.interconnects.ai/p/my-path-into-ai",
+        "published": "Wed, 14 May 2025 12:02",
+        "summary": "How I got here. Building a career brick by brick over 8 years.",
         "source": "Interconnects"
     },
     {
-        "title": "Why the humanoid workforce is running late",
-        "link": "https://www.technologyreview.com/2025/05/06/1116108/why-the-humanoid-workforce-is-running-late/",
-        "published": "Tue, 06 May 2025 09:00",
-        "summary": "On Thursday I watched Daniela Rus, one of the world\u2019s top experts on AI-powered robots, address a packed room at a Boston robotics expo. Rus spent a portion of her talk busting the notion that giant fleets of humanoids are already making themselves useful in manufacturing and warehouses around the world.&#160; That might come as&#8230;",
+        "title": "Police tech can sidestep facial recognition bans now",
+        "link": "https://www.technologyreview.com/2025/05/13/1116321/police-tech-can-sidestep-facial-recognition-bans-now/",
+        "published": "Tue, 13 May 2025 09:00",
+        "summary": "Six months ago I attended the largest gathering of chiefs of police in the US to see how they\u2019re using AI. I found some big developments, like officers getting AI to write their police reports. Today, I published a new story that shows just how far AI for police has developed since then.&#160; It\u2019s about&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How a new type of AI is helping police skirt facial recognition bans",
+        "link": "https://www.technologyreview.com/2025/05/12/1116295/how-a-new-type-of-ai-is-helping-police-skirt-facial-recognition-bans/",
+        "published": "Mon, 12 May 2025 09:00",
+        "summary": "Police and federal agencies have found a controversial new way to skirt the growing patchwork of laws that curb how they use facial recognition: an AI model that can track people using attributes like body size, gender, hair color and style, clothing, and accessories.&#160; The tool, called Track and built by the video analytics company&#8230;",
         "source": "Technology Review"
     }
 ]
