@@ -1,37 +1,79 @@
 [
     {
-        "title": "Google DeepMind\u2019s new AI agent cracks real-world problems better than humans can",
-        "link": "https://www.technologyreview.com/2025/05/14/1116438/google-deepminds-new-ai-uses-large-language-models-to-crack-real-world-problems/",
-        "published": "Wed, 14 May 2025 15:00",
-        "summary": "Google DeepMind has once again used large language models to discover new solutions to long-standing problems in math and computer science. This time the firm has shown that its approach can not only tackle unsolved theoretical puzzles, but improve a range of important real-world processes as well. Google DeepMind&#8217;s new tool, called AlphaEvolve, uses the&#8230;",
+        "title": "Anthropic\u2019s new hybrid AI model can work on tasks autonomously for hours at a time",
+        "link": "https://www.technologyreview.com/2025/05/22/1117338/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time/",
+        "published": "Thu, 22 May 2025 16:51",
+        "summary": "Anthropic has announced two new AI models that it claims represent a major step toward making AI agents truly useful. AI agents trained on Claude Opus 4, the company\u2019s most powerful model to date, raise the bar for what such systems are capable of by tackling difficult tasks over extended periods of time and responding&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-        "link": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-        "published": "Wed, 14 May 2025 14:59",
-        "summary": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
-        "source": "DeepMind"
-    },
-    {
-        "title": "My path into AI",
-        "link": "https://www.interconnects.ai/p/my-path-into-ai",
-        "published": "Wed, 14 May 2025 12:02",
-        "summary": "How I got here. Building a career brick by brick over 8 years.",
+        "title": "People use AI more than you think",
+        "link": "https://www.interconnects.ai/p/people-use-ai-more-than-you-think",
+        "published": "Wed, 21 May 2025 12:03",
+        "summary": "And businesses too. The most important trend in AI that gets washed away from between the headlines.",
         "source": "Interconnects"
     },
     {
-        "title": "Police tech can sidestep facial recognition bans now",
-        "link": "https://www.technologyreview.com/2025/05/13/1116321/police-tech-can-sidestep-facial-recognition-bans-now/",
-        "published": "Tue, 13 May 2025 09:00",
-        "summary": "Six months ago I attended the largest gathering of chiefs of police in the US to see how they\u2019re using AI. I found some big developments, like officers getting AI to write their police reports. Today, I published a new story that shows just how far AI for police has developed since then.&#160; It\u2019s about&#8230;",
+        "title": "By putting AI into everything, Google wants to make it invisible",
+        "link": "https://www.technologyreview.com/2025/05/21/1117251/by-putting-ai-into-everything-google-wants-to-make-it-invisible/",
+        "published": "Wed, 21 May 2025 11:49",
+        "summary": "If you want to know where AI is headed, this year\u2019s Google I/O has you covered. The company\u2019s annual showcase of next-gen products, which kicked off yesterday, has all of the pomp and pizzazz, the sizzle reels and celebrity walk-ons, that you\u2019d expect from a multimillion-dollar marketing event. But it also shows us just how&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "How a new type of AI is helping police skirt facial recognition bans",
-        "link": "https://www.technologyreview.com/2025/05/12/1116295/how-a-new-type-of-ai-is-helping-police-skirt-facial-recognition-bans/",
-        "published": "Mon, 12 May 2025 09:00",
-        "summary": "Police and federal agencies have found a controversial new way to skirt the growing patchwork of laws that curb how they use facial recognition: an AI model that can track people using attributes like body size, gender, hair color and style, clothing, and accessories.&#160; The tool, called Track and built by the video analytics company&#8230;",
+        "title": "Fuel your creativity with new generative media models and tools",
+        "link": "https://deepmind.google/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/",
+        "published": "Tue, 20 May 2025 09:45",
+        "summary": "Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "SynthID Detector \u2014 a new portal to help identify AI-generated content",
+        "link": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
+        "published": "Tue, 20 May 2025 09:45",
+        "summary": "Learn about the new SynthID Detector portal we announced at I/O to help people understand how the content they see online was generated.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI",
+        "link": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
+        "published": "Tue, 20 May 2025 09:45",
+        "summary": "Gemma 3n is a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio, empowering developers to build live, interactive applications and sophisticated audio-centric experiences.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Advancing Gemini's security safeguards",
+        "link": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
+        "published": "Tue, 20 May 2025 09:45",
+        "summary": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Our vision for building a universal AI assistant",
+        "link": "https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/",
+        "published": "Tue, 20 May 2025 09:45",
+        "summary": "We\u2019re extending Gemini to become a world model that can make plans and imagine new experiences by simulating aspects of the world.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI\u2019s energy impact is still small\u2014but how we handle it is huge",
+        "link": "https://www.technologyreview.com/2025/05/20/1116274/opinion-ai-energy-use-data-centers-electricity/",
+        "published": "Tue, 20 May 2025 09:00",
+        "summary": "With seemingly no limit to the demand for artificial intelligence, everyone in the energy, AI, and climate fields is justifiably worried. Will there be enough clean electricity to power AI and enough water to cool the data centers that support this technology? These are important questions with serious implications for communities, the economy, and the&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How AI is introducing errors into courtrooms",
+        "link": "https://www.technologyreview.com/2025/05/20/1116823/how-ai-is-introducing-errors-into-courtrooms/",
+        "published": "Tue, 20 May 2025 09:00",
+        "summary": "It\u2019s been quite a couple weeks for stories about AI in the courtroom. You might have heard about the deceased victim of a road rage incident whose family created an AI avatar of him to show as an impact statement (possibly the first time this has been done in the US). But there\u2019s a bigger,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "AI can do a better job of persuading people than we do",
+        "link": "https://www.technologyreview.com/2025/05/19/1116779/ai-can-do-a-better-job-of-persuading-people-than-we-do/",
+        "published": "Mon, 19 May 2025 15:00",
+        "summary": "Millions of people argue with each other online every day, but remarkably few of them change someone\u2019s mind. New research suggests that large language models (LLMs) might do a better job. The finding suggests that AI could become a powerful tool for persuading people, for better or worse.&#160;&#160; A multi-university team of researchers found that&#8230;",
         "source": "Technology Review"
     }
 ]
