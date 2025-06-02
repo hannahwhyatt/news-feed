@@ -1,79 +1,44 @@
 [
     {
-        "title": "Anthropic\u2019s new hybrid AI model can work on tasks autonomously for hours at a time",
-        "link": "https://www.technologyreview.com/2025/05/22/1117338/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time/",
-        "published": "Thu, 22 May 2025 16:51",
-        "summary": "Anthropic has announced two new AI models that it claims represent a major step toward making AI agents truly useful. AI agents trained on Claude Opus 4, the company\u2019s most powerful model to date, raise the bar for what such systems are capable of by tackling difficult tasks over extended periods of time and responding&#8230;",
+        "title": "Fueling seamless AI at scale",
+        "link": "https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/",
+        "published": "Fri, 30 May 2025 14:00",
+        "summary": "From large language models (LLMs) to reasoning agents, today\u2019s AI tools bring unprecedented computational demands. Trillion-parameter models, workloads running on-device, and swarms of agents collaborating to complete tasks all require a new paradigm of computing to become truly seamless and ubiquitous. First, technical progress in hardware and silicon design is critical to pushing the boundaries&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "People use AI more than you think",
-        "link": "https://www.interconnects.ai/p/people-use-ai-more-than-you-think",
-        "published": "Wed, 21 May 2025 12:03",
-        "summary": "And businesses too. The most important trend in AI that gets washed away from between the headlines.",
+        "title": "This benchmark used Reddit\u2019s AITA to test how much AI models suck up to us",
+        "link": "https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/",
+        "published": "Fri, 30 May 2025 09:00",
+        "summary": "Back in April, OpenAIannounced it was rolling back an update to its GPT-4o model that made ChatGPT\u2019s responses to user queries too sycophantic.&#160; An AI model that acts in an overly agreeable and flattering way is more than just annoying. It could reinforce users\u2019 incorrect beliefs, mislead people, and spread misinformation that can be dangerous\u2014a&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Latest open artifacts (#10): New DeepSeek R1 0528!, more permissive licenses, everything as a reasoner, and from artifacts to agents",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-10-new-deepseek",
+        "published": "Thu, 29 May 2025 13:37",
+        "summary": "Artifacts Log 10. ",
         "source": "Interconnects"
     },
     {
-        "title": "By putting AI into everything, Google wants to make it invisible",
-        "link": "https://www.technologyreview.com/2025/05/21/1117251/by-putting-ai-into-everything-google-wants-to-make-it-invisible/",
-        "published": "Wed, 21 May 2025 11:49",
-        "summary": "If you want to know where AI is headed, this year\u2019s Google I/O has you covered. The company\u2019s annual showcase of next-gen products, which kicked off yesterday, has all of the pomp and pizzazz, the sizzle reels and celebrity walk-ons, that you\u2019d expect from a multimillion-dollar marketing event. But it also shows us just how&#8230;",
+        "title": "The AI Hype Index: College students are hooked on ChatGPT",
+        "link": "https://www.technologyreview.com/2025/05/28/1117468/ai-hype-index-college-students-chatgpt-meta-apple-anthropic-grok/",
+        "published": "Wed, 28 May 2025 14:13",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Large language models confidently present their responses as accurate and reliable, even when they\u2019re neither of those things. That\u2019s why we\u2019ve recently seen&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Fuel your creativity with new generative media models and tools",
-        "link": "https://deepmind.google/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/",
-        "published": "Tue, 20 May 2025 09:45",
-        "summary": "Introducing Veo 3 and Imagen 4, and a new tool for filmmaking called Flow.",
-        "source": "DeepMind"
+        "title": "Reinforcement learning with random rewards actually works with Qwen 2.5",
+        "link": "https://www.interconnects.ai/p/reinforcement-learning-with-random",
+        "published": "Tue, 27 May 2025 16:39",
+        "summary": "Making sense of research casting doubt on the potential of RLVR and where I'm optimistic for the next phase of scaling.",
+        "source": "Interconnects"
     },
     {
-        "title": "SynthID Detector \u2014 a new portal to help identify AI-generated content",
-        "link": "https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/",
-        "published": "Tue, 20 May 2025 09:45",
-        "summary": "Learn about the new SynthID Detector portal we announced at I/O to help people understand how the content they see online was generated.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI",
-        "link": "https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/",
-        "published": "Tue, 20 May 2025 09:45",
-        "summary": "Gemma 3n is a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio, empowering developers to build live, interactive applications and sophisticated audio-centric experiences.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Advancing Gemini's security safeguards",
-        "link": "https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/",
-        "published": "Tue, 20 May 2025 09:45",
-        "summary": "We\u2019ve made Gemini 2.5 our most secure model family to date.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Our vision for building a universal AI assistant",
-        "link": "https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/",
-        "published": "Tue, 20 May 2025 09:45",
-        "summary": "We\u2019re extending Gemini to become a world model that can make plans and imagine new experiences by simulating aspects of the world.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "AI\u2019s energy impact is still small\u2014but how we handle it is huge",
-        "link": "https://www.technologyreview.com/2025/05/20/1116274/opinion-ai-energy-use-data-centers-electricity/",
-        "published": "Tue, 20 May 2025 09:00",
-        "summary": "With seemingly no limit to the demand for artificial intelligence, everyone in the energy, AI, and climate fields is justifiably worried. Will there be enough clean electricity to power AI and enough water to cool the data centers that support this technology? These are important questions with serious implications for communities, the economy, and the&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How AI is introducing errors into courtrooms",
-        "link": "https://www.technologyreview.com/2025/05/20/1116823/how-ai-is-introducing-errors-into-courtrooms/",
-        "published": "Tue, 20 May 2025 09:00",
-        "summary": "It\u2019s been quite a couple weeks for stories about AI in the courtroom. You might have heard about the deceased victim of a road rage incident whose family created an AI avatar of him to show as an impact statement (possibly the first time this has been done in the US). But there\u2019s a bigger,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AI can do a better job of persuading people than we do",
-        "link": "https://www.technologyreview.com/2025/05/19/1116779/ai-can-do-a-better-job-of-persuading-people-than-we-do/",
-        "published": "Mon, 19 May 2025 15:00",
-        "summary": "Millions of people argue with each other online every day, but remarkably few of them change someone\u2019s mind. New research suggests that large language models (LLMs) might do a better job. The finding suggests that AI could become a powerful tool for persuading people, for better or worse.&#160;&#160; A multi-university team of researchers found that&#8230;",
-        "source": "Technology Review"
+        "title": "Claude 4 and Anthropic's bet on code",
+        "link": "https://www.interconnects.ai/p/claude-4-and-anthropics-bet-on-code",
+        "published": "Tue, 27 May 2025 12:03",
+        "summary": "Reasons to be optimistic and pessimistic on Anthropic's future.",
+        "source": "Interconnects"
     }
 ]
