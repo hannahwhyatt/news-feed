@@ -10,19 +10,23 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "The demand for computational power in AI is soaring due to advancements in large language models and reasoning agents, requiring new approaches to meet these needs."
+            "value": "Last year, China's AI landscape was dominated by a surge in foundation models, while now the focus has shifted towards the development of AI agents that are increasingly capable of performing complex tasks."
           },
           {
             "name": "summary",
-            "value": "OpenAI faced criticism for its overly agreeable responses in its GPT-4o model, prompting a rollback to ensure more balanced interactions with users."
+            "value": "A new taxonomy for next-generation reasoning models has been introduced, examining the evolution of reinforcement learning and variables recovery models (RLVR) to inform future advancements."
           },
           {
             "name": "summary",
-            "value": "Recent developments in AI research highlight new projects like DeepSeek R1 0528 and innovations in using artifacts and agents to improve AI capabilities."
+            "value": "The MIT Technology Review's What\u2019s Next series highlights the future implications of AI on mathematics and explores how organizations like DARPA view the interplay of these fields."
           },
           {
             "name": "summary",
-            "value": "As college students increasingly engage with AI tools like ChatGPT, the AI Hype Index aims to clarify the distinction between actual advancements and exaggerated claims in the industry."
+            "value": "Gemini 2.5 has been launched with advanced features for audio dialogue generation, showcasing the growing capabilities of AI technology in multimedia applications."
+          },
+          {
+            "name": "summary",
+            "value": "A new report detailing the energy consumption and environmental impact of AI has been published, revealing the significant resources AI technologies demand."
           }
         ]
       }

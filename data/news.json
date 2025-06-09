@@ -1,44 +1,44 @@
 [
     {
-        "title": "Fueling seamless AI at scale",
-        "link": "https://www.technologyreview.com/2025/05/30/1117440/fueling-seamless-ai-at-scale/",
-        "published": "Fri, 30 May 2025 14:00",
-        "summary": "From large language models (LLMs) to reasoning agents, today\u2019s AI tools bring unprecedented computational demands. Trillion-parameter models, workloads running on-device, and swarms of agents collaborating to complete tasks all require a new paradigm of computing to become truly seamless and ubiquitous. First, technical progress in hardware and silicon design is critical to pushing the boundaries&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "This benchmark used Reddit\u2019s AITA to test how much AI models suck up to us",
-        "link": "https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/",
-        "published": "Fri, 30 May 2025 09:00",
-        "summary": "Back in April, OpenAIannounced it was rolling back an update to its GPT-4o model that made ChatGPT\u2019s responses to user queries too sycophantic.&#160; An AI model that acts in an overly agreeable and flattering way is more than just annoying. It could reinforce users\u2019 incorrect beliefs, mislead people, and spread misinformation that can be dangerous\u2014a&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Latest open artifacts (#10): New DeepSeek R1 0528!, more permissive licenses, everything as a reasoner, and from artifacts to agents",
-        "link": "https://www.interconnects.ai/p/latest-open-artifacts-10-new-deepseek",
-        "published": "Thu, 29 May 2025 13:37",
-        "summary": "Artifacts Log 10. ",
+        "title": "How I Write",
+        "link": "https://www.interconnects.ai/p/how-i-write",
+        "published": "Fri, 06 Jun 2025 15:23",
+        "summary": "Therein how I think, how AI impacts it, and how writing reflects upon AI progress.",
         "source": "Interconnects"
     },
     {
-        "title": "The AI Hype Index: College students are hooked on ChatGPT",
-        "link": "https://www.technologyreview.com/2025/05/28/1117468/ai-hype-index-college-students-chatgpt-meta-apple-anthropic-grok/",
-        "published": "Wed, 28 May 2025 14:13",
-        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Large language models confidently present their responses as accurate and reliable, even when they\u2019re neither of those things. That\u2019s why we\u2019ve recently seen&#8230;",
+        "title": "Manus has kick-started an AI agent boom in China",
+        "link": "https://www.technologyreview.com/2025/06/05/1117958/china-ai-agent-boom/",
+        "published": "Thu, 05 Jun 2025 18:45",
+        "summary": "Last year, China saw a boom in foundation models, the do-everything large language models that underpin the AI revolution. This year, the focus has shifted to AI agents\u2014systems that are less about responding to users\u2019 queries and more about autonomously accomplishing things for them.&#160; There are now a host of Chinese startups building these general-purpose&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Reinforcement learning with random rewards actually works with Qwen 2.5",
-        "link": "https://www.interconnects.ai/p/reinforcement-learning-with-random",
-        "published": "Tue, 27 May 2025 16:39",
-        "summary": "Making sense of research casting doubt on the potential of RLVR and where I'm optimistic for the next phase of scaling.",
+        "title": "A taxonomy for next-generation reasoning models",
+        "link": "https://www.interconnects.ai/p/next-gen-reasoners",
+        "published": "Wed, 04 Jun 2025 12:02",
+        "summary": "Where we've been and where we're going with RLVR.",
         "source": "Interconnects"
     },
     {
-        "title": "Claude 4 and Anthropic's bet on code",
-        "link": "https://www.interconnects.ai/p/claude-4-and-anthropics-bet-on-code",
-        "published": "Tue, 27 May 2025 12:03",
-        "summary": "Reasons to be optimistic and pessimistic on Anthropic's future.",
-        "source": "Interconnects"
+        "title": "What\u2019s next for AI and math",
+        "link": "https://www.technologyreview.com/2025/06/04/1117753/whats-next-for-ai-and-math/",
+        "published": "Wed, 04 Jun 2025 08:21",
+        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them\u00a0here. The way DARPA tells it, math is stuck in the past. In April, the US Defense Advanced Research Projects Agency kicked off a new initiative called expMath\u2014short&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Advanced audio dialog and generation with Gemini 2.5",
+        "link": "https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/",
+        "published": "Tue, 03 Jun 2025 17:15",
+        "summary": "Gemini 2.5 has new capabilities in AI-powered audio dialog and generation.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Inside the effort to tally AI\u2019s energy appetite",
+        "link": "https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/",
+        "published": "Tue, 03 Jun 2025 09:00",
+        "summary": "After working on it for months, my colleague Casey Crownhart and I finally saw our story on AI\u2019s energy and emissions burden go live last week.&#160; The initial goal sounded simple: Calculate how much energy is used each time we interact with a chatbot, and then tally that up to understand why everyone from leaders&#8230;",
+        "source": "Technology Review"
     }
 ]
