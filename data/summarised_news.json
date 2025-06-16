@@ -10,23 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Last year, China's AI landscape was dominated by a surge in foundation models, while now the focus has shifted towards the development of AI agents that are increasingly capable of performing complex tasks."
+            "value": "Businesses in regulated industries are increasingly adopting AI tools to enhance efficiency and manage complex tasks, particularly in sectors like finance, insurance, and healthcare."
           },
           {
             "name": "summary",
-            "value": "A new taxonomy for next-generation reasoning models has been introduced, examining the evolution of reinforcement learning and variables recovery models (RLVR) to inform future advancements."
+            "value": "The film 'ANCESTRA' is a notable collaboration that combines advanced Veo technology with live-action filmmaking, involving a significant creative team led by renowned filmmaker Darren Aronofsky."
           },
           {
             "name": "summary",
-            "value": "The MIT Technology Review's What\u2019s Next series highlights the future implications of AI on mathematics and explores how organizations like DARPA view the interplay of these fields."
+            "value": "An experimental initiative called Weather Lab is being launched to improve tropical cyclone predictions, in partnership with the U.S. National Hurricane Center, to bolster meteorological accuracy this season."
           },
           {
             "name": "summary",
-            "value": "Gemini 2.5 has been launched with advanced features for audio dialogue generation, showcasing the growing capabilities of AI technology in multimedia applications."
-          },
-          {
-            "name": "summary",
-            "value": "A new report detailing the energy consumption and environmental impact of AI has been published, revealing the significant resources AI technologies demand."
+            "value": "The Pentagon is reportedly dismantling a critical office responsible for testing AI in weapons systems, continuing a trend of budget cuts that date back to the Trump administration."
           }
         ]
       }

@@ -1,44 +1,65 @@
 [
     {
-        "title": "How I Write",
-        "link": "https://www.interconnects.ai/p/how-i-write",
-        "published": "Fri, 06 Jun 2025 15:23",
-        "summary": "Therein how I think, how AI impacts it, and how writing reflects upon AI progress.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Manus has kick-started an AI agent boom in China",
-        "link": "https://www.technologyreview.com/2025/06/05/1117958/china-ai-agent-boom/",
-        "published": "Thu, 05 Jun 2025 18:45",
-        "summary": "Last year, China saw a boom in foundation models, the do-everything large language models that underpin the AI revolution. This year, the focus has shifted to AI agents\u2014systems that are less about responding to users\u2019 queries and more about autonomously accomplishing things for them.&#160; There are now a host of Chinese startups building these general-purpose&#8230;",
+        "title": "Powering next-gen services with AI in regulated industries",
+        "link": "https://www.technologyreview.com/2025/06/13/1118600/powering-next-gen-services-with-ai-in-regulated-industries/",
+        "published": "Fri, 13 Jun 2025 14:09",
+        "summary": "Businesses in highly-regulated industries like financial services, insurance, pharmaceuticals, and health care are increasingly turning to AI-powered tools to streamline complex and sensitive tasks.&#160;Conversational AI-driven interfaces are helping hospitals to track the location and delivery of a patient\u2019s time-sensitive cancer drugs. Generative AI chatbots are helping insurance customers answer questions and solve problems. And agentic&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "A taxonomy for next-generation reasoning models",
-        "link": "https://www.interconnects.ai/p/next-gen-reasoners",
-        "published": "Wed, 04 Jun 2025 12:02",
-        "summary": "Where we've been and where we're going with RLVR.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "What\u2019s next for AI and math",
-        "link": "https://www.technologyreview.com/2025/06/04/1117753/whats-next-for-ai-and-math/",
-        "published": "Wed, 04 Jun 2025 08:21",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them\u00a0here. The way DARPA tells it, math is stuck in the past. In April, the US Defense Advanced Research Projects Agency kicked off a new initiative called expMath\u2014short&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Advanced audio dialog and generation with Gemini 2.5",
-        "link": "https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/",
-        "published": "Tue, 03 Jun 2025 17:15",
-        "summary": "Gemini 2.5 has new capabilities in AI-powered audio dialog and generation.",
+        "title": "Behind \u201cANCESTRA\u201d: combining Veo with live-action filmmaking",
+        "link": "https://deepmind.google/discover/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/",
+        "published": "Fri, 13 Jun 2025 13:30",
+        "summary": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
         "source": "DeepMind"
     },
     {
-        "title": "Inside the effort to tally AI\u2019s energy appetite",
-        "link": "https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/",
-        "published": "Tue, 03 Jun 2025 09:00",
-        "summary": "After working on it for months, my colleague Casey Crownhart and I finally saw our story on AI\u2019s energy and emissions burden go live last week.&#160; The initial goal sounded simple: Calculate how much energy is used each time we interact with a chatbot, and then tally that up to understand why everyone from leaders&#8230;",
+        "title": "The rise of reasoning machines",
+        "link": "https://www.interconnects.ai/p/the-rise-of-reasoning-machines",
+        "published": "Thu, 12 Jun 2025 17:56",
+        "summary": "And a debate that doesn't warrant repeating.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "How we're supporting better tropical cyclone prediction with AI",
+        "link": "https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai/",
+        "published": "Thu, 12 Jun 2025 15:00",
+        "summary": "We\u2019re launching Weather Lab, featuring our experimental cyclone predictions, and we\u2019re partnering with the U.S. National Hurricane Center to support their forecasts and warnings this cyclone season.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Are we ready to hand AI agents the keys?",
+        "link": "https://www.technologyreview.com/2025/06/12/1118189/ai-agents-manus-control-autonomy-operator-openai/",
+        "published": "Thu, 12 Jun 2025 10:00",
+        "summary": "On May 6, 2010, at 2:32 p.m. Eastern time, nearly a trillion dollars evaporated from the US stock market within 20 minutes\u2014at the time, the fastest decline in history. Then, almost as suddenly, the market rebounded. After months of investigation, regulators attributed much of the responsibility for this \u201cflash crash\u201d to high-frequency trading algorithms, which&#8230;",
         "source": "Technology Review"
+    },
+    {
+        "title": "Why humanoid robots need their own safety rules",
+        "link": "https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/",
+        "published": "Wed, 11 Jun 2025 10:11",
+        "summary": "Last year, a humanoid warehouse robot named Digit set to work handling boxes of Spanx. Digit can lift boxes up to 16 kilograms between trolleys and conveyor belts, taking over some of the heavier work for its human colleagues. It works in a restricted, defined area, separated from human workers by physical panels or laser&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Inside Amsterdam\u2019s high-stakes experiment to create fair welfare AI",
+        "link": "https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/",
+        "published": "Wed, 11 Jun 2025 09:00",
+        "summary": "This story is a partnership between MIT Technology Review, Lighthouse Reports, and Trouw, and was supported by the Pulitzer Center.&#160; Two futures Hans de Zwart, a gym teacher turned digital rights advocate, says that when he saw Amsterdam\u2019s plan to have an algorithm evaluate every welfare applicant in the city for potential fraud, he nearly&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The Pentagon is gutting the team that tests AI and weapons systems",
+        "link": "https://www.technologyreview.com/2025/06/10/1118229/pentagon-gutting-ai-test/",
+        "published": "Tue, 10 Jun 2025 09:00",
+        "summary": "The Trump administration\u2019s chainsaw approach to federal spending lives on, even as Elon Musk turns on the president. On May 28, Secretary of Defense Pete Hegseth announced he\u2019d be gutting a key office at the Department of Defense responsible for testing and evaluating the safety of weapons and AI systems. As part of a string&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "What comes next with reinforcement learning",
+        "link": "https://www.interconnects.ai/p/what-comes-next-with-reinforcement",
+        "published": "Mon, 09 Jun 2025 15:40",
+        "summary": "Scaling RL, sparse rewards, continual learning, and the progress wall when pretraining really stops.",
+        "source": "Interconnects"
     }
 ]
