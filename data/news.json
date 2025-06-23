@@ -1,65 +1,72 @@
 [
     {
-        "title": "Powering next-gen services with AI in regulated industries",
-        "link": "https://www.technologyreview.com/2025/06/13/1118600/powering-next-gen-services-with-ai-in-regulated-industries/",
-        "published": "Fri, 13 Jun 2025 14:09",
-        "summary": "Businesses in highly-regulated industries like financial services, insurance, pharmaceuticals, and health care are increasingly turning to AI-powered tools to streamline complex and sensitive tasks.&#160;Conversational AI-driven interfaces are helping hospitals to track the location and delivery of a patient\u2019s time-sensitive cancer drugs. Generative AI chatbots are helping insurance customers answer questions and solve problems. And agentic&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Behind \u201cANCESTRA\u201d: combining Veo with live-action filmmaking",
-        "link": "https://deepmind.google/discover/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/",
-        "published": "Fri, 13 Jun 2025 13:30",
-        "summary": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "The rise of reasoning machines",
-        "link": "https://www.interconnects.ai/p/the-rise-of-reasoning-machines",
-        "published": "Thu, 12 Jun 2025 17:56",
-        "summary": "And a debate that doesn't warrant repeating.",
+        "title": "What I've been reading (#1)",
+        "link": "https://www.interconnects.ai/p/what-ive-been-reading-1",
+        "published": "Sat, 21 Jun 2025 15:21",
+        "summary": "Splitting the links out from the artifacts log models & datasets series.",
         "source": "Interconnects"
     },
     {
-        "title": "How we're supporting better tropical cyclone prediction with AI",
-        "link": "https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai/",
-        "published": "Thu, 12 Jun 2025 15:00",
-        "summary": "We\u2019re launching Weather Lab, featuring our experimental cyclone predictions, and we\u2019re partnering with the U.S. National Hurricane Center to support their forecasts and warnings this cyclone season.",
+        "title": "It\u2019s pretty easy to get DeepSeek to talk dirty",
+        "link": "https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/",
+        "published": "Thu, 19 Jun 2025 15:08",
+        "summary": "AI companions like Replika are designed to engage in intimate exchanges, but people use general-purpose chatbots for sex talk too, despite their stricter content moderation policies. Now new research shows that not all chatbots are equally willing to talk dirty: DeepSeek is the easiest to convince. But other AI chatbots can be enticed too, if&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "OpenAI can rehabilitate AI models that develop a \u201cbad-boy persona\u201d",
+        "link": "https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/",
+        "published": "Wed, 18 Jun 2025 18:19",
+        "summary": "A new paper from OpenAI has shown why a little bit of bad training can make AI models go rogue\u2014but also demonstrates that this problem is generally pretty easy to fix.&#160; Back in February, a group of researchers discovered that fine-tuning an AI model (in their case, OpenAI\u2019s GPT-4o) by training it on code that&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Crafting a good (reasoning) model",
+        "link": "https://www.interconnects.ai/p/crafting-a-good-reasoning-model",
+        "published": "Wed, 18 Jun 2025 13:05",
+        "summary": "A recent talk I gave on model training, reasoning, and the next frontier.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Why AI hardware needs to be open",
+        "link": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
+        "published": "Wed, 18 Jun 2025 08:49",
+        "summary": "When OpenAI acquired Io to create \u201cthe coolest piece of tech that the world will have ever seen,\u201d it confirmed what industry experts have long been saying: Hardware is the new frontier for AI. AI will no longer just be an abstract thing in the cloud far away. It\u2019s coming for our homes, our rooms,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemini 2.5: Updates to our family of thinking models",
+        "link": "https://deepmind.google/discover/blog/gemini-25-updates-to-our-family-of-thinking-models/",
+        "published": "Tue, 17 Jun 2025 16:03",
+        "summary": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
         "source": "DeepMind"
     },
     {
-        "title": "Are we ready to hand AI agents the keys?",
-        "link": "https://www.technologyreview.com/2025/06/12/1118189/ai-agents-manus-control-autonomy-operator-openai/",
-        "published": "Thu, 12 Jun 2025 10:00",
-        "summary": "On May 6, 2010, at 2:32 p.m. Eastern time, nearly a trillion dollars evaporated from the US stock market within 20 minutes\u2014at the time, the fastest decline in history. Then, almost as suddenly, the market rebounded. After months of investigation, regulators attributed much of the responsibility for this \u201cflash crash\u201d to high-frequency trading algorithms, which&#8230;",
+        "title": "We\u2019re expanding our Gemini 2.5 family of models",
+        "link": "https://deepmind.google/discover/blog/were-expanding-our-gemini-25-family-of-models/",
+        "published": "Tue, 17 Jun 2025 16:01",
+        "summary": "Gemini 2.5 Flash and Pro are now generally available, and we\u2019re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
+        "link": "https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms",
+        "published": "Tue, 17 Jun 2025 10:55",
+        "summary": "",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "AI copyright anxiety will hold back creativity",
+        "link": "https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/",
+        "published": "Tue, 17 Jun 2025 10:00",
+        "summary": "Last fall, while attending a board meeting in Amsterdam, I had a few free hours and made an impromptu visit to the Van Gogh Museum. I often steal time for visits like this\u2014a perk of global business travel for which I am grateful. Wandering the galleries, I found myself before The Courtesan (after Eisen), painted&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Why humanoid robots need their own safety rules",
-        "link": "https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/",
-        "published": "Wed, 11 Jun 2025 10:11",
-        "summary": "Last year, a humanoid warehouse robot named Digit set to work handling boxes of Spanx. Digit can lift boxes up to 16 kilograms between trolleys and conveyor belts, taking over some of the heavier work for its human colleagues. It works in a restricted, defined area, separated from human workers by physical panels or laser&#8230;",
+        "title": "When AIs bargain, a less advanced agent could cost you",
+        "link": "https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/",
+        "published": "Tue, 17 Jun 2025 08:00",
+        "summary": "The race to build ever larger AI models is slowing down. The industry\u2019s focus is shifting toward agents\u2014systems that can act autonomously, make decisions, and negotiate on users\u2019 behalf. But what would happen if both a customer and a seller were using an AI agent? A recent study put agent-to-agent negotiations to the test and&#8230;",
         "source": "Technology Review"
-    },
-    {
-        "title": "Inside Amsterdam\u2019s high-stakes experiment to create fair welfare AI",
-        "link": "https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/",
-        "published": "Wed, 11 Jun 2025 09:00",
-        "summary": "This story is a partnership between MIT Technology Review, Lighthouse Reports, and Trouw, and was supported by the Pulitzer Center.&#160; Two futures Hans de Zwart, a gym teacher turned digital rights advocate, says that when he saw Amsterdam\u2019s plan to have an algorithm evaluate every welfare applicant in the city for potential fraud, he nearly&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The Pentagon is gutting the team that tests AI and weapons systems",
-        "link": "https://www.technologyreview.com/2025/06/10/1118229/pentagon-gutting-ai-test/",
-        "published": "Tue, 10 Jun 2025 09:00",
-        "summary": "The Trump administration\u2019s chainsaw approach to federal spending lives on, even as Elon Musk turns on the president. On May 28, Secretary of Defense Pete Hegseth announced he\u2019d be gutting a key office at the Department of Defense responsible for testing and evaluating the safety of weapons and AI systems. As part of a string&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "What comes next with reinforcement learning",
-        "link": "https://www.interconnects.ai/p/what-comes-next-with-reinforcement",
-        "published": "Mon, 09 Jun 2025 15:40",
-        "summary": "Scaling RL, sparse rewards, continual learning, and the progress wall when pretraining really stops.",
-        "source": "Interconnects"
     }
 ]
