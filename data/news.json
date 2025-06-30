@@ -1,72 +1,58 @@
 [
     {
-        "title": "What I've been reading (#1)",
-        "link": "https://www.interconnects.ai/p/what-ive-been-reading-1",
-        "published": "Sat, 21 Jun 2025 15:21",
-        "summary": "Splitting the links out from the artifacts log models & datasets series.",
+        "title": "Ilya on deep learning in 2015",
+        "link": "https://www.interconnects.ai/p/ilya-on-deep-learning-in-2015",
+        "published": "Sat, 28 Jun 2025 18:02",
+        "summary": "On vision and how to understand deep learning.",
         "source": "Interconnects"
     },
     {
-        "title": "It\u2019s pretty easy to get DeepSeek to talk dirty",
-        "link": "https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/",
-        "published": "Thu, 19 Jun 2025 15:08",
-        "summary": "AI companions like Replika are designed to engage in intimate exchanges, but people use general-purpose chatbots for sex talk too, despite their stricter content moderation policies. Now new research shows that not all chatbots are equally willing to talk dirty: DeepSeek is the easiest to convince. But other AI chatbots can be enticed too, if&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "OpenAI can rehabilitate AI models that develop a \u201cbad-boy persona\u201d",
-        "link": "https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/",
-        "published": "Wed, 18 Jun 2025 18:19",
-        "summary": "A new paper from OpenAI has shown why a little bit of bad training can make AI models go rogue\u2014but also demonstrates that this problem is generally pretty easy to fix.&#160; Back in February, a group of researchers discovered that fine-tuning an AI model (in their case, OpenAI\u2019s GPT-4o) by training it on code that&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Crafting a good (reasoning) model",
-        "link": "https://www.interconnects.ai/p/crafting-a-good-reasoning-model",
-        "published": "Wed, 18 Jun 2025 13:05",
-        "summary": "A recent talk I gave on model training, reasoning, and the next frontier.",
+        "title": "Latest open artifacts (#11): Visualizing China's open models market share, Arcee's models, and VLAs for robotics",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-11-visualizing",
+        "published": "Thu, 26 Jun 2025 14:19",
+        "summary": "Artifacts Log 11. ",
         "source": "Interconnects"
     },
     {
-        "title": "Why AI hardware needs to be open",
-        "link": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
-        "published": "Wed, 18 Jun 2025 08:49",
-        "summary": "When OpenAI acquired Io to create \u201cthe coolest piece of tech that the world will have ever seen,\u201d it confirmed what industry experts have long been saying: Hardware is the new frontier for AI. AI will no longer just be an abstract thing in the cloud far away. It\u2019s coming for our homes, our rooms,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Gemini 2.5: Updates to our family of thinking models",
-        "link": "https://deepmind.google/discover/blog/gemini-25-updates-to-our-family-of-thinking-models/",
-        "published": "Tue, 17 Jun 2025 16:03",
-        "summary": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
+        "title": "AlphaGenome: AI for better understanding the genome",
+        "link": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+        "published": "Wed, 25 Jun 2025 13:59",
+        "summary": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function \u2014 now available via API.",
         "source": "DeepMind"
     },
     {
-        "title": "We\u2019re expanding our Gemini 2.5 family of models",
-        "link": "https://deepmind.google/discover/blog/were-expanding-our-gemini-25-family-of-models/",
-        "published": "Tue, 17 Jun 2025 16:01",
-        "summary": "Gemini 2.5 Flash and Pro are now generally available, and we\u2019re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
+        "title": "The AI Hype Index: AI-powered toys are coming",
+        "link": "https://www.technologyreview.com/2025/06/25/1119286/ai-hype-index-toys-agents-openai-yoshua-bengio/",
+        "published": "Wed, 25 Jun 2025 09:44",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. AI agents might be the toast of the AI industry, but they\u2019re still not that reliable. That\u2019s why Yoshua Bengio, one of the&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemini Robotics On-Device brings AI to local robotic devices",
+        "link": "https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/",
+        "published": "Tue, 24 Jun 2025 14:00",
+        "summary": "We\u2019re introducing an efficient, on-device robotics model with general-purpose dexterity and fast task adaptation.",
         "source": "DeepMind"
     },
     {
-        "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
-        "link": "https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms",
-        "published": "Tue, 17 Jun 2025 10:55",
-        "summary": "",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "AI copyright anxiety will hold back creativity",
-        "link": "https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/",
-        "published": "Tue, 17 Jun 2025 10:00",
-        "summary": "Last fall, while attending a board meeting in Amsterdam, I had a few free hours and made an impromptu visit to the Van Gogh Museum. I often steal time for visits like this\u2014a perk of global business travel for which I am grateful. Wandering the galleries, I found myself before The Courtesan (after Eisen), painted&#8230;",
+        "title": "Can we fix AI\u2019s evaluation crisis?",
+        "link": "https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/",
+        "published": "Tue, 24 Jun 2025 08:50",
+        "summary": "As a tech reporter I often get asked questions like \u201cIs DeepSeek actually better than ChatGPT?\u201d or \u201cIs the Anthropic model any good?\u201d If I don\u2019t feel like turning it into an hour-long seminar, I\u2019ll usually give the diplomatic answer: \u201cThey\u2019re both solid in different ways.\u201d Most people asking aren\u2019t defining \u201cgood\u201d in any precise&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "When AIs bargain, a less advanced agent could cost you",
-        "link": "https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/",
-        "published": "Tue, 17 Jun 2025 08:00",
-        "summary": "The race to build ever larger AI models is slowing down. The industry\u2019s focus is shifting toward agents\u2014systems that can act autonomously, make decisions, and negotiate on users\u2019 behalf. But what would happen if both a customer and a seller were using an AI agent? A recent study put agent-to-agent negotiations to the test and&#8230;",
+        "title": "A Chinese firm has just launched a constantly changing set of AI benchmarks",
+        "link": "https://www.technologyreview.com/2025/06/23/1119190/chinese-changing-ai-benchmarks/",
+        "published": "Mon, 23 Jun 2025 15:46",
+        "summary": "When testing an AI model, it\u2019s hard to tell if it is reasoning or just regurgitating answers from its training data. Xbench, a new benchmark developed by the Chinese venture capital firm HSG, or HongShan Capital Group, might help to sidestep that issue. That\u2019s thanks to the way it evaluates models not only on the&#8230;",
         "source": "Technology Review"
+    },
+    {
+        "title": "Some ideas for what comes next",
+        "link": "https://www.interconnects.ai/p/summertime-outlook-o3s-novelty-coming",
+        "published": "Mon, 23 Jun 2025 13:30",
+        "summary": "As releases slow down, it's time to think about what we got this year and where we are going. o3's search, agent vs model progress, and scaling's settling.",
+        "source": "Interconnects"
     }
 ]
