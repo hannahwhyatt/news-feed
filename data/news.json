@@ -1,51 +1,37 @@
 [
     {
-        "title": "The American DeepSeek Project",
-        "link": "https://www.interconnects.ai/p/the-american-deepseek-project",
-        "published": "Fri, 04 Jul 2025 12:03",
-        "summary": "What I think the next goal for the open-source AI community is.",
+        "title": "xAI's Grok 4: The tension of frontier performance with a side of Elon favoritism",
+        "link": "https://www.interconnects.ai/p/grok-4-an-o3-look-alike-in-search",
+        "published": "Sat, 12 Jul 2025 14:41",
+        "summary": "An o3 class model, the possibility of progress, chatbot beige, and the illusiveness of taste.",
         "source": "Interconnects"
     },
     {
-        "title": "Inside India\u2019s scramble for AI independence",
-        "link": "https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/",
-        "published": "Fri, 04 Jul 2025 08:15",
-        "summary": "In Bengaluru, India, Adithya Kolavi felt a mix of excitement and validation as he watched DeepSeek unleash its disruptive language model on the world earlier this year. The Chinese technology rivaled the best of the West in terms of benchmarks, but it had been built with far less capital in far less time.&#160; \u201cI thought:&#8230;",
+        "title": "This tool strips away anti-AI protections from digital art",
+        "link": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/",
+        "published": "Thu, 10 Jul 2025 09:00",
+        "summary": "A new technique called LightShed will make it harder for artists to use existing protective tools to stop their work from being ingested for AI training. It\u2019s the next step in a cat-and-mouse game\u2014across technology, law, and culture\u2014that has been going on between artists and AI proponents for years.&#160; Generative AI models that create images&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Don\u2019t let hype about AI agents get ahead of reality",
-        "link": "https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/",
-        "published": "Thu, 03 Jul 2025 09:00",
-        "summary": "Google\u2019s recent unveiling of what it calls a \u201cnew class of agentic experiences\u201d feels like a turning point. At its I/O 2025 event in May, for example, the company showed off a digital assistant that didn\u2019t just answer questions; it helped work on a bicycle repair by finding a matching user manual, locating a YouTube&#8230;",
+        "title": "Inside OpenAI\u2019s empire: A conversation with Karen Hao",
+        "link": "https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/",
+        "published": "Wed, 09 Jul 2025 09:10",
+        "summary": "In a wide-ranging Roundtables conversation for MIT Technology Review subscribers, AI journalist and author Karen Hao spoke about her new book, Empire of AI: Dreams and Nightmares in Sam Altman\u2019s OpenAI. She talked with executive editor Niall Firth about how she first covered the company in 2020 while on staff at MIT Technology Review, and&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "How generative AI could help make construction sites safer",
-        "link": "https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/",
-        "published": "Wed, 02 Jul 2025 09:00",
-        "summary": "Last winter, during the construction of an affordable housing project on Martha\u2019s Vineyard, Massachusetts, a 32-year-old worker named Jose Luis Collaguazo Crespo slipped off a ladder on the second floor and plunged to his death in the basement. He was one of more than\u00a01,000\u00a0construction\u00a0workers who die on the job each year in the US, making&#8230;",
+        "title": "Battling next-gen financial fraud",
+        "link": "https://www.technologyreview.com/2025/07/08/1119039/battling-next-gen-financial-fraud/",
+        "published": "Tue, 08 Jul 2025 13:24",
+        "summary": "From a cluster of call centers in Canada, a criminal network defrauded elderly victims in the US out of $21 million in total between 2021 and 2024. The fraudsters used voice over internet protocol technology to&#160;dupe victims into believing the calls came from their grandchildren in the US, customizing conversations using banks of personal data,&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "LLM Research Papers: The 2025 List (January to June)",
-        "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-list-one",
-        "published": "Tue, 01 Jul 2025 11:11",
-        "summary": " A topic-organized collection of 200+ LLM research papers from 2025",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Cloudflare will now, by default, block AI bots from crawling its clients\u2019 websites",
-        "link": "https://www.technologyreview.com/2025/07/01/1119498/cloudflare-will-now-by-default-block-ai-bots-from-crawling-its-clients-websites/",
-        "published": "Tue, 01 Jul 2025 10:00",
-        "summary": "The internet infrastructure company Cloudflare announced today that it will now default to blocking AI bots from visiting websites it hosts. Cloudflare will also give clients the ability to manually allow or ban these AI bots on a case-by-case basis, and it will introduce a so-called \u201cpay-per-crawl\u201d service that clients can use to receive compensation&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "People are using AI to \u2018sit\u2019 with them while they trip on psychedelics",
-        "link": "https://www.technologyreview.com/2025/07/01/1119513/ai-sit-trip-psychedelics/",
-        "published": "Tue, 01 Jul 2025 09:06",
-        "summary": "Peter sat alone in his bedroom as the first waves of euphoria coursed through his body like an electrical current. He was in darkness, save for the soft blue light of the screen glowing from his lap. Then he started to feel pangs of panic. He picked up his phone and typed a message to&#8230;",
+        "title": "How scientists are trying to use AI to unlock the human mind",
+        "link": "https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/",
+        "published": "Tue, 08 Jul 2025 09:30",
+        "summary": "Today\u2019s AI landscape is defined by the ways in which neural networks are unlike human brains. A toddler learns how to communicate effectively with only a thousand calories a day and regular conversation; meanwhile, tech companies are reopening nuclear power plants, polluting marginalized communities, and pirating terabytes of books in order to train and run&#8230;",
         "source": "Technology Review"
     }
 ]
