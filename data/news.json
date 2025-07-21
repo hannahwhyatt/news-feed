@@ -1,37 +1,51 @@
 [
     {
-        "title": "xAI's Grok 4: The tension of frontier performance with a side of Elon favoritism",
-        "link": "https://www.interconnects.ai/p/grok-4-an-o3-look-alike-in-search",
-        "published": "Sat, 12 Jul 2025 14:41",
-        "summary": "An o3 class model, the possibility of progress, chatbot beige, and the illusiveness of taste.",
+        "title": "The Big LLM Architecture Comparison",
+        "link": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
+        "published": "Sat, 19 Jul 2025 11:11",
+        "summary": "From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "A major AI training data set contains millions of examples of personal data",
+        "link": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+        "published": "Fri, 18 Jul 2025 13:08",
+        "summary": "Millions of images of passports, credit cards, birth certificates, and other documents containing personally identifiable information are likely included in one of the biggest open-source AI training sets, new research has found. Thousands of images\u2014including identifiable faces\u2014were found in a small subset of DataComp CommonPool, a major AI training set for image generation scraped from&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How to run an LLM on your laptop",
+        "link": "https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/",
+        "published": "Thu, 17 Jul 2025 17:01",
+        "summary": "MIT Technology Review\u2019s How To series helps you get things done.&#160; Simon Willison has a plan for the end of the world. It\u2019s a USB stick, onto which he has loaded a couple of his favorite open-weight LLMs\u2014models that have been shared publicly by their creators and that can, in principle, be downloaded and run&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "These four charts show where AI companies could go next in the US",
+        "link": "https://www.technologyreview.com/2025/07/16/1120233/these-four-charts-show-where-ai-companies-could-go-next-in-the-us/",
+        "published": "Wed, 16 Jul 2025 14:00",
+        "summary": "No one knows exactly how AI will transform our communities, workplaces, and society as a whole. Because it\u2019s hard to predict the impact AI will have on jobs, many workers and local governments are left trying to read the tea leaves to understand how to prepare and adapt. A new interactive report released today by&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Google\u2019s generative video model Veo 3 has a subtitles problem",
+        "link": "https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/",
+        "published": "Tue, 15 Jul 2025 14:40",
+        "summary": "As soon as Google launched its latest video-generating AI model at the end of May, creatives rushed to put it through its paces. Released just months after its predecessor, Veo 3 allows users to generate sounds and dialogue for the first time, sparking a flurry of hyperrealistic eight-second clips stitched together into ads, ASMR videos,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "AI text-to-speech programs could \u201cunlearn\u201d how to imitate certain people",
+        "link": "https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/",
+        "published": "Tue, 15 Jul 2025 10:00",
+        "summary": "A technique known as \u201cmachine unlearning\u201d could teach AI models to forget specific voices\u2014an important step in stopping the rise of audio deepfakes, where someone\u2019s voice is copied to carry out fraud or scams. Recent advances in artificial intelligence have revolutionized the quality of text-to-speech technology so that people can convincingly re-create a piece of&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Kimi K2 and when \"DeepSeek Moments\" become normal",
+        "link": "https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments",
+        "published": "Mon, 14 Jul 2025 15:15",
+        "summary": "One \"DeepSeek Moment\" wasn't enough for us to wake up, hopefully we don't need a third.",
         "source": "Interconnects"
-    },
-    {
-        "title": "This tool strips away anti-AI protections from digital art",
-        "link": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/",
-        "published": "Thu, 10 Jul 2025 09:00",
-        "summary": "A new technique called LightShed will make it harder for artists to use existing protective tools to stop their work from being ingested for AI training. It\u2019s the next step in a cat-and-mouse game\u2014across technology, law, and culture\u2014that has been going on between artists and AI proponents for years.&#160; Generative AI models that create images&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Inside OpenAI\u2019s empire: A conversation with Karen Hao",
-        "link": "https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/",
-        "published": "Wed, 09 Jul 2025 09:10",
-        "summary": "In a wide-ranging Roundtables conversation for MIT Technology Review subscribers, AI journalist and author Karen Hao spoke about her new book, Empire of AI: Dreams and Nightmares in Sam Altman\u2019s OpenAI. She talked with executive editor Niall Firth about how she first covered the company in 2020 while on staff at MIT Technology Review, and&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Battling next-gen financial fraud",
-        "link": "https://www.technologyreview.com/2025/07/08/1119039/battling-next-gen-financial-fraud/",
-        "published": "Tue, 08 Jul 2025 13:24",
-        "summary": "From a cluster of call centers in Canada, a criminal network defrauded elderly victims in the US out of $21 million in total between 2021 and 2024. The fraudsters used voice over internet protocol technology to&#160;dupe victims into believing the calls came from their grandchildren in the US, customizing conversations using banks of personal data,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How scientists are trying to use AI to unlock the human mind",
-        "link": "https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/",
-        "published": "Tue, 08 Jul 2025 09:30",
-        "summary": "Today\u2019s AI landscape is defined by the ways in which neural networks are unlike human brains. A toddler learns how to communicate effectively with only a thousand calories a day and regular conversation; meanwhile, tech companies are reopening nuclear power plants, polluting marginalized communities, and pirating terabytes of books in order to train and run&#8230;",
-        "source": "Technology Review"
     }
 ]

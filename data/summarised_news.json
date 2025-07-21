@@ -5,24 +5,24 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet point 1",
+        "label": "Bullet points",
         "children": [],
         "attributes": [
           {
             "name": "summary",
-            "value": "Grok 4 by xAI showcases a new model that exemplifies the delicate balance of performance and user preferences, reflecting potential advancements in AI while also addressing issues of favoritism in development."
+            "value": "A comprehensive comparison of modern LLM architectures highlights advancements from DeepSeek-V3 to Kimi K2, showcasing evolving design practices in AI."
           },
           {
             "name": "summary",
-            "value": "The introduction of LightShed technology complicates the protection of digital art by allowing easier access for AI training, escalating the ongoing battle between artists and AI developers."
+            "value": "Concerns have been raised over a major AI training dataset that reportedly includes millions of images containing sensitive personal information, potentially compromising privacy."
           },
           {
             "name": "summary",
-            "value": "In a compelling discussion, AI journalist Karen Hao sheds light on her book, 'Empire of AI,' revealing the complex realities and ethical dilemmas within OpenAI and the broader artificial intelligence landscape."
+            "value": "An article in MIT Technology Review reveals how to run large language models on personal laptops, inspiring innovative solutions for technical challenges."
           },
           {
             "name": "summary",
-            "value": "A criminal network operating from Canada has been implicated in defrauding elderly individuals in the US out of $21 million over three years, utilizing VoIP technology to execute their schemes."
+            "value": "Google's latest generative video model, Veo 3, faces criticism for its subtitle features, while the rise of 'machine unlearning' techniques could help AI text-to-speech systems avoid replicating voices for malicious purposes."
           }
         ]
       }
