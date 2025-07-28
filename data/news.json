@@ -1,51 +1,86 @@
 [
     {
-        "title": "The Big LLM Architecture Comparison",
-        "link": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
-        "published": "Sat, 19 Jul 2025 11:11",
-        "summary": "From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "A major AI training data set contains millions of examples of personal data",
-        "link": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
-        "published": "Fri, 18 Jul 2025 13:08",
-        "summary": "Millions of images of passports, credit cards, birth certificates, and other documents containing personally identifiable information are likely included in one of the biggest open-source AI training sets, new research has found. Thousands of images\u2014including identifiable faces\u2014were found in a small subset of DataComp CommonPool, a major AI training set for image generation scraped from&#8230;",
+        "title": "Trump\u2019s AI Action Plan is a distraction",
+        "link": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
+        "published": "Thu, 24 Jul 2025 20:15",
+        "summary": "On Wednesday, President Trump issued three executive orders, delivered a speech, and released an action plan, all on the topic of continuing American leadership in AI.\u00a0 The plan contains dozens of proposed actions, grouped into three \u201cpillars\u201d: accelerating innovation, building infrastructure, and leading international diplomacy and security. Some of its recommendations are thoughtful even if&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "How to run an LLM on your laptop",
-        "link": "https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/",
-        "published": "Thu, 17 Jul 2025 17:01",
-        "summary": "MIT Technology Review\u2019s How To series helps you get things done.&#160; Simon Willison has a plan for the end of the world. It\u2019s a USB stick, onto which he has loaded a couple of his favorite open-weight LLMs\u2014models that have been shared publicly by their creators and that can, in principle, be downloaded and run&#8230;",
+        "title": "America\u2019s AI watchdog is losing its bite",
+        "link": "https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/",
+        "published": "Thu, 24 Jul 2025 18:59",
+        "summary": "Most Americans encounter the Federal Trade Commission only if they\u2019ve been scammed: It handles identity theft, fraud, and stolen data. During the Biden administration, the agency went after AI companies for scamming customers with deceptive advertising or harming people by selling irresponsible technologies. With yesterday\u2019s announcement of President Trump\u2019s AI Action Plan, that era may&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "These four charts show where AI companies could go next in the US",
-        "link": "https://www.technologyreview.com/2025/07/16/1120233/these-four-charts-show-where-ai-companies-could-go-next-in-the-us/",
-        "published": "Wed, 16 Jul 2025 14:00",
-        "summary": "No one knows exactly how AI will transform our communities, workplaces, and society as a whole. Because it\u2019s hard to predict the impact AI will have on jobs, many workers and local governments are left trying to read the tea leaves to understand how to prepare and adapt. A new interactive report released today by&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Google\u2019s generative video model Veo 3 has a subtitles problem",
-        "link": "https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/",
-        "published": "Tue, 15 Jul 2025 14:40",
-        "summary": "As soon as Google launched its latest video-generating AI model at the end of May, creatives rushed to put it through its paces. Released just months after its predecessor, Veo 3 allows users to generate sounds and dialogue for the first time, sparking a flurry of hyperrealistic eight-second clips stitched together into ads, ASMR videos,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AI text-to-speech programs could \u201cunlearn\u201d how to imitate certain people",
-        "link": "https://www.technologyreview.com/2025/07/15/1120094/ai-text-to-speech-programs-could-one-day-unlearn/",
-        "published": "Tue, 15 Jul 2025 10:00",
-        "summary": "A technique known as \u201cmachine unlearning\u201d could teach AI models to forget specific voices\u2014an important step in stopping the rise of audio deepfakes, where someone\u2019s voice is copied to carry out fraud or scams. Recent advances in artificial intelligence have revolutionized the quality of text-to-speech technology so that people can convincingly re-create a piece of&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Kimi K2 and when \"DeepSeek Moments\" become normal",
-        "link": "https://www.interconnects.ai/p/kimi-k2-and-when-deepseek-moments",
-        "published": "Mon, 14 Jul 2025 15:15",
-        "summary": "One \"DeepSeek Moment\" wasn't enough for us to wake up, hopefully we don't need a third.",
+        "title": "The White House's plan for open models & AI research in the U.S.",
+        "link": "https://www.interconnects.ai/p/the-white-houses-plan-for-open-models",
+        "published": "Wed, 23 Jul 2025 16:09",
+        "summary": "Thoughts on the new AI Action plan, American DeepSeek, and what comes next.",
         "source": "Interconnects"
+    },
+    {
+        "title": "America\u2019s AI Action Plan",
+        "link": "https://www.hyperdimensional.co/p/americas-ai-action-plan",
+        "published": "Wed, 23 Jul 2025 15:07",
+        "summary": "A little less conversation, a little more action ",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "Google DeepMind\u2019s new AI can help historians understand ancient Latin inscriptions",
+        "link": "https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/",
+        "published": "Wed, 23 Jul 2025 15:00",
+        "summary": "Google DeepMind has unveiled new artificial-intelligence software that could help historians recover the meaning and context behind ancient Latin engravings.&#160; Aeneas can analyze words written in long-weathered stone to say when and where they were originally inscribed. It follows Google\u2019s previous archaeological tool Ithaca, which also used deep learning to reconstruct and contextualize ancient text,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Aeneas transforms how historians connect the past",
+        "link": "https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/",
+        "published": "Wed, 23 Jul 2025 14:59",
+        "summary": "We\u2019re publishing a paper in Nature introducing Aeneas, the first AI model for contextualizing ancient inscriptions.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
+        "link": "https://deepmind.google/discover/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/",
+        "published": "Tue, 22 Jul 2025 16:00",
+        "summary": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Five things you need to know about AI right now",
+        "link": "https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/",
+        "published": "Tue, 22 Jul 2025 09:50",
+        "summary": "Last month I gave a talk at SXSW London called \u201cFive things you need to know about AI\u201d\u2014my personal picks for the five most important ideas in AI right now.&#160; I aimed the talk at a general audience, and it serves as a quick tour of how I\u2019m thinking about AI in 2025. I\u2019m sharing&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Latest open artifacts (#12): Chinese models continue to dominate throughout the summer \ud83e\udda6",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-12-qwen3-235b-a22b-instruct-2507",
+        "published": "Tue, 22 Jul 2025 00:02",
+        "summary": "A new flagship Qwen model, Qwen3-235B-A22B-Instruct-2507, and a general rise in ecosystem quality in Artifacts Log 12. ",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+        "link": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+        "published": "Mon, 21 Jul 2025 16:30",
+        "summary": "Our advanced model officially achieved a gold-medal level performance on problems from the International Mathematical Olympiad (IMO), the world\u2019s most prestigious competition for young mathematicians. It earned a total of 35 points by perfectly solving five out of the six problems.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Exploring the context of online images with Backstory",
+        "link": "https://deepmind.google/discover/blog/exploring-the-context-of-online-images-with-backstory/",
+        "published": "Mon, 21 Jul 2025 15:00",
+        "summary": "New experimental AI tool helps people explore the context and origin of images seen online.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI companies have stopped warning you that their chatbots aren\u2019t doctors",
+        "link": "https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/",
+        "published": "Mon, 21 Jul 2025 08:45",
+        "summary": "AI companies have now mostly abandoned the once-standard practice of including medical disclaimers and warnings in response to health questions, new research has found. In fact, many leading AI models will now not only answer health questions but even ask follow-ups and attempt a diagnosis. Such disclaimers serve an important reminder to people asking AI&#8230;",
+        "source": "Technology Review"
     }
 ]

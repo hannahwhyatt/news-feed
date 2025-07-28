@@ -5,24 +5,24 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet points",
+        "label": "Bullet point 1",
         "children": [],
         "attributes": [
           {
             "name": "summary",
-            "value": "A comprehensive comparison of modern LLM architectures highlights advancements from DeepSeek-V3 to Kimi K2, showcasing evolving design practices in AI."
+            "value": "President Trump announced a series of executive orders and an AI action plan aimed at reinforcing American leadership in artificial intelligence, although critics suggest this may be a distraction from more pressing issues."
           },
           {
             "name": "summary",
-            "value": "Concerns have been raised over a major AI training dataset that reportedly includes millions of images containing sensitive personal information, potentially compromising privacy."
+            "value": "The Federal Trade Commission is facing challenges in effectively regulating AI technologies, with many Americans only familiar with it through encounters related to fraud and scams."
           },
           {
             "name": "summary",
-            "value": "An article in MIT Technology Review reveals how to run large language models on personal laptops, inspiring innovative solutions for technical challenges."
+            "value": "Google DeepMind introduced Aeneas, an innovative AI tool designed to assist historians in deciphering ancient Latin inscriptions, marking a significant advancement in historical research techniques."
           },
           {
             "name": "summary",
-            "value": "Google's latest generative video model, Veo 3, faces criticism for its subtitle features, while the rise of 'machine unlearning' techniques could help AI text-to-speech systems avoid replicating voices for malicious purposes."
+            "value": "Recent developments in AI include the release of Gemini 2.5 Flash-Lite for production use, advancements in Chinese models, and the halting of medical disclaimers by AI companies, raising concerns about the accuracy of health-related information provided by AI."
           }
         ]
       }
