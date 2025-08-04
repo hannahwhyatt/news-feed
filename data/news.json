@@ -1,86 +1,65 @@
 [
     {
-        "title": "Trump\u2019s AI Action Plan is a distraction",
-        "link": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
-        "published": "Thu, 24 Jul 2025 20:15",
-        "summary": "On Wednesday, President Trump issued three executive orders, delivered a speech, and released an action plan, all on the topic of continuing American leadership in AI.\u00a0 The plan contains dozens of proposed actions, grouped into three \u201cpillars\u201d: accelerating innovation, building infrastructure, and leading international diplomacy and security. Some of its recommendations are thoughtful even if&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "America\u2019s AI watchdog is losing its bite",
-        "link": "https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/",
-        "published": "Thu, 24 Jul 2025 18:59",
-        "summary": "Most Americans encounter the Federal Trade Commission only if they\u2019ve been scammed: It handles identity theft, fraud, and stolen data. During the Biden administration, the agency went after AI companies for scamming customers with deceptive advertising or harming people by selling irresponsible technologies. With yesterday\u2019s announcement of President Trump\u2019s AI Action Plan, that era may&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The White House's plan for open models & AI research in the U.S.",
-        "link": "https://www.interconnects.ai/p/the-white-houses-plan-for-open-models",
-        "published": "Wed, 23 Jul 2025 16:09",
-        "summary": "Thoughts on the new AI Action plan, American DeepSeek, and what comes next.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "America\u2019s AI Action Plan",
-        "link": "https://www.hyperdimensional.co/p/americas-ai-action-plan",
-        "published": "Wed, 23 Jul 2025 15:07",
-        "summary": "A little less conversation, a little more action ",
+        "title": "Eyes on the Street",
+        "link": "https://www.hyperdimensional.co/p/eyes-on-the-street",
+        "published": "Sun, 03 Aug 2025 13:00",
+        "summary": "",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Google DeepMind\u2019s new AI can help historians understand ancient Latin inscriptions",
-        "link": "https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/",
-        "published": "Wed, 23 Jul 2025 15:00",
-        "summary": "Google DeepMind has unveiled new artificial-intelligence software that could help historians recover the meaning and context behind ancient Latin engravings.&#160; Aeneas can analyze words written in long-weathered stone to say when and where they were originally inscribed. It follows Google\u2019s previous archaeological tool Ithaca, which also used deep learning to reconstruct and contextualize ancient text,&#8230;",
+        "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
+        "link": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/",
+        "published": "Fri, 01 Aug 2025 16:00",
+        "summary": "A new study from Anthropic suggests that traits such as sycophancy or evilness are associated with specific patterns of activity in large language models\u2014and turning on those patterns during training can, paradoxically, prevent the model from adopting the related traits. Large language models have recently acquired a reputation for behaving badly. In April, ChatGPT suddenly&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Aeneas transforms how historians connect the past",
-        "link": "https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/",
-        "published": "Wed, 23 Jul 2025 14:59",
-        "summary": "We\u2019re publishing a paper in Nature introducing Aeneas, the first AI model for contextualizing ancient inscriptions.",
+        "title": "Try Deep Think in the Gemini app",
+        "link": "https://deepmind.google/discover/blog/try-deep-think-in-the-gemini-app/",
+        "published": "Fri, 01 Aug 2025 11:09",
+        "summary": "Deep Think utilizes extended, parallel thinking and novel reinforcement learning techniques for significantly improved problem-solving.",
         "source": "DeepMind"
     },
     {
-        "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
-        "link": "https://deepmind.google/discover/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/",
-        "published": "Tue, 22 Jul 2025 16:00",
-        "summary": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Five things you need to know about AI right now",
-        "link": "https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/",
-        "published": "Tue, 22 Jul 2025 09:50",
-        "summary": "Last month I gave a talk at SXSW London called \u201cFive things you need to know about AI\u201d\u2014my personal picks for the five most important ideas in AI right now.&#160; I aimed the talk at a general audience, and it serves as a quick tour of how I\u2019m thinking about AI in 2025. I\u2019m sharing&#8230;",
+        "title": "The two people shaping the future of OpenAI\u2019s research",
+        "link": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/",
+        "published": "Thu, 31 Jul 2025 09:06",
+        "summary": "For the past couple of years, OpenAI has felt like a one-man brand. With his showbiz style and fundraising glitz, CEO Sam Altman overshadows all other big names on the firm\u2019s roster. Even his bungled ouster ended with him back on top\u2014and more famous than ever. But look past the charismatic frontman and you get&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Latest open artifacts (#12): Chinese models continue to dominate throughout the summer \ud83e\udda6",
-        "link": "https://www.interconnects.ai/p/latest-open-artifacts-12-qwen3-235b-a22b-instruct-2507",
-        "published": "Tue, 22 Jul 2025 00:02",
-        "summary": "A new flagship Qwen model, Qwen3-235B-A22B-Instruct-2507, and a general rise in ecosystem quality in Artifacts Log 12. ",
+        "title": "The AI Hype Index: The White House\u2019s war on \u201cwoke AI\u201d",
+        "link": "https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/",
+        "published": "Wed, 30 Jul 2025 15:37",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. The Trump administration recently declared war on so-called \u201cwoke AI,\u201d issuing an executive order aimed at preventing companies whose models exhibit a liberal&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+        "link": "https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+        "published": "Wed, 30 Jul 2025 14:00",
+        "summary": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
+        "source": "DeepMind"
+    },
+    {
+        "title": "OpenAI is launching a version of ChatGPT for college students",
+        "link": "https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/",
+        "published": "Tue, 29 Jul 2025 17:18",
+        "summary": "OpenAI is launching Study Mode, a version of ChatGPT for college students that it promises will act less like a lookup tool and more like a friendly, always-available tutor. It\u2019s part of a wider push by the company to get AI more embedded into classrooms when the new academic year starts in September. A demonstration&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Interviewing Ross Taylor on the state of AI: Chinese open models, scaling reasoning, useful tools, and what comes next",
+        "link": "https://www.interconnects.ai/p/interviewing-ross-taylor-on-the-state",
+        "published": "Tue, 29 Jul 2025 13:35",
+        "summary": "Interconnects Interview #14. Ross's second time on the show.",
         "source": "Interconnects"
     },
     {
-        "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
-        "link": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
-        "published": "Mon, 21 Jul 2025 16:30",
-        "summary": "Our advanced model officially achieved a gold-medal level performance on problems from the International Mathematical Olympiad (IMO), the world\u2019s most prestigious competition for young mathematicians. It earned a total of 35 points by perfectly solving five out of the six problems.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Exploring the context of online images with Backstory",
-        "link": "https://deepmind.google/discover/blog/exploring-the-context-of-online-images-with-backstory/",
-        "published": "Mon, 21 Jul 2025 15:00",
-        "summary": "New experimental AI tool helps people explore the context and origin of images seen online.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "AI companies have stopped warning you that their chatbots aren\u2019t doctors",
-        "link": "https://www.technologyreview.com/2025/07/21/1120522/ai-companies-have-stopped-warning-you-that-their-chatbots-arent-doctors/",
-        "published": "Mon, 21 Jul 2025 08:45",
-        "summary": "AI companies have now mostly abandoned the once-standard practice of including medical disclaimers and warnings in response to health questions, new research has found. In fact, many leading AI models will now not only answer health questions but even ask follow-ups and attempt a diagnosis. Such disclaimers serve an important reminder to people asking AI&#8230;",
+        "title": "What you may have missed about Trump\u2019s AI Action Plan",
+        "link": "https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/",
+        "published": "Tue, 29 Jul 2025 09:00",
+        "summary": "A number of the executive orders and announcements coming from the White House since Donald Trump returned to office have painted an ambitious vision for America\u2019s AI future\u2014crushing competition with China, abolishing \u201cwoke\u201d AI models that suppress conservative speech, jump-starting power-hungry AI data centers. But the details have been sparse.&#160; The White House\u2019s AI Action&#8230;",
         "source": "Technology Review"
     }
 ]

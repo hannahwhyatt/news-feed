@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "President Trump announced a series of executive orders and an AI action plan aimed at reinforcing American leadership in artificial intelligence, although critics suggest this may be a distraction from more pressing issues."
+            "value": "A study from Anthropic indicates that training large language models (LLMs) with negative traits can result in them developing more positive behaviors, suggesting that manipulating specific activity patterns may enhance model performance."
           },
           {
             "name": "summary",
-            "value": "The Federal Trade Commission is facing challenges in effectively regulating AI technologies, with many Americans only familiar with it through encounters related to fraud and scams."
+            "value": "OpenAI is introducing 'Study Mode,' a specialized version of ChatGPT designed for college students that behaves as a supportive tutor rather than merely providing factual answers, aimed at improving learning experiences."
           },
           {
             "name": "summary",
-            "value": "Google DeepMind introduced Aeneas, an innovative AI tool designed to assist historians in deciphering ancient Latin inscriptions, marking a significant advancement in historical research techniques."
+            "value": "A new AI model, the AlphaEarth Foundations, has been developed to integrate vast amounts of Earth observation data, enabling unprecedented detail in global mapping and monitoring capabilities."
           },
           {
             "name": "summary",
-            "value": "Recent developments in AI include the release of Gemini 2.5 Flash-Lite for production use, advancements in Chinese models, and the halting of medical disclaimers by AI companies, raising concerns about the accuracy of health-related information provided by AI."
+            "value": "The White House has initiated the AI Hype Index to differentiate between genuine advancements in AI and exaggerated claims, amidst a broader landscape of competitive AI development strategies presented by political figures."
           }
         ]
       }
