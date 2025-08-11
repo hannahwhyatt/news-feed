@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "A study from Anthropic indicates that training large language models (LLMs) with negative traits can result in them developing more positive behaviors, suggesting that manipulating specific activity patterns may enhance model performance."
+            "value": "OpenAI has released GPT-5, merging its flagship models with the o series, allowing for seamless query routing to enhance user experience."
           },
           {
             "name": "summary",
-            "value": "OpenAI is introducing 'Study Mode,' a specialized version of ChatGPT designed for college students that behaves as a supportive tutor rather than merely providing factual answers, aimed at improving learning experiences."
+            "value": "The company also introduced 'gpt-oss', its first open-weight language models since 2019, affirming its commitment to an open ecosystem for AI development."
           },
           {
             "name": "summary",
-            "value": "A new AI model, the AlphaEarth Foundations, has been developed to integrate vast amounts of Earth observation data, enabling unprecedented detail in global mapping and monitoring capabilities."
+            "value": "AI technology is advancing bioacoustic research, with the new Perch model enabling faster audio analysis for conservation efforts aimed at protecting endangered species."
           },
           {
             "name": "summary",
-            "value": "The White House has initiated the AI Hype Index to differentiate between genuine advancements in AI and exaggerated claims, amidst a broader landscape of competitive AI development strategies presented by political figures."
+            "value": "Meta's Mark Zuckerberg is pushing for 'smarter-than-human' AI, emphasizing the importance of human talent and collaboration in achieving such technological advancements."
           }
         ]
       }

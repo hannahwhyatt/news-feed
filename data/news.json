@@ -1,65 +1,93 @@
 [
     {
-        "title": "Eyes on the Street",
-        "link": "https://www.hyperdimensional.co/p/eyes-on-the-street",
-        "published": "Sun, 03 Aug 2025 13:00",
-        "summary": "",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
-        "link": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/",
-        "published": "Fri, 01 Aug 2025 16:00",
-        "summary": "A new study from Anthropic suggests that traits such as sycophancy or evilness are associated with specific patterns of activity in large language models\u2014and turning on those patterns during training can, paradoxically, prevent the model from adopting the related traits. Large language models have recently acquired a reputation for behaving badly. In April, ChatGPT suddenly&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Try Deep Think in the Gemini app",
-        "link": "https://deepmind.google/discover/blog/try-deep-think-in-the-gemini-app/",
-        "published": "Fri, 01 Aug 2025 11:09",
-        "summary": "Deep Think utilizes extended, parallel thinking and novel reinforcement learning techniques for significantly improved problem-solving.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "The two people shaping the future of OpenAI\u2019s research",
-        "link": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/",
-        "published": "Thu, 31 Jul 2025 09:06",
-        "summary": "For the past couple of years, OpenAI has felt like a one-man brand. With his showbiz style and fundraising glitz, CEO Sam Altman overshadows all other big names on the firm\u2019s roster. Even his bungled ouster ended with him back on top\u2014and more famous than ever. But look past the charismatic frontman and you get&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The AI Hype Index: The White House\u2019s war on \u201cwoke AI\u201d",
-        "link": "https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/",
-        "published": "Wed, 30 Jul 2025 15:37",
-        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. The Trump administration recently declared war on so-called \u201cwoke AI,\u201d issuing an executive order aimed at preventing companies whose models exhibit a liberal&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
-        "link": "https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
-        "published": "Wed, 30 Jul 2025 14:00",
-        "summary": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
-        "source": "DeepMind"
-    },
-    {
-        "title": "OpenAI is launching a version of ChatGPT for college students",
-        "link": "https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/",
-        "published": "Tue, 29 Jul 2025 17:18",
-        "summary": "OpenAI is launching Study Mode, a version of ChatGPT for college students that it promises will act less like a lookup tool and more like a friendly, always-available tutor. It\u2019s part of a wider push by the company to get AI more embedded into classrooms when the new academic year starts in September. A demonstration&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Interviewing Ross Taylor on the state of AI: Chinese open models, scaling reasoning, useful tools, and what comes next",
-        "link": "https://www.interconnects.ai/p/interviewing-ross-taylor-on-the-state",
-        "published": "Tue, 29 Jul 2025 13:35",
-        "summary": "Interconnects Interview #14. Ross's second time on the show.",
+        "title": "What I've been reading (#2): More on Kimi K2, how to build a bad research center, Pretraining with RL, and sporks of AGI",
+        "link": "https://www.interconnects.ai/p/what-im-reading-2-more-on-kimi-k2",
+        "published": "Sun, 10 Aug 2025 13:19",
+        "summary": "A quiet summer is all you need.",
         "source": "Interconnects"
     },
     {
-        "title": "What you may have missed about Trump\u2019s AI Action Plan",
-        "link": "https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/",
-        "published": "Tue, 29 Jul 2025 09:00",
-        "summary": "A number of the executive orders and announcements coming from the White House since Donald Trump returned to office have painted an ambitious vision for America\u2019s AI future\u2014crushing competition with China, abolishing \u201cwoke\u201d AI models that suppress conservative speech, jump-starting power-hungry AI data centers. But the details have been sparse.&#160; The White House\u2019s AI Action&#8230;",
+        "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+        "link": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+        "published": "Sat, 09 Aug 2025 11:23",
+        "summary": "And How They Stack Up Against Qwen3",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "GPT-5 and the arc of progress",
+        "link": "https://www.interconnects.ai/p/gpt-5-and-bending-the-arc-of-progress",
+        "published": "Thu, 07 Aug 2025 22:20",
+        "summary": "Overpromising will always lead to some sort of underdelivering, but what we're getting is still phenomenal. ",
+        "source": "Interconnects"
+    },
+    {
+        "title": "GPT-5 is here. Now what?",
+        "link": "https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/",
+        "published": "Thu, 07 Aug 2025 17:00",
+        "summary": "At long last, OpenAI has released GPT-5. The new system abandons the distinction between OpenAI\u2019s flagship models and its o series of reasoning models, automatically routing user queries to a fast nonreasoning model or a slower reasoning version. It is now available to everyone through the ChatGPT web interface\u2014though nonpaying users may need to wait&#8230;",
         "source": "Technology Review"
+    },
+    {
+        "title": "How AI is helping advance the science of bioacoustics to save endangered species",
+        "link": "https://deepmind.google/discover/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
+        "published": "Thu, 07 Aug 2025 14:59",
+        "summary": "Our new Perch model helps conservationists analyze audio faster to protect endangered species, from Hawaiian honeycreepers to coral reefs.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Five ways that AI is learning to improve itself",
+        "link": "https://www.technologyreview.com/2025/08/06/1121193/five-ways-that-ai-is-learning-to-improve-itself/",
+        "published": "Wed, 06 Aug 2025 15:14",
+        "summary": "Last week, Mark Zuckerberg declared that Meta is aiming to achieve smarter-than-human AI. He seems to have a recipe for achieving that goal, and the first ingredient is human talent: Zuckerberg has reportedly tried to lure top researchers to Meta Superintelligence Labs with nine-figure offers. The second ingredient is AI itself.&#160; Zuckerberg recently said on&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "gpt-oss: OpenAI validates the open ecosystem (finally)",
+        "link": "https://www.interconnects.ai/p/gpt-oss-openai-validates-the-open",
+        "published": "Tue, 05 Aug 2025 17:24",
+        "summary": "OpenAI's first open language model release since GPT 2 and what it means for the ecosystem.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "OpenAI has finally released open-weight language models",
+        "link": "https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/",
+        "published": "Tue, 05 Aug 2025 17:00",
+        "summary": "OpenAI has finally released its first open-weight large language models since 2019\u2019s GPT-2. These new \u201cgpt-oss\u201d models are available in two different sizes and score similarly to the company\u2019s o3-mini and o4-mini models on several benchmarks. Unlike the models available through OpenAI\u2019s web interface, these new open models can be freely downloaded, run, and even&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Genie 3: A new frontier for world models",
+        "link": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+        "published": "Tue, 05 Aug 2025 14:00",
+        "summary": "Genie 3 can generate dynamic worlds that you can navigate in real time at 24 frames per second, retaining consistency for a few minutes at a resolution of 720p.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "A glimpse into OpenAI\u2019s largest ambitions",
+        "link": "https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/",
+        "published": "Tue, 05 Aug 2025 09:00",
+        "summary": "OpenAI has given itself a dual mandate. On the one hand, it\u2019s a tech giant rooted in products, including of course ChatGPT, which people around the world reportedly send 2.5 billion requests to each day. But its original mission is to serve as a research lab that will not only create \u201cartificial general intelligence\u201d but&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Rethinking how we measure AI intelligence",
+        "link": "https://deepmind.google/discover/blog/rethinking-how-we-measure-ai-intelligence/",
+        "published": "Mon, 04 Aug 2025 16:07",
+        "summary": "Game Arena is a new, open-source platform for rigorous evaluation of AI models. It allows for head-to-head comparison of frontier systems in environments with clear winning conditions.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "These protocols will help AI agents navigate our messy lives",
+        "link": "https://www.technologyreview.com/2025/08/04/1120996/protocols-help-agents-navigate-lives-mcp-a2a/",
+        "published": "Mon, 04 Aug 2025 15:00",
+        "summary": "A growing number of companies are launching AI agents that can do things on your behalf\u2014actions like sending an email, making a document, or editing a database. Initial reviews for these agents have been mixed at best, though, because they struggle to interact with all the different components of our digital lives. Part of the&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Towards American Truly Open Models: The ATOM Project",
+        "link": "https://www.interconnects.ai/p/atom-project",
+        "published": "Mon, 04 Aug 2025 14:09",
+        "summary": "Rebranding American DeepSeek into a more lasting brand. From an idea to a coalition with real impact.",
+        "source": "Interconnects"
     }
 ]
