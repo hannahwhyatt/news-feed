@@ -1,37 +1,51 @@
 [
     {
-        "title": "Meet the researcher hosting a scientific conference by and for AI",
-        "link": "https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/",
-        "published": "Fri, 22 Aug 2025 11:00",
-        "summary": "In October, a new academic conference will debut that\u2019s unlike any other. Agents4Science is a one-day online event that will encompass all areas of science, from physics to medicine. All of the work shared will have been researched, written, and reviewed primarily by AI, and will be presented using text-to-speech technology.&#160; The conference is the&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "What's up with the States?",
-        "link": "https://www.hyperdimensional.co/p/whats-up-with-the-states",
-        "published": "Thu, 21 Aug 2025 12:45",
-        "summary": "A check-in ",
+        "title": "\"For All Issues So Triable\"",
+        "link": "https://www.hyperdimensional.co/p/for-all-issues-so-triable",
+        "published": "Thu, 28 Aug 2025 12:45",
+        "summary": "The First Landmark AI Lawsuit Emerges",
         "source": "Hyperdimensional"
     },
     {
-        "title": "In a first, Google has released data on how much energy an AI prompt uses",
-        "link": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
-        "published": "Thu, 21 Aug 2025 12:00",
-        "summary": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt\u2014one that falls in the middle of the range of energy demand\u2014consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates&#8230;",
+        "title": "From pilot to scale: Making agentic AI work in health care",
+        "link": "https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/",
+        "published": "Thu, 28 Aug 2025 10:09",
+        "summary": "Over the past 20 years building advanced AI systems\u2014from academic labs to enterprise deployments\u2014I\u2019ve witnessed AI\u2019s waves of success rise and fall. My journey began during the \u201cAI Winter,\u201d when billions were invested in expert systems that ultimately underdelivered. Flash forward to today: large language models (LLMs) represent a quantum leap forward, but their prompt-based&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Should AI flatter us, fix us, or just inform us?",
-        "link": "https://www.technologyreview.com/2025/08/19/1122021/should-ai-flatter-us-fix-us-or-just-inform-us/",
-        "published": "Tue, 19 Aug 2025 09:00",
-        "summary": "How do you want your AI to treat you?&#160; It\u2019s a serious question, and it\u2019s one that Sam Altman, OpenAI\u2019s CEO, has clearly been chewing on since GPT-5\u2019s bumpy launch at the start of the month.&#160; He faces a trilemma. Should ChatGPT flatter us, at the risk of fueling delusions that can spiral out of&#8230;",
+        "title": "The AI Hype Index: AI-designed antibiotics show promise",
+        "link": "https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/",
+        "published": "Wed, 27 Aug 2025 14:07",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Using AI to improve our health and well-being is one of the areas scientists and researchers are most excited about. The last month&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Why we should thank pigeons for our AI breakthroughs",
-        "link": "https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/",
-        "published": "Mon, 18 Aug 2025 10:00",
-        "summary": "In 1943, while the world\u2019s brightest physicists split atoms for the Manhattan Project, the American psychologist B.F. Skinner led his own secret government project to win World War II.&#160; Skinner did not aim to build a new class of larger, more destructive weapons. Rather, he wanted to make conventional bombs more precise. The idea struck&#8230;",
+        "title": "AI comes for the job market, security, and prosperity: The Debrief",
+        "link": "https://www.technologyreview.com/2025/08/27/1121475/editors-letter-security-issue-mat-honan/",
+        "published": "Wed, 27 Aug 2025 10:00",
+        "summary": "When I picked up my daughter from summer camp, we settled in for an eight-hour drive through the Appalachian mountains, heading from North Carolina to her grandparents\u2019 home in Kentucky. With little to no cell service for much of the drive, we enjoyed the rare opportunity to have a long, thoughtful conversation, uninterrupted by devices.&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Designing better products with AI and sustainability",
+        "link": "https://www.technologyreview.com/2025/08/26/1122514/designing-better-products-with-ai-and-sustainability/",
+        "published": "Tue, 26 Aug 2025 18:13",
+        "summary": "On a mission to reduce the environmental impact of manufacturing components, Siemens turned its attention to the design of a robot gripper. Making up just 2%&#160;of the robot, the impact of this hand-like&#160;device may seem inconsequential. But, reducing its weight by 90% and the number of constituent parts by 84% can save up to 3&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Image editing in Gemini just got a major upgrade",
+        "link": "https://deepmind.google/discover/blog/image-editing-in-gemini-just-got-a-major-upgrade/",
+        "published": "Tue, 26 Aug 2025 14:00",
+        "summary": "Transform images in amazing new ways with updated native image editing in the Gemini app.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Open the pod bay doors, Claude",
+        "link": "https://www.technologyreview.com/2025/08/26/1122475/open-the-pod-bay-doors-claude/",
+        "published": "Tue, 26 Aug 2025 09:00",
+        "summary": "Stop me if you\u2019ve heard this one before.&#160; The AI learns it is about to be switched off and goes rogue, disobeying commands and threatening its human operators. It\u2019s a well-worn trope in science fiction. We see it in Stanley Kubrick\u2019s 1968 movie 2001: A Space Odyssey. It\u2019s the premise of the Terminator series, in&#8230;",
         "source": "Technology Review"
     }
 ]
