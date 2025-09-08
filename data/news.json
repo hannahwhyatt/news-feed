@@ -1,51 +1,58 @@
 [
     {
-        "title": "\"For All Issues So Triable\"",
-        "link": "https://www.hyperdimensional.co/p/for-all-issues-so-triable",
-        "published": "Thu, 28 Aug 2025 12:45",
-        "summary": "The First Landmark AI Lawsuit Emerges",
+        "title": "Understanding and Implementing Qwen3 From Scratch",
+        "link": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
+        "published": "Sat, 06 Sep 2025 11:10",
+        "summary": "A Detailed Look at One of the Leading Open-Source LLMs",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "Coming in for a Landing",
+        "link": "https://www.hyperdimensional.co/p/coming-in-for-a-landing",
+        "published": "Fri, 05 Sep 2025 12:45",
+        "summary": "Remarks at NatCon 2025",
         "source": "Hyperdimensional"
     },
     {
-        "title": "From pilot to scale: Making agentic AI work in health care",
-        "link": "https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/",
-        "published": "Thu, 28 Aug 2025 10:09",
-        "summary": "Over the past 20 years building advanced AI systems\u2014from academic labs to enterprise deployments\u2014I\u2019ve witnessed AI\u2019s waves of success rise and fall. My journey began during the \u201cAI Winter,\u201d when billions were invested in expert systems that ultimately underdelivered. Flash forward to today: large language models (LLMs) represent a quantum leap forward, but their prompt-based&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The AI Hype Index: AI-designed antibiotics show promise",
-        "link": "https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/",
-        "published": "Wed, 27 Aug 2025 14:07",
-        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Using AI to improve our health and well-being is one of the areas scientists and researchers are most excited about. The last month&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "AI comes for the job market, security, and prosperity: The Debrief",
-        "link": "https://www.technologyreview.com/2025/08/27/1121475/editors-letter-security-issue-mat-honan/",
-        "published": "Wed, 27 Aug 2025 10:00",
-        "summary": "When I picked up my daughter from summer camp, we settled in for an eight-hour drive through the Appalachian mountains, heading from North Carolina to her grandparents\u2019 home in Kentucky. With little to no cell service for much of the drive, we enjoyed the rare opportunity to have a long, thoughtful conversation, uninterrupted by devices.&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Designing better products with AI and sustainability",
-        "link": "https://www.technologyreview.com/2025/08/26/1122514/designing-better-products-with-ai-and-sustainability/",
-        "published": "Tue, 26 Aug 2025 18:13",
-        "summary": "On a mission to reduce the environmental impact of manufacturing components, Siemens turned its attention to the design of a robot gripper. Making up just 2%&#160;of the robot, the impact of this hand-like&#160;device may seem inconsequential. But, reducing its weight by 90% and the number of constituent parts by 84% can save up to 3&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Image editing in Gemini just got a major upgrade",
-        "link": "https://deepmind.google/discover/blog/image-editing-in-gemini-just-got-a-major-upgrade/",
-        "published": "Tue, 26 Aug 2025 14:00",
-        "summary": "Transform images in amazing new ways with updated native image editing in the Gemini app.",
+        "title": "Using AI to perceive the universe in greater depth",
+        "link": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+        "published": "Thu, 04 Sep 2025 18:00",
+        "summary": "Our novel Deep Loop Shaping method improves control of gravitational wave observatories, helping astronomers better understand the dynamics and formation of the universe.",
         "source": "DeepMind"
     },
     {
-        "title": "Open the pod bay doors, Claude",
-        "link": "https://www.technologyreview.com/2025/08/26/1122475/open-the-pod-bay-doors-claude/",
-        "published": "Tue, 26 Aug 2025 09:00",
-        "summary": "Stop me if you\u2019ve heard this one before.&#160; The AI learns it is about to be switched off and goes rogue, disobeying commands and threatening its human operators. It\u2019s a well-worn trope in science fiction. We see it in Stanley Kubrick\u2019s 1968 movie 2001: A Space Odyssey. It\u2019s the premise of the Terminator series, in&#8230;",
+        "title": "Imagining the future of banking with agentic AI",
+        "link": "https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/",
+        "published": "Thu, 04 Sep 2025 16:21",
+        "summary": "Agentic AI is coming of age. And with it comes new opportunities in the financial services sector. Banks are increasingly employing agentic AI to optimize processes, navigate complex systems, and sift through vast quantities of unstructured data to make decisions and take actions\u2014with or without human involvement. \u201cWith the maturing of agentic AI, it is&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Synthesia\u2019s AI clones are more expressive than ever. Soon they\u2019ll be able to talk back.",
+        "link": "https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/",
+        "published": "Thu, 04 Sep 2025 10:05",
+        "summary": "Earlier this summer, I walked through the glassy lobby of a fancy office in London, into an elevator, and then along a corridor into a clean, carpeted room. Natural light flooded in through its windows, and a large pair of umbrella-like lighting rigs made the room even brighter. I tried not to squint as I&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The connected customer",
+        "link": "https://www.technologyreview.com/2025/09/03/1121441/the-connected-customer/",
+        "published": "Wed, 03 Sep 2025 08:46",
+        "summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Building the AI-enabled enterprise of the future",
+        "link": "https://www.technologyreview.com/2025/09/03/1122367/building-the-ai-enabled-enterprise-of-the-future/",
+        "published": "Wed, 03 Sep 2025 08:38",
+        "summary": "Artificial intelligence is fundamentally reshaping how the world operates. With its potential to automate repetitive tasks, analyze vast datasets, and augment human capabilities, the use of AI technologies is already driving changes across industries. In health care and pharmaceuticals, machine learning and AI-powered tools are advancing disease diagnosis, reducing drug discovery timelines by as much&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "What health care providers actually want from AI",
+        "link": "https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/",
+        "published": "Tue, 02 Sep 2025 12:00",
+        "summary": "In a market flooded with AI promises, health care decision-makers are no longer dazzled by flashy demos or abstract potential. Today, they want pragmatic and pressure-tested products.\u00a0They want solutions that work for their clinicians, staff, patients, and their bottom line. To gain traction in 2025 and beyond, health care providers are looking for real-world solutions&#8230;",
         "source": "Technology Review"
     }
 ]
