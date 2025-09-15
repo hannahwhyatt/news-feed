@@ -1,58 +1,58 @@
 [
     {
-        "title": "Understanding and Implementing Qwen3 From Scratch",
-        "link": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
-        "published": "Sat, 06 Sep 2025 11:10",
-        "summary": "A Detailed Look at One of the Leading Open-Source LLMs",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "Coming in for a Landing",
-        "link": "https://www.hyperdimensional.co/p/coming-in-for-a-landing",
-        "published": "Fri, 05 Sep 2025 12:45",
-        "summary": "Remarks at NatCon 2025",
+        "title": "The Building Company",
+        "link": "https://www.hyperdimensional.co/p/the-building-company",
+        "published": "Fri, 12 Sep 2025 12:45",
+        "summary": "A vignette ",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Using AI to perceive the universe in greater depth",
-        "link": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
-        "published": "Thu, 04 Sep 2025 18:00",
-        "summary": "Our novel Deep Loop Shaping method improves control of gravitational wave observatories, helping astronomers better understand the dynamics and formation of the universe.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Imagining the future of banking with agentic AI",
-        "link": "https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/",
-        "published": "Thu, 04 Sep 2025 16:21",
-        "summary": "Agentic AI is coming of age. And with it comes new opportunities in the financial services sector. Banks are increasingly employing agentic AI to optimize processes, navigate complex systems, and sift through vast quantities of unstructured data to make decisions and take actions\u2014with or without human involvement. \u201cWith the maturing of agentic AI, it is&#8230;",
+        "title": "How do AI models generate videos?",
+        "link": "https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/",
+        "published": "Fri, 12 Sep 2025 10:01",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. It\u2019s been a big year for video generation. In the last nine months OpenAI made Sora public, Google DeepMind launched Veo 3, the video startup Runway&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Synthesia\u2019s AI clones are more expressive than ever. Soon they\u2019ll be able to talk back.",
-        "link": "https://www.technologyreview.com/2025/09/04/1123054/synthesias-ai-clones-are-more-expressive-than-ever-soon-theyll-be-able-to-talk-back/",
-        "published": "Thu, 04 Sep 2025 10:05",
-        "summary": "Earlier this summer, I walked through the glassy lobby of a fancy office in London, into an elevator, and then along a corridor into a clean, carpeted room. Natural light flooded in through its windows, and a large pair of umbrella-like lighting rigs made the room even brighter. I tried not to squint as I&#8230;",
+        "title": "Latest open artifacts (#14): NVIDIA's rise, \"Swiss & UAE DeepSeek,\" and a resurgence of open data ",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-14-nvidias",
+        "published": "Thu, 11 Sep 2025 14:41",
+        "summary": "While Qwen takes some rest, others continue to fuel the open model space.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Partnering with generative AI in the finance function",
+        "link": "https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/",
+        "published": "Thu, 11 Sep 2025 13:00",
+        "summary": "Generative AI has the potential to transform the finance function. By taking on some of the more mundane tasks that can occupy a lot of time, generative AI tools can help free up capacity for more high-value strategic work. For chief financial officers, this could mean spending more time and energy on proactively advising the&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The connected customer",
-        "link": "https://www.technologyreview.com/2025/09/03/1121441/the-connected-customer/",
-        "published": "Wed, 03 Sep 2025 08:46",
-        "summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful&#8230;",
+        "title": "On China's open source AI trajectory",
+        "link": "https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory",
+        "published": "Tue, 09 Sep 2025 13:52",
+        "summary": "Notes and predictions for the next phase of Chinese (open) AI models.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Help! My therapist is secretly using ChatGPT",
+        "link": "https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/",
+        "published": "Tue, 09 Sep 2025 09:00",
+        "summary": "In Silicon Valley\u2019s imagined future, AI models are so empathetic that we\u2019ll use them as therapists. They\u2019ll provide mental-health care for millions, unimpeded by the pesky requirements for human counselors, like the need for graduate degrees, malpractice insurance, and sleep. Down here on Earth, something very different has been happening.&#160; Last week, we published a&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Building the AI-enabled enterprise of the future",
-        "link": "https://www.technologyreview.com/2025/09/03/1122367/building-the-ai-enabled-enterprise-of-the-future/",
-        "published": "Wed, 03 Sep 2025 08:38",
-        "summary": "Artificial intelligence is fundamentally reshaping how the world operates. With its potential to automate repetitive tasks, analyze vast datasets, and augment human capabilities, the use of AI technologies is already driving changes across industries. In health care and pharmaceuticals, machine learning and AI-powered tools are advancing disease diagnosis, reducing drug discovery timelines by as much&#8230;",
+        "title": "Three big things we still don\u2019t know about AI\u2019s energy burden",
+        "link": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
+        "published": "Tue, 09 Sep 2025 09:00",
+        "summary": "Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&#160; This fundamental number remained&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "What health care providers actually want from AI",
-        "link": "https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/",
-        "published": "Tue, 02 Sep 2025 12:00",
-        "summary": "In a market flooded with AI promises, health care decision-makers are no longer dazzled by flashy demos or abstract potential. Today, they want pragmatic and pressure-tested products.\u00a0They want solutions that work for their clinicians, staff, patients, and their bottom line. To gain traction in 2025 and beyond, health care providers are looking for real-world solutions&#8230;",
+        "title": "How Yichao \u201cPeak\u201d Ji became a global AI app hitmaker",
+        "link": "https://www.technologyreview.com/2025/09/08/1122642/ji-peak-yichao-innovator-manus-app-ai/",
+        "published": "Mon, 08 Sep 2025 10:30",
+        "summary": "Yichao \u201cPeak\u201d Ji is one of MIT Technology Review\u2019s 2025 Innovators Under 35.\u00a0Meet the rest of this year\u2019s honorees.\u00a0 When Yichao Ji\u2014also known as \u201cPeak\u201d\u2014appeared in a launch video for Manus in March, he didn\u2019t expect it to go viral. Speaking in fluent English, the 32-year-old introduced the AI agent built by Chinese startup Butterfly&#8230;",
         "source": "Technology Review"
     }
 ]

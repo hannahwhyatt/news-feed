@@ -5,24 +5,24 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet point 1",
+        "label": "Bullet points",
         "children": [],
         "attributes": [
           {
             "name": "summary",
-            "value": "A comprehensive guide explores the implementation of Qwen3, an advanced open-source large language model, highlighting its features and potential applications in various fields."
+            "value": "MIT Technology Review explores how AI models can generate videos, highlighting advancements and future possibilities in the technology landscape."
           },
           {
             "name": "summary",
-            "value": "At NatCon 2025, industry leaders discussed the implications of emerging technologies and their roles in shaping societal norms and expectations."
+            "value": "The latest open artifacts report discusses NVIDIA's growth, the Swiss and UAE DeepSeek initiatives, and a resurgence in the open data movement amid shifts in AI model development."
           },
           {
             "name": "summary",
-            "value": "A new method called Deep Loop Shaping enhances the control of gravitational wave observatories, providing astronomers with deeper insights into the universe's dynamics and formation."
+            "value": "Generative AI is poised to revolutionize finance functions by automating repetitive tasks, thus enabling finance professionals to focus on more value-added responsibilities."
           },
           {
             "name": "summary",
-            "value": "In banking, the rise of agentic AI is transforming financial services by optimizing processes and improving customer experiences, meeting the needs of more price-conscious consumers."
+            "value": "The article discusses the implications of AI use in therapy, questioning the ethics of AI therapists and emphasizing the ongoing uncertainty about AI's environmental impact."
           }
         ]
       }
