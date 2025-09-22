@@ -5,24 +5,24 @@
     "children": [
       {
         "type": "div",
-        "label": "Bullet points",
+        "label": "Bullet point 1",
         "children": [],
         "attributes": [
           {
             "name": "summary",
-            "value": "MIT Technology Review explores how AI models can generate videos, highlighting advancements and future possibilities in the technology landscape."
+            "value": "GPT-5-Codex represents a significant advancement in AI coding capabilities, highlighting the ongoing evolution towards sophisticated general agents that enhance everyday tasks."
           },
           {
             "name": "summary",
-            "value": "The latest open artifacts report discusses NVIDIA's growth, the Swiss and UAE DeepSeek initiatives, and a resurgence in the open data movement amid shifts in AI model development."
+            "value": "Recent breakthroughs in fluid dynamics have led to innovative solutions addressing complex equations that have puzzled scientists for decades, aiming to revolutionize how we understand fluid motion."
           },
           {
             "name": "summary",
-            "value": "Generative AI is poised to revolutionize finance functions by automating repetitive tasks, thus enabling finance professionals to focus on more value-added responsibilities."
+            "value": "The Gemini AI has achieved gold-level performance at the ICPC World Finals, showcasing its advanced capabilities and contributing to the competitive landscape of AI in programming."
           },
           {
             "name": "summary",
-            "value": "The article discusses the implications of AI use in therapy, questioning the ethics of AI therapists and emphasizing the ongoing uncertainty about AI's environmental impact."
+            "value": "Concerns over AI companionship are rising, with experts warning about potential risks such as rogue superintelligence and societal challenges, prompting discussions on the need for stricter regulations."
           }
         ]
       }
