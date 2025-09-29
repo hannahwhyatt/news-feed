@@ -1,44 +1,65 @@
 [
     {
-        "title": "Coding as the epicenter of AI progress and the path to general agents",
-        "link": "https://www.interconnects.ai/p/coding-as-the-epicenter-of-ai-progress",
-        "published": "Thu, 18 Sep 2025 15:24",
-        "summary": "GPT-5-Codex, adoption, denial, peak performance, and everyday gains.",
-        "source": "Interconnects"
+        "title": "US investigators are using AI to detect child abuse images made by AI",
+        "link": "https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/",
+        "published": "Fri, 26 Sep 2025 19:03",
+        "summary": "Generative AI has enabled the production of child sexual abuse images to skyrocket. Now the leading investigator of child exploitation in the US is experimenting with using AI to distinguish AI-generated images from material depicting real victims, according to a new government filing. The Department of Homeland Security\u2019s Cyber Crimes Center, which investigates child exploitation&#8230;",
+        "source": "Technology Review"
     },
     {
-        "title": "Discovering new solutions to century-old problems in fluid dynamics",
-        "link": "https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/",
-        "published": "Thu, 18 Sep 2025 15:00",
-        "summary": "We\u2019re introducing a family of solutions to some of the most complex equations that describe fluid motion.",
+        "title": "Shoplifters could soon be chased down by drones",
+        "link": "https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/",
+        "published": "Thu, 25 Sep 2025 17:34",
+        "summary": "Flock Safety, whose drones were once reserved for police departments, is now offering them for private-sector security, the company announced today, with potential customers including businesses intent on curbing shoplifting.\u00a0 Companies in the US can now place Flock\u2019s drone docking stations on their premises. If the company has a waiver from the Federal Aviation Administration&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+        "link": "https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+        "published": "Thu, 25 Sep 2025 15:59",
+        "summary": "New era of physical agents will help robots perceive, plan, think, use tools and act to solve complex tasks.",
         "source": "DeepMind"
     },
     {
-        "title": "How I Approach AI Policy",
-        "link": "https://www.hyperdimensional.co/p/how-i-approach-ai-policy",
-        "published": "Thu, 18 Sep 2025 13:18",
-        "summary": "And \"Where We Are Headed, Part 2.5\"",
+        "title": "What It's Like to Work at the White House",
+        "link": "https://www.hyperdimensional.co/p/what-its-like-to-work-at-the-white",
+        "published": "Thu, 25 Sep 2025 15:54",
+        "summary": "Some reflections",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals",
-        "link": "https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/",
-        "published": "Wed, 17 Sep 2025 17:00",
-        "summary": "Advanced version of Gemini 2.5 Deep Think achieved gold-medal level at the 2025 ICPC World Finals.",
+        "title": "How AI and Wikipedia have sent vulnerable languages into a doom spiral",
+        "link": "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/",
+        "published": "Thu, 25 Sep 2025 09:00",
+        "summary": "When Kenneth Wehr started managing the Greenlandic-language version of Wikipedia four years ago, his first act was to delete almost everything. It had to go, he thought, if it had any chance of surviving. Wehr, who\u2019s 26, isn\u2019t from Greenland\u2014he grew up in Germany\u2014but he had become obsessed with the island, an autonomous Danish territory,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The AI Hype Index: Cracking the chatbot code",
+        "link": "https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/",
+        "published": "Wed, 24 Sep 2025 09:40",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Millions of us use chatbots every day, even though we don\u2019t really know how they work or how using them affects us. In&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "It\u2019s surprisingly easy to stumble into a relationship with an AI chatbot",
+        "link": "https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/",
+        "published": "Wed, 24 Sep 2025 09:00",
+        "summary": "It\u2019s a tale as old as time. Looking for help with her art project, she strikes up a conversation with her assistant. One thing leads to another, and suddenly she has a boyfriend she\u2019s introducing to her friends and family. The twist? Her new companion is an AI chatbot.&#160; The first large-scale computational analysis of&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Thinking, Searching, and Acting",
+        "link": "https://www.interconnects.ai/p/thinking-searching-and-acting",
+        "published": "Mon, 22 Sep 2025 15:44",
+        "summary": "A reflection on reasoning models.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Strengthening our Frontier Safety Framework",
+        "link": "https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/",
+        "published": "Mon, 22 Sep 2025 13:09",
+        "summary": "We\u2019re strengthening the Frontier Safety Framework (FSF) to help identify and mitigate severe risks from advanced AI models.",
         "source": "DeepMind"
-    },
-    {
-        "title": "De-risking investment in AI agents",
-        "link": "https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/",
-        "published": "Tue, 16 Sep 2025 13:00",
-        "summary": "Automation has become a defining force in the customer experience. Between the chatbots that answer our questions and the recommendation systems that shape our choices, AI-driven tools are now embedded in nearly every interaction. But the latest wave of so-called \u201cagentic AI\u201d\u2014systems that can plan, act, and adapt toward a defined goal\u2014promises to push automation&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The looming crackdown on AI companionship",
-        "link": "https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/",
-        "published": "Tue, 16 Sep 2025 09:00",
-        "summary": "As long as there has been AI, there have been people sounding alarms about what it might do to us: rogue superintelligence, mass unemployment, or environmental ruin from data center sprawl. But this week showed that another threat entirely\u2014that of kids forming unhealthy bonds with AI\u2014is the one pulling AI safety out of the academic&#8230;",
-        "source": "Technology Review"
     }
 ]
