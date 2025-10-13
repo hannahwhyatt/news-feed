@@ -1,44 +1,58 @@
 [
     {
-        "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
-        "link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-        "published": "Sun, 05 Oct 2025 11:12",
-        "summary": "Multiple-Choice Benchmarks, Verifiers, Leaderboards, and LLM Judges with Code Examples",
-        "source": "Ahead of AI"
+        "title": "Building connected data ecosystems for AI at scale",
+        "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
+        "published": "Fri, 10 Oct 2025 16:11",
+        "summary": "",
+        "source": "Technology Review"
     },
     {
-        "title": "\"Be It Enacted\"",
-        "link": "https://www.hyperdimensional.co/p/be-it-enacted",
-        "published": "Thu, 02 Oct 2025 15:29",
-        "summary": "A Proposal for Federal AI Preemption ",
+        "title": "The Future and Its Friends",
+        "link": "https://www.hyperdimensional.co/p/the-future-and-its-friends",
+        "published": "Fri, 10 Oct 2025 12:45",
+        "summary": "On the march through the institutions",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Unlocking AI\u2019s full potential requires operational excellence",
-        "link": "https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/",
-        "published": "Wed, 01 Oct 2025 14:00",
-        "summary": "Talk of AI is inescapable. It\u2019s often the main topic of discussion at board and executive meetings, at corporate retreats, and in the media. A record 58% of S&#38;P 500 companies mentioned AI in their second-quarter earnings calls, according to Goldman Sachs. But it\u2019s difficult to walk the talk. Just 5% of generative AI pilots&#8230;",
+        "title": "Introducing the Gemini 2.5 Computer Use model",
+        "link": "https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/",
+        "published": "Wed, 08 Oct 2025 10:55",
+        "summary": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro\u2019s capabilities to power agents that can interact with user interfaces.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "AI toys are all the rage in China\u2014and now they\u2019re appearing on shelves in the US too",
+        "link": "https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/",
+        "published": "Tue, 07 Oct 2025 16:51",
+        "summary": "Kids have always played with and talked to stuffed animals. But now their toys can talk back, thanks to a wave of companies that are fitting children\u2019s playthings with chatbots and voice assistants.&#160; It\u2019s a trend that has particularly taken off in China: A recent report by the Shenzhen Toy Industry Association and JD.com predicts&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "OpenAI is huge in India. Its models are steeped in caste bias.",
-        "link": "https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/",
-        "published": "Wed, 01 Oct 2025 10:28",
-        "summary": "When Dhiraj Singha began applying for postdoctoral sociology fellowships in Bengaluru, India, in March, he wanted to make sure the English in his application was pitch-perfect. So he turned to ChatGPT. He was surprised to see that in addition to smoothing out his language, it changed his identity\u2014swapping out his surname for \u201cSharma,\u201d which is&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "ChatGPT: The Agentic App",
-        "link": "https://www.interconnects.ai/p/the-agentic-app",
-        "published": "Tue, 30 Sep 2025 13:03",
-        "summary": "ChatGPT's long awaited move into user monetization and what it shows about the future of ChatGPT (and AI products writ large).",
+        "title": "Thoughts on The Curve",
+        "link": "https://www.interconnects.ai/p/thoughts-on-the-curve",
+        "published": "Tue, 07 Oct 2025 12:03",
+        "summary": "The conference and the trajectory.",
         "source": "Interconnects"
     },
     {
-        "title": "The US may be heading toward a drone-filled future",
-        "link": "https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/",
-        "published": "Tue, 30 Sep 2025 09:00",
-        "summary": "On Thursday, I published a story about the police-tech giant Flock Safety selling its drones to the private sector to track shoplifters. Keith Kauffman, a former police chief who now leads Flock\u2019s drone efforts, described the ideal scenario: A security team at a Home Depot, say, launches a drone from the roof that follows shoplifting&#8230;",
+        "title": "The three big unanswered questions about Sora",
+        "link": "https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/",
+        "published": "Tue, 07 Oct 2025 09:00",
+        "summary": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a \u201ccameo\u201d of yourself\u2014a hyperrealistic avatar that mimics your appearance and voice\u2014and insert other peoples\u2019 cameos into your own videos (depending on what permissions they set).&#160;&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Introducing CodeMender: an AI agent for code security",
+        "link": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+        "published": "Mon, 06 Oct 2025 12:59",
+        "summary": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Enabling real-time responsiveness with event-driven architecture",
+        "link": "https://www.technologyreview.com/2025/10/06/1124323/enabling-real-time-responsiveness-with-event-driven-architecture/",
+        "published": "Mon, 06 Oct 2025 08:00",
+        "summary": "",
         "source": "Technology Review"
     }
 ]

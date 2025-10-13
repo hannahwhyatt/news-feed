@@ -10,19 +10,19 @@
         "attributes": [
           {
             "name": "summary",
-            "value": "Recent discussions highlighted four key approaches to evaluating large language models (LLMs), which include multiple-choice benchmarks, verifiers, leaderboards, and LLM judges accompanied by practical code examples."
+            "value": "A new model called Gemini 2.5 Computer Use has been introduced, designed to enhance AI's interaction with user interfaces, available in preview through an API."
           },
           {
             "name": "summary",
-            "value": "A proposal for federal AI preemption has been introduced, aiming to provide a unified regulatory framework for AI technologies across various jurisdictions."
+            "value": "AI-driven interactive toys are gaining popularity in both China and the US, as companies equip children\u2019s stuffed animals with chatbots and voice assistants, allowing toys to communicate with kids."
           },
           {
             "name": "summary",
-            "value": "A record number of companies in the S&P 500, specifically 58%, have started referencing AI in their reports, emphasizing the growing importance of AI in corporate strategies and decision-making processes."
+            "value": "OpenAI's newly launched Sora app offers a TikTok-like experience featuring exclusively AI-generated videos, enabling users to create personalized 'cameo' clips of themselves."
           },
           {
             "name": "summary",
-            "value": "OpenAI's tools, particularly ChatGPT, are becoming increasingly popular in India; however, concerns have emerged regarding potential caste biases inherent in its models as users seek assistance for high-stakes applications."
+            "value": "CodeMender has been introduced as an AI agent focused on securing and patching software vulnerabilities, while event-driven architecture is highlighted for enabling real-time responsiveness in applications."
           }
         ]
       }
