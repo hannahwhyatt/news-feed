@@ -1,58 +1,72 @@
 [
     {
-        "title": "Building connected data ecosystems for AI at scale",
-        "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
-        "published": "Fri, 10 Oct 2025 16:11",
-        "summary": "",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The Future and Its Friends",
-        "link": "https://www.hyperdimensional.co/p/the-future-and-its-friends",
-        "published": "Fri, 10 Oct 2025 12:45",
-        "summary": "On the march through the institutions",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Introducing the Gemini 2.5 Computer Use model",
-        "link": "https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/",
-        "published": "Wed, 08 Oct 2025 10:55",
-        "summary": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro\u2019s capabilities to power agents that can interact with user interfaces.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "AI toys are all the rage in China\u2014and now they\u2019re appearing on shelves in the US too",
-        "link": "https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/",
-        "published": "Tue, 07 Oct 2025 16:51",
-        "summary": "Kids have always played with and talked to stuffed animals. But now their toys can talk back, thanks to a wave of companies that are fitting children\u2019s playthings with chatbots and voice assistants.&#160; It\u2019s a trend that has particularly taken off in China: A recent report by the Shenzhen Toy Industry Association and JD.com predicts&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Thoughts on The Curve",
-        "link": "https://www.interconnects.ai/p/thoughts-on-the-curve",
-        "published": "Tue, 07 Oct 2025 12:03",
-        "summary": "The conference and the trajectory.",
+        "title": "Latest open artifacts (#15): It\u2019s Qwen's world and we get to live in it, on CAISI's report, & GPT-OSS update",
+        "link": "https://www.interconnects.ai/p/latest-open-models-15-its-qwens-world",
+        "published": "Sat, 18 Oct 2025 15:26",
+        "summary": "After a quiet month, Qwen is back in full force.",
         "source": "Interconnects"
     },
     {
-        "title": "The three big unanswered questions about Sora",
-        "link": "https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/",
-        "published": "Tue, 07 Oct 2025 09:00",
-        "summary": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a \u201ccameo\u201d of yourself\u2014a hyperrealistic avatar that mimics your appearance and voice\u2014and insert other peoples\u2019 cameos into your own videos (depending on what permissions they set).&#160;&#8230;",
+        "title": "Tough Rocks",
+        "link": "https://www.hyperdimensional.co/p/tough-rocks",
+        "published": "Fri, 17 Oct 2025 14:39",
+        "summary": "Eliminating the Chinese Rare Earth Chokepoint",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "From slop to Sotheby\u2019s? AI art enters a new phase",
+        "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
+        "published": "Fri, 17 Oct 2025 10:00",
+        "summary": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Introducing CodeMender: an AI agent for code security",
-        "link": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-        "published": "Mon, 06 Oct 2025 12:59",
-        "summary": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
+        "title": "The State of Open Models",
+        "link": "https://www.interconnects.ai/p/state-of-open-models-2025",
+        "published": "Thu, 16 Oct 2025 14:08",
+        "summary": "Reflections on a crazy year in open models. (My talk at The Curve).",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Bringing AI to the next generation of fusion energy",
+        "link": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+        "published": "Thu, 16 Oct 2025 13:00",
+        "summary": "We\u2019re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
         "source": "DeepMind"
     },
     {
-        "title": "Enabling real-time responsiveness with event-driven architecture",
-        "link": "https://www.technologyreview.com/2025/10/06/1124323/enabling-real-time-responsiveness-with-event-driven-architecture/",
-        "published": "Mon, 06 Oct 2025 08:00",
-        "summary": "",
+        "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+        "link": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
+        "published": "Thu, 16 Oct 2025 12:00",
+        "summary": "We\u2019re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing Veo 3.1 and advanced creative capabilities",
+        "link": "https://deepmind.google/discover/blog/introducing-veo-3-1-and-advanced-creative-capabilities/",
+        "published": "Wed, 15 Oct 2025 16:01",
+        "summary": "We\u2019re rolling out significant updates to Veo that give people even more creative control.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Future-proofing business capabilities with AI technologies",
+        "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
+        "published": "Wed, 15 Oct 2025 11:07",
+        "summary": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what\u2019s changed in the past few years is how quickly those promises are becoming reality. From oil and gas to retail, logistics to law, AI is no longer confined to pilot projects or speculative labs. It is being deployed in critical&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Can we repair the internet?",
+        "link": "https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/",
+        "published": "Tue, 14 Oct 2025 10:00",
+        "summary": "From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures\u2014the intellect behind \u201cnet neutrality,\u201d a former Meta executive, and the web\u2019s own inventor\u2014propose radical approaches to fixing it. But are these luminaries the right people for the job? Though each shows conviction,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Transforming commercial pharma with agentic AI",
+        "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
+        "published": "Mon, 13 Oct 2025 13:00",
+        "summary": "Amid the turbulence of the wider global economy in recent years, the pharmaceuticals industry is weathering its own storms. The rising cost of raw materials and supply chain disruptions are squeezing&#160;margins as pharma companies face intense pressure\u2014including from countries like the US\u2014to control drug costs. At the same time, a wave of expiring patents threatens&#8230;",
         "source": "Technology Review"
     }
 ]
