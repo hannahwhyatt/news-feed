@@ -1,72 +1,44 @@
 [
     {
-        "title": "Latest open artifacts (#15): It\u2019s Qwen's world and we get to live in it, on CAISI's report, & GPT-OSS update",
-        "link": "https://www.interconnects.ai/p/latest-open-models-15-its-qwens-world",
-        "published": "Sat, 18 Oct 2025 15:26",
-        "summary": "After a quiet month, Qwen is back in full force.",
+        "title": "Burning out",
+        "link": "https://www.interconnects.ai/p/burning-out",
+        "published": "Sat, 25 Oct 2025 14:30",
+        "summary": "An essay on overworking in AI.",
         "source": "Interconnects"
     },
     {
-        "title": "Tough Rocks",
-        "link": "https://www.hyperdimensional.co/p/tough-rocks",
-        "published": "Fri, 17 Oct 2025 14:39",
-        "summary": "Eliminating the Chinese Rare Earth Chokepoint",
+        "title": "Turning a Blind Eye",
+        "link": "https://www.hyperdimensional.co/p/turning-a-blind-eye",
+        "published": "Thu, 23 Oct 2025 15:53",
+        "summary": "On the Other California AI Bills",
         "source": "Hyperdimensional"
     },
     {
-        "title": "From slop to Sotheby\u2019s? AI art enters a new phase",
-        "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
-        "published": "Fri, 17 Oct 2025 10:00",
-        "summary": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with&#8230;",
+        "title": "Redefining data engineering in the age of AI",
+        "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
+        "published": "Thu, 23 Oct 2025 13:00",
+        "summary": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you have large amounts of reliable and well-managed, high-quality data. Indeed, this report finds that data engineers play a pivotal role in their organizations&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The State of Open Models",
-        "link": "https://www.interconnects.ai/p/state-of-open-models-2025",
-        "published": "Thu, 16 Oct 2025 14:08",
-        "summary": "Reflections on a crazy year in open models. (My talk at The Curve).",
+        "title": "Dispatch: Partying at one of Africa\u2019s largest AI gatherings",
+        "link": "https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/",
+        "published": "Wed, 22 Oct 2025 10:00",
+        "summary": "It\u2019s late August in Rwanda\u2019s capital, Kigali, and people are filling a large hall at one of Africa\u2019s biggest gatherings of minds in AI and machine learning. The room is draped in white curtains, and a giant screen blinks with videos created with generative AI. A classic East African folk song by the Tanzanian singer&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Why AI should be able to \u201chang up\u201d on you",
+        "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
+        "published": "Tue, 21 Oct 2025 09:00",
+        "summary": "Chatbots today are everything machines. If it can be put into words\u2014relationship advice, work documents, code\u2014AI will produce it, however imperfectly. But the one thing that almost no chatbot will ever do is stop talking to you.&#160; That might seem reasonable. Why should a tech company build a feature that reduces the time people spend&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How to scale RL",
+        "link": "https://www.interconnects.ai/p/the-new-rl-scaling-laws",
+        "published": "Mon, 20 Oct 2025 15:17",
+        "summary": "A bombshell paper from Meta and friends.",
         "source": "Interconnects"
-    },
-    {
-        "title": "Bringing AI to the next generation of fusion energy",
-        "link": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
-        "published": "Thu, 16 Oct 2025 13:00",
-        "summary": "We\u2019re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-        "link": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
-        "published": "Thu, 16 Oct 2025 12:00",
-        "summary": "We\u2019re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Introducing Veo 3.1 and advanced creative capabilities",
-        "link": "https://deepmind.google/discover/blog/introducing-veo-3-1-and-advanced-creative-capabilities/",
-        "published": "Wed, 15 Oct 2025 16:01",
-        "summary": "We\u2019re rolling out significant updates to Veo that give people even more creative control.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Future-proofing business capabilities with AI technologies",
-        "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
-        "published": "Wed, 15 Oct 2025 11:07",
-        "summary": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what\u2019s changed in the past few years is how quickly those promises are becoming reality. From oil and gas to retail, logistics to law, AI is no longer confined to pilot projects or speculative labs. It is being deployed in critical&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Can we repair the internet?",
-        "link": "https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/",
-        "published": "Tue, 14 Oct 2025 10:00",
-        "summary": "From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures\u2014the intellect behind \u201cnet neutrality,\u201d a former Meta executive, and the web\u2019s own inventor\u2014propose radical approaches to fixing it. But are these luminaries the right people for the job? Though each shows conviction,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Transforming commercial pharma with agentic AI",
-        "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
-        "published": "Mon, 13 Oct 2025 13:00",
-        "summary": "Amid the turbulence of the wider global economy in recent years, the pharmaceuticals industry is weathering its own storms. The rising cost of raw materials and supply chain disruptions are squeezing&#160;margins as pharma companies face intense pressure\u2014including from countries like the US\u2014to control drug costs. At the same time, a wave of expiring patents threatens&#8230;",
-        "source": "Technology Review"
     }
 ]
