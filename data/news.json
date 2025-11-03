@@ -1,44 +1,51 @@
 [
     {
-        "title": "Burning out",
-        "link": "https://www.interconnects.ai/p/burning-out",
-        "published": "Sat, 25 Oct 2025 14:30",
-        "summary": "An essay on overworking in AI.",
-        "source": "Interconnects"
+        "title": "Leveraging the clinician\u2019s expertise with agentic AI",
+        "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
+        "published": "Thu, 30 Oct 2025 12:00",
+        "summary": "",
+        "source": "Technology Review"
     },
     {
-        "title": "Turning a Blind Eye",
-        "link": "https://www.hyperdimensional.co/p/turning-a-blind-eye",
-        "published": "Thu, 23 Oct 2025 15:53",
-        "summary": "On the Other California AI Bills",
+        "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
+        "link": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
+        "published": "Thu, 30 Oct 2025 10:00",
+        "summary": "It\u2019s become a truism that facts alone don\u2019t change people\u2019s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can\u2019t talk conspiracists out of their beliefs.&#160; But that\u2019s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments\u2014information that&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How AGI became the most consequential conspiracy theory of our time",
+        "link": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
+        "published": "Thu, 30 Oct 2025 10:00",
+        "summary": "Are you feeling it? I hear it\u2019s close: two years, five years\u2014maybe next year! And I hear it\u2019s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Building a high performance data and AI organization (2nd edition)",
+        "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
+        "published": "Wed, 29 Oct 2025 15:00",
+        "summary": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI\u2019s capabilities have been advancing at speed, and the advances have not slowed since generative AI\u2019s breakthrough. For example, multimodality\u2014 the ability to process information not only as text but also as audio,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Accelerating discovery with the AI for Math Initiative",
+        "link": "https://deepmind.google/discover/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+        "published": "Wed, 29 Oct 2025 14:17",
+        "summary": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "The AI Hype Index: Data centers\u2019 neighbors are pivoting to power blackouts",
+        "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
+        "published": "Wed, 29 Oct 2025 10:41",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Just about all businesses these days seem to be pivoting to AI, even when they don\u2019t seem to know exactly why they\u2019re investing&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Invenit et Fecit",
+        "link": "https://www.hyperdimensional.co/p/invenit-et-fecit",
+        "published": "Tue, 28 Oct 2025 14:53",
+        "summary": "On wristwatch ideas and fructose concepts ",
         "source": "Hyperdimensional"
-    },
-    {
-        "title": "Redefining data engineering in the age of AI",
-        "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
-        "published": "Thu, 23 Oct 2025 13:00",
-        "summary": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you have large amounts of reliable and well-managed, high-quality data. Indeed, this report finds that data engineers play a pivotal role in their organizations&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Dispatch: Partying at one of Africa\u2019s largest AI gatherings",
-        "link": "https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/",
-        "published": "Wed, 22 Oct 2025 10:00",
-        "summary": "It\u2019s late August in Rwanda\u2019s capital, Kigali, and people are filling a large hall at one of Africa\u2019s biggest gatherings of minds in AI and machine learning. The room is draped in white curtains, and a giant screen blinks with videos created with generative AI. A classic East African folk song by the Tanzanian singer&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Why AI should be able to \u201chang up\u201d on you",
-        "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
-        "published": "Tue, 21 Oct 2025 09:00",
-        "summary": "Chatbots today are everything machines. If it can be put into words\u2014relationship advice, work documents, code\u2014AI will produce it, however imperfectly. But the one thing that almost no chatbot will ever do is stop talking to you.&#160; That might seem reasonable. Why should a tech company build a feature that reduces the time people spend&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How to scale RL",
-        "link": "https://www.interconnects.ai/p/the-new-rl-scaling-laws",
-        "published": "Mon, 20 Oct 2025 15:17",
-        "summary": "A bombshell paper from Meta and friends.",
-        "source": "Interconnects"
     }
 ]
