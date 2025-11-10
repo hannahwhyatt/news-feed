@@ -1,51 +1,23 @@
 [
     {
-        "title": "Leveraging the clinician\u2019s expertise with agentic AI",
-        "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
-        "published": "Thu, 30 Oct 2025 12:00",
-        "summary": "",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
-        "link": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
-        "published": "Thu, 30 Oct 2025 10:00",
-        "summary": "It\u2019s become a truism that facts alone don\u2019t change people\u2019s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can\u2019t talk conspiracists out of their beliefs.&#160; But that\u2019s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments\u2014information that&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "How AGI became the most consequential conspiracy theory of our time",
-        "link": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
-        "published": "Thu, 30 Oct 2025 10:00",
-        "summary": "Are you feeling it? I hear it\u2019s close: two years, five years\u2014maybe next year! And I hear it\u2019s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Building a high performance data and AI organization (2nd edition)",
-        "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
-        "published": "Wed, 29 Oct 2025 15:00",
-        "summary": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI\u2019s capabilities have been advancing at speed, and the advances have not slowed since generative AI\u2019s breakthrough. For example, multimodality\u2014 the ability to process information not only as text but also as audio,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Accelerating discovery with the AI for Math Initiative",
-        "link": "https://deepmind.google/discover/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
-        "published": "Wed, 29 Oct 2025 14:17",
-        "summary": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "The AI Hype Index: Data centers\u2019 neighbors are pivoting to power blackouts",
-        "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
-        "published": "Wed, 29 Oct 2025 10:41",
-        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Just about all businesses these days seem to be pivoting to AI, even when they don\u2019t seem to know exactly why they\u2019re investing&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Invenit et Fecit",
-        "link": "https://www.hyperdimensional.co/p/invenit-et-fecit",
-        "published": "Tue, 28 Oct 2025 14:53",
-        "summary": "On wristwatch ideas and fructose concepts ",
+        "title": "Don't Overthink \"The AI Stack\"",
+        "link": "https://www.hyperdimensional.co/p/dont-overthink-the-ai-stack",
+        "published": "Fri, 07 Nov 2025 13:53",
+        "summary": "Reflections on the Export Promotion Executive Order",
         "source": "Hyperdimensional"
+    },
+    {
+        "title": "5 Thoughts on Kimi K2 Thinking",
+        "link": "https://www.interconnects.ai/p/kimi-k2-thinking-what-it-means",
+        "published": "Thu, 06 Nov 2025 18:43",
+        "summary": "Quick reactions to another fantastic open model from a rapidly rising Chinese lab.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Beyond Standard LLMs",
+        "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+        "published": "Tue, 04 Nov 2025 13:06",
+        "summary": "Linear Attention Hybrids, Text Diffusion, Code World Models, and Small Recursive Transformers",
+        "source": "Ahead of AI"
     }
 ]
