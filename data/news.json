@@ -1,23 +1,58 @@
 [
     {
-        "title": "Don't Overthink \"The AI Stack\"",
-        "link": "https://www.hyperdimensional.co/p/dont-overthink-the-ai-stack",
-        "published": "Fri, 07 Nov 2025 13:53",
-        "summary": "Reflections on the Export Promotion Executive Order",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "5 Thoughts on Kimi K2 Thinking",
-        "link": "https://www.interconnects.ai/p/kimi-k2-thinking-what-it-means",
-        "published": "Thu, 06 Nov 2025 18:43",
-        "summary": "Quick reactions to another fantastic open model from a rapidly rising Chinese lab.",
+        "title": "Why AI writing is mid",
+        "link": "https://www.interconnects.ai/p/why-ai-writing-is-mid",
+        "published": "Sun, 16 Nov 2025 21:36",
+        "summary": "How the current way of training language models destroys any voice (and hope of good writing).",
         "source": "Interconnects"
     },
     {
-        "title": "Beyond Standard LLMs",
-        "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
-        "published": "Tue, 04 Nov 2025 13:06",
-        "summary": "Linear Attention Hybrids, Text Diffusion, Code World Models, and Small Recursive Transformers",
-        "source": "Ahead of AI"
+        "title": "The Bitter Lessons",
+        "link": "https://www.hyperdimensional.co/p/the-bitter-lessons",
+        "published": "Fri, 14 Nov 2025 13:45",
+        "summary": "Thoughts on US-China Competition",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "OpenAI\u2019s new LLM exposes the secrets of how AI really works",
+        "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+        "published": "Thu, 13 Nov 2025 18:00",
+        "summary": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That\u2019s a big deal, because today\u2019s LLMs are black boxes: Nobody fully understands how they do what they do. Building a model that is more transparent sheds light on how LLMs work in general, helping researchers&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+        "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+        "published": "Thu, 13 Nov 2025 15:00",
+        "summary": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it\u2019s a big step toward more general-purpose agents and better real-world robots.&#160;&#160;&#160; Google DeepMind first demoed SIMA (which stands for \u201cscalable instructable multiworld agent\u201d) last year. But&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Interview: Ant Group's open model ambitions",
+        "link": "https://www.interconnects.ai/p/inside-a-chinese-frontier-lab-inclusion",
+        "published": "Wed, 12 Nov 2025 14:51",
+        "summary": "Launching a new open model series. Interconnects Interview #15.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Improving VMware migration workflows with agentic AI",
+        "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+        "published": "Wed, 12 Nov 2025 10:11",
+        "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Reimagining cybersecurity in the era of AI and quantum",
+        "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+        "published": "Mon, 10 Nov 2025 14:19",
+        "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Opening the black box of character training",
+        "link": "https://www.interconnects.ai/p/opening-the-black-box-of-character",
+        "published": "Mon, 10 Nov 2025 13:02",
+        "summary": "Some new research from me!",
+        "source": "Interconnects"
     }
 ]
