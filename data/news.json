@@ -1,58 +1,23 @@
 [
     {
-        "title": "Latest open artifacts (#16): Who's building models in the U.S., China's model release playbook, and a resurgence of truly open models",
-        "link": "https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building",
-        "published": "Sun, 23 Nov 2025 19:31",
-        "summary": "A month with SOTA releases with (truly) open model releases left and right.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Artifacts of a Busy Week",
-        "link": "https://www.hyperdimensional.co/p/artifacts-of-a-busy-week",
-        "published": "Fri, 21 Nov 2025 15:15",
-        "summary": "A debate on superintelligence, an essay on liability, and Congressional testimony ",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Designing digital resilience in the agentic AI era",
-        "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-        "published": "Thu, 20 Nov 2025 14:30",
-        "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
+        "title": "The AI Hype Index: The people can\u2019t get enough of AI slop",
+        "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
+        "published": "Wed, 26 Nov 2025 10:00",
+        "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Last year, the fantasy author Joanna Maciejewska went viral (if such a thing is still possible on X) with a post saying \u201cI&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Olmo 3: America\u2019s truly open reasoning models",
-        "link": "https://www.interconnects.ai/p/olmo-3-americas-truly-open-reasoning",
-        "published": "Thu, 20 Nov 2025 14:09",
-        "summary": "",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Scaling innovation in manufacturing with AI",
-        "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-        "published": "Wed, 19 Nov 2025 16:54",
-        "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
+        "title": "The State of AI: Chatbot companions and the future of our privacy",
+        "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+        "published": "Mon, 24 Nov 2025 16:30",
+        "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this week&#8217;s conversation MIT Technology Review\u2019s senior reporter for features and investigations, Eileen Guo, and FT tech correspondent Melissa&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
-        "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
-        "published": "Wed, 19 Nov 2025 10:00",
-        "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Networking for AI: Building the foundation for real-time intelligence",
-        "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
-        "published": "Tue, 18 Nov 2025 16:03",
-        "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Realizing value with AI inference at scale and in production",
-        "link": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
-        "published": "Tue, 18 Nov 2025 16:02",
-        "summary": "Training an AI model to predict equipment failures is an engineering achievement. But it&#8217;s not until prediction meets action\u2014the moment that model successfully flags a malfunctioning machine\u2014that true business transformation occurs. One technical milestone lives in a proof-of-concept deck; the other meaningfully contributes to the bottom line. Craig Partridge, senior director worldwide of Digital Next&#8230;",
+        "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+        "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+        "published": "Mon, 24 Nov 2025 16:21",
+        "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
         "source": "Technology Review"
     }
 ]
