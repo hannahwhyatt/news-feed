@@ -1,58 +1,72 @@
 [
     {
-        "title": "2025 Open Models Year in Review",
-        "link": "https://www.interconnects.ai/p/2025-open-models-year-in-review",
-        "published": "Sun, 14 Dec 2025 20:01",
-        "summary": "The first recap of a long year in the trenches of open models.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Improved Gemini audio models for powerful voice experiences",
-        "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-        "published": "Fri, 12 Dec 2025 17:50",
-        "summary": "",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Where Do You Stand?",
-        "link": "https://www.hyperdimensional.co/p/where-do-we-stand",
-        "published": "Fri, 12 Dec 2025 13:40",
-        "summary": "On ghosts",
+        "title": "Dice in the Air",
+        "link": "https://www.hyperdimensional.co/p/dice-in-the-air",
+        "published": "Fri, 19 Dec 2025 13:31",
+        "summary": "A look back at 2025, and a look ahead",
         "source": "Hyperdimensional"
     },
     {
-        "title": "Deepening our partnership with the UK AI Security Institute",
-        "link": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-        "published": "Thu, 11 Dec 2025 00:06",
-        "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
-        "source": "DeepMind"
-    },
-    {
-        "title": "New Talk: Building Olmo 3 Think",
-        "link": "https://www.interconnects.ai/p/building-olmo-3-think",
-        "published": "Wed, 10 Dec 2025 19:33",
-        "summary": "Re-recording my NeurIPS talks in one mega-take. ",
+        "title": "Open models: Hot or Not with Nathan Lambert & Florian Brand",
+        "link": "https://www.interconnects.ai/p/open-models-hot-or-not-with-nathan",
+        "published": "Thu, 18 Dec 2025 18:31",
+        "summary": "A recording from Nathan Lambert's live video",
         "source": "Interconnects"
     },
     {
-        "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
-        "link": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-        "published": "Wed, 10 Dec 2025 14:59",
-        "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+        "title": "2025 Interconnects year in review",
+        "link": "https://www.interconnects.ai/p/2025-interconnects-year-in-review",
+        "published": "Thu, 18 Dec 2025 14:56",
+        "summary": "Three years writing every week about AI.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Gemini 3 Flash: frontier intelligence built for speed",
+        "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+        "published": "Wed, 17 Dec 2025 11:58",
+        "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
         "source": "DeepMind"
     },
     {
-        "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
-        "link": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-        "published": "Tue, 09 Dec 2025 11:29",
-        "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+        "title": "Creating psychological safety in the AI era",
+        "link": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
+        "published": "Tue, 16 Dec 2025 15:00",
+        "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximize its value. While the technical hurdles are signi\ufb01cant, the human element can be even more consequential; fear and ambiguity can stall momentum of even the most promising&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Why it\u2019s time to reset our expectations for AI",
+        "link": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
+        "published": "Tue, 16 Dec 2025 12:29",
+        "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you can be honest with&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+        "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+        "published": "Tue, 16 Dec 2025 10:14",
+        "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
         "source": "DeepMind"
     },
     {
-        "title": "The State of AI: A vision of the world in 2030",
-        "link": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
-        "published": "Mon, 08 Dec 2025 16:30",
-        "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power.&#160;You can read the rest of the series here. In this final edition, MIT Technology Review\u2019s senior AI editor Will Douglas&#8230;",
+        "title": "The fast and the future-focused are revolutionizing motorsport",
+        "link": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/",
+        "published": "Mon, 15 Dec 2025 15:00",
+        "summary": "When the ABB FIA Formula E World Championship launched its first race through Beijing\u2019s Olympic Park in 2014, the idea of all-electric motorsport still bordered on experimental. Batteries couldn\u2019t yet last a full race, and drivers had to switch cars mid-competition. Just over a decade later, Formula E has evolved into a global entertainment brand&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "A brief history of Sam Altman\u2019s hype",
+        "link": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/",
+        "published": "Mon, 15 Dec 2025 10:00",
+        "summary": "Each time you\u2019ve heard a borderline outlandish idea of what AI will be capable of, it often turns out that Sam Altman was, if not the first to articulate it, at least the most persuasive and influential voice behind it.&#160; For more than a decade he has been known in Silicon Valley as a world-class&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The AI doomers feel undeterred",
+        "link": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
+        "published": "Mon, 15 Dec 2025 10:00",
+        "summary": "It\u2019s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest terms, that AI could get so good it could be bad\u2014very, very bad\u2014for humanity. Though many of these people would be more likely to describe themselves as advocates for AI safety&#8230;",
         "source": "Technology Review"
     }
 ]
