@@ -1,72 +1,23 @@
 [
     {
-        "title": "Dice in the Air",
-        "link": "https://www.hyperdimensional.co/p/dice-in-the-air",
-        "published": "Fri, 19 Dec 2025 13:31",
-        "summary": "A look back at 2025, and a look ahead",
-        "source": "Hyperdimensional"
+        "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+        "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+        "published": "Thu, 25 Dec 2025 10:00",
+        "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
+        "source": "Technology Review"
     },
     {
-        "title": "Open models: Hot or Not with Nathan Lambert & Florian Brand",
-        "link": "https://www.interconnects.ai/p/open-models-hot-or-not-with-nathan",
-        "published": "Thu, 18 Dec 2025 18:31",
-        "summary": "A recording from Nathan Lambert's live video",
-        "source": "Interconnects"
-    },
-    {
-        "title": "2025 Interconnects year in review",
-        "link": "https://www.interconnects.ai/p/2025-interconnects-year-in-review",
-        "published": "Thu, 18 Dec 2025 14:56",
-        "summary": "Three years writing every week about AI.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Gemini 3 Flash: frontier intelligence built for speed",
-        "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-        "published": "Wed, 17 Dec 2025 11:58",
-        "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+        "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+        "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+        "published": "Tue, 23 Dec 2025 17:01",
+        "summary": "Google 2025 recap: Research breakthroughs of the year",
         "source": "DeepMind"
     },
     {
-        "title": "Creating psychological safety in the AI era",
-        "link": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
-        "published": "Tue, 16 Dec 2025 15:00",
-        "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximize its value. While the technical hurdles are signi\ufb01cant, the human element can be even more consequential; fear and ambiguity can stall momentum of even the most promising&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Why it\u2019s time to reset our expectations for AI",
-        "link": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
-        "published": "Tue, 16 Dec 2025 12:29",
-        "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you can be honest with&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-        "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-        "published": "Tue, 16 Dec 2025 10:14",
-        "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "The fast and the future-focused are revolutionizing motorsport",
-        "link": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/",
-        "published": "Mon, 15 Dec 2025 15:00",
-        "summary": "When the ABB FIA Formula E World Championship launched its first race through Beijing\u2019s Olympic Park in 2014, the idea of all-electric motorsport still bordered on experimental. Batteries couldn\u2019t yet last a full race, and drivers had to switch cars mid-competition. Just over a decade later, Formula E has evolved into a global entertainment brand&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "A brief history of Sam Altman\u2019s hype",
-        "link": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/",
-        "published": "Mon, 15 Dec 2025 10:00",
-        "summary": "Each time you\u2019ve heard a borderline outlandish idea of what AI will be capable of, it often turns out that Sam Altman was, if not the first to articulate it, at least the most persuasive and influential voice behind it.&#160; For more than a decade he has been known in Silicon Valley as a world-class&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "The AI doomers feel undeterred",
-        "link": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
-        "published": "Mon, 15 Dec 2025 10:00",
-        "summary": "It\u2019s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest terms, that AI could get so good it could be bad\u2014very, very bad\u2014for humanity. Though many of these people would be more likely to describe themselves as advocates for AI safety&#8230;",
+        "title": "How social media encourages the worst of AI boosterism",
+        "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+        "published": "Tue, 23 Dec 2025 10:00",
+        "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
         "source": "Technology Review"
     }
 ]
