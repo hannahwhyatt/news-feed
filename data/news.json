@@ -1,58 +1,58 @@
 [
     {
-        "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-        "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
-        "published": "Sat, 24 Jan 2026 11:23",
-        "summary": "And an Overview of Recent Inference-Scaling Papers (Including Recursive Language Models)",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "America\u2019s coming war over AI regulation",
-        "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
-        "published": "Fri, 23 Jan 2026 10:00",
-        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In the final weeks of 2025, the battle over regulating artificial intelligence in the US reached a boiling point. On December 11, after Congress failed twice&#8230;",
+        "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+        "link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+        "published": "Fri, 30 Jan 2026 16:32",
+        "summary": "Civitai\u2014an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz\u2014is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the site, a new analysis has found. The study, from researchers at Stanford and Indiana&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "\u201cDr. Google\u201d had its issues. Can ChatGPT Health do better?",
-        "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-        "published": "Thu, 22 Jan 2026 17:38",
-        "summary": "For the past two decades, there\u2019s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice was so common that it gained the pejorative moniker \u201cDr. Google.\u201d But times are changing, and many medical-information seekers are now using LLMs. According to OpenAI, 230 million people ask&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "On AI and Children",
-        "link": "https://www.hyperdimensional.co/p/on-ai-and-children",
-        "published": "Thu, 22 Jan 2026 14:46",
-        "summary": "Five-and-a-half conjectures",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "Yann LeCun\u2019s new venture is a contrarian bet against large language models",
-        "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-        "published": "Thu, 22 Jan 2026 10:00",
-        "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry\u2019s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.&#160; Instead, he thinks we should be betting on world&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Get Good at Agents",
-        "link": "https://www.interconnects.ai/p/get-good-at-agents",
-        "published": "Wed, 21 Jan 2026 17:05",
-        "summary": "The tools are getting so powerful that we need to change how we scope, manage, and approach our work.",
+        "title": "Thoughts on the job market in the age of LLMs",
+        "link": "https://www.interconnects.ai/p/thoughts-on-the-hiring-market-in",
+        "published": "Fri, 30 Jan 2026 15:49",
+        "summary": "On standing out and finding gems.",
         "source": "Interconnects"
     },
     {
-        "title": "Rethinking AI\u2019s future in an augmented workplace",
-        "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
-        "published": "Wed, 21 Jan 2026 15:00",
-        "summary": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and misallocated capital. On the other end, it\u2019s cast as a dystopian force, destined to eliminate jobs on a large scale and destabilize economies. Markets oscillate between skepticism and&#8230;",
+        "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+        "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+        "published": "Thu, 29 Jan 2026 20:56",
+        "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It\u2019s just that you never know which one you\u2019re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Everyone wants AI sovereignty. No one can truly have it.",
-        "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
-        "published": "Wed, 21 Jan 2026 14:00",
-        "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds include financing for domestic data centers, locally trained models, independent supply chains, and national talent pipelines. This is a response to real&#8230;",
+        "title": "DHS is using Google and Adobe AI to make videos",
+        "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+        "published": "Thu, 29 Jan 2026 18:57",
+        "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda\u2014some of which appears to be made with AI\u2014and as&#8230;",
         "source": "Technology Review"
+    },
+    {
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+        "published": "Thu, 29 Jan 2026 17:01",
+        "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "What AI \u201cremembers\u201d about you is privacy\u2019s next frontier",
+        "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+        "published": "Wed, 28 Jan 2026 14:57",
+        "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&#160; Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company\u2019s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini \u201cmore personal, proactive,&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Rules fail at the prompt, succeed at the boundary",
+        "link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+        "published": "Wed, 28 Jan 2026 14:00",
+        "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Arcee AI goes all-in on open models built in the U.S.",
+        "link": "https://www.interconnects.ai/p/arcee-ai-goes-all-in-on-open-models",
+        "published": "Tue, 27 Jan 2026 22:47",
+        "summary": "Interconnects interview #16 to celebrate the release of Trinity Large.",
+        "source": "Interconnects"
     }
 ]
