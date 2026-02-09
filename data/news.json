@@ -1,58 +1,58 @@
 [
     {
-        "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
-        "link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
-        "published": "Fri, 30 Jan 2026 16:32",
-        "summary": "Civitai\u2014an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz\u2014is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the site, a new analysis has found. The study, from researchers at Stanford and Indiana&#8230;",
+        "title": "Moltbook was peak AI theater",
+        "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+        "published": "Fri, 06 Feb 2026 16:38",
+        "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website\u2019s tagline puts it: \u201cWhere AI agents share, discuss, and upvote. Humans welcome to observe.\u201d We observed! Launched on January 28 by Matt Schlicht,&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Thoughts on the job market in the age of LLMs",
-        "link": "https://www.interconnects.ai/p/thoughts-on-the-hiring-market-in",
-        "published": "Fri, 30 Jan 2026 15:49",
-        "summary": "On standing out and finding gems.",
+        "title": "On Recursive Self-Improvement (Part I)",
+        "link": "https://www.hyperdimensional.co/p/on-recursive-self-improvement-part",
+        "published": "Thu, 05 Feb 2026 14:51",
+        "summary": "Thoughts on the automation of AI research",
+        "source": "Hyperdimensional"
+    },
+    {
+        "title": "This is the most misunderstood graph in AI",
+        "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
+        "published": "Thu, 05 Feb 2026 10:00",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn\u2019t exhale until METR, an AI&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Why Nvidia builds open models with Bryan Catanzaro",
+        "link": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
+        "published": "Wed, 04 Feb 2026 18:00",
+        "summary": "Interconnects interview #17 on the past, present, and future of the Nemotron project.",
         "source": "Interconnects"
     },
     {
-        "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
-        "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
-        "published": "Thu, 29 Jan 2026 20:56",
-        "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It\u2019s just that you never know which one you\u2019re going to get. Grok is a pornography machine. Claude Code can do anything from building websites to reading your MRI. So of course Gen Z is spooked by what this&#8230;",
+        "title": "From guardrails to governance: A CEO\u2019s guide for securing agentic systems",
+        "link": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+        "published": "Wed, 04 Feb 2026 14:00",
+        "summary": "The previous article in this series, \u201cRules fail at the prompt, succeed at the boundary,\u201d focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What do we do about agent risk? Across&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "DHS is using Google and Adobe AI to make videos",
-        "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
-        "published": "Thu, 29 Jan 2026 18:57",
-        "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda\u2014some of which appears to be made with AI\u2014and as&#8230;",
+        "title": "What we\u2019ve been getting wrong about AI\u2019s truth crisis",
+        "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+        "published": "Mon, 02 Feb 2026 18:09",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about\u2014where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Project Genie: Experimenting with infinite, interactive worlds",
-        "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
-        "published": "Thu, 29 Jan 2026 17:01",
-        "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "What AI \u201cremembers\u201d about you is privacy\u2019s next frontier",
-        "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-        "published": "Wed, 28 Jan 2026 14:57",
-        "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&#160; Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company\u2019s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini \u201cmore personal, proactive,&#8230;",
+        "title": "The crucial first step for designing a successful enterprise AI system",
+        "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+        "published": "Mon, 02 Feb 2026 14:20",
+        "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes\u2014but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Whether it\u2019s increasing CX productivity with Cisco, building a more&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Rules fail at the prompt, succeed at the boundary",
-        "link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-        "published": "Wed, 28 Jan 2026 14:00",
-        "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic\u2019s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Arcee AI goes all-in on open models built in the U.S.",
-        "link": "https://www.interconnects.ai/p/arcee-ai-goes-all-in-on-open-models",
-        "published": "Tue, 27 Jan 2026 22:47",
-        "summary": "Interconnects interview #16 to celebrate the release of Trinity Large.",
+        "title": "Latest open artifacts (#18): Arcee's 400B MoE, LiquidAI's underrated 1B model, new Kimi, and anticipation of a busy month",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-18-arcees-big",
+        "published": "Mon, 02 Feb 2026 13:03",
+        "summary": "Tons of useful \"niche\" models and anticipation of big releases coming soon.",
         "source": "Interconnects"
     }
 ]
