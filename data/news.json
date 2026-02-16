@@ -1,58 +1,65 @@
 [
     {
-        "title": "Moltbook was peak AI theater",
-        "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-        "published": "Fri, 06 Feb 2026 16:38",
-        "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website\u2019s tagline puts it: \u201cWhere AI agents share, discuss, and upvote. Humans welcome to observe.\u201d We observed! Launched on January 28 by Matt Schlicht,&#8230;",
-        "source": "Technology Review"
+        "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+        "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+        "published": "Thu, 12 Feb 2026 16:15",
+        "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+        "source": "DeepMind"
     },
     {
-        "title": "On Recursive Self-Improvement (Part I)",
-        "link": "https://www.hyperdimensional.co/p/on-recursive-self-improvement-part",
-        "published": "Thu, 05 Feb 2026 14:51",
-        "summary": "Thoughts on the automation of AI research",
+        "title": "On Recursive Self-Improvement (Part II)",
+        "link": "https://www.hyperdimensional.co/p/on-recursive-self-improvement-part-d9b",
+        "published": "Thu, 12 Feb 2026 14:50",
+        "summary": "What is the policymaker to do?",
         "source": "Hyperdimensional"
     },
     {
-        "title": "This is the most misunderstood graph in AI",
-        "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
-        "published": "Thu, 05 Feb 2026 10:00",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn\u2019t exhale until METR, an AI&#8230;",
+        "title": "AI is already making online crimes easier. It could get much worse.",
+        "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+        "published": "Thu, 12 Feb 2026 11:00",
+        "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Why Nvidia builds open models with Bryan Catanzaro",
-        "link": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with",
-        "published": "Wed, 04 Feb 2026 18:00",
-        "summary": "Interconnects interview #17 on the past, present, and future of the Nemotron project.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "From guardrails to governance: A CEO\u2019s guide for securing agentic systems",
-        "link": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
-        "published": "Wed, 04 Feb 2026 14:00",
-        "summary": "The previous article in this series, \u201cRules fail at the prompt, succeed at the boundary,\u201d focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What do we do about agent risk? Across&#8230;",
+        "title": "What\u2019s next for Chinese open-source AI",
+        "link": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+        "published": "Thu, 12 Feb 2026 10:00",
+        "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "What we\u2019ve been getting wrong about AI\u2019s truth crisis",
-        "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
-        "published": "Mon, 02 Feb 2026 18:09",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about\u2014where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;",
+        "title": "Is a secure AI assistant possible?",
+        "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
+        "published": "Wed, 11 Feb 2026 20:08",
+        "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as web browsers and email addresses, the consequences of those mistakes become far more serious. That might explain why the&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The crucial first step for designing a successful enterprise AI system",
-        "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
-        "published": "Mon, 02 Feb 2026 14:20",
-        "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes\u2014but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Whether it\u2019s increasing CX productivity with Cisco, building a more&#8230;",
+        "title": "A \u201cQuitGPT\u201d campaign is urging people to cancel their ChatGPT subscriptions",
+        "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+        "published": "Tue, 10 Feb 2026 17:00",
+        "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot\u2019s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Latest open artifacts (#18): Arcee's 400B MoE, LiquidAI's underrated 1B model, new Kimi, and anticipation of a busy month",
-        "link": "https://www.interconnects.ai/p/latest-open-artifacts-18-arcees-big",
-        "published": "Mon, 02 Feb 2026 13:03",
-        "summary": "Tons of useful \"niche\" models and anticipation of big releases coming soon.",
+        "title": "Why the Moltbook frenzy was like Pok\u00e9mon",
+        "link": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+        "published": "Mon, 09 Feb 2026 17:02",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+        "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+        "published": "Mon, 09 Feb 2026 16:12",
+        "summary": "Research papers point to the growing impact of Deep Think across fields",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Opus 4.6, Codex 5.3, and the post-benchmark era",
+        "link": "https://www.interconnects.ai/p/opus-46-vs-codex-53",
+        "published": "Mon, 09 Feb 2026 14:03",
+        "summary": "On comparing models in 2026.",
         "source": "Interconnects"
     }
 ]
