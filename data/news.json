@@ -1,51 +1,72 @@
 [
     {
-        "title": "AI is rewiring how the world\u2019s best Go players think",
-        "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "published": "Fri, 27 Feb 2026 10:00",
-        "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped \u201cKorea Baduk Association,\u201d the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;",
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "published": "Fri, 06 Mar 2026 19:21",
+        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA\u2019s collection of bulk&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-        "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-        "published": "Thu, 26 Feb 2026 16:01",
-        "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
-        "source": "DeepMind"
-    },
-    {
-        "title": "Finding value with AI and Industry 5.0 transformation",
-        "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-        "published": "Thu, 26 Feb 2026 15:00",
-        "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
-        "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
-        "published": "Wed, 25 Feb 2026 13:26",
-        "summary": "A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "How much does distillation really matter for Chinese LLMs?",
-        "link": "https://www.interconnects.ai/p/how-much-does-distillation-really",
-        "published": "Tue, 24 Feb 2026 16:06",
-        "summary": "Reacting to Anthropic's post on \"distillation attacks.\"",
+        "title": "Dean Ball on open models and government control ",
+        "link": "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
+        "published": "Fri, 06 Mar 2026 14:03",
+        "summary": "Subtle precedents on the future of open models set by the unfolding Anthropic v. Department of War case.",
         "source": "Interconnects"
     },
     {
-        "title": "The human work behind humanoid robots is being hidden",
-        "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-        "published": "Mon, 23 Feb 2026 17:05",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. In January, Nvidia\u2019s Jensen Huang, the head of the world\u2019s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots&#8230;",
+        "title": "Olmo Hybrid and future LLM architectures",
+        "link": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+        "published": "Thu, 05 Mar 2026 16:16",
+        "summary": "The latest Olmo model and discussions at the frontier of open-source post training tools.",
+        "source": "Interconnects"
+    },
+    {
+        "title": "Online harassment is entering its AI era",
+        "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+        "published": "Thu, 05 Mar 2026 10:00",
+        "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The Moving and the Still",
-        "link": "https://www.hyperdimensional.co/p/the-moving-and-the-still",
-        "published": "Mon, 23 Feb 2026 14:45",
-        "summary": "Reflections on Delhi",
+        "title": "Bridging the operational AI gap",
+        "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+        "published": "Wed, 04 Mar 2026 14:00",
+        "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+        "published": "Tue, 03 Mar 2026 16:35",
+        "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Latest open artifacts (#19): Qwen 3.5, GLM 5, MiniMax 2.5 \u2014 Chinese labs' latest push of the frontier",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
+        "published": "Tue, 03 Mar 2026 16:30",
+        "summary": "Welcome to the year of the horse!",
+        "source": "Interconnects"
+    },
+    {
+        "title": "OpenAI\u2019s \u201ccompromise\u201d with the Pentagon is what Anthropic feared",
+        "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+        "published": "Mon, 02 Mar 2026 17:29",
+        "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon\u2019s public reprimand of Anthropic, were \u201cdefinitely rushed.\u201d In its announcements, OpenAI took great pains to say that&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "I checked out one of the biggest anti-AI protests yet",
+        "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+        "published": "Mon, 02 Mar 2026 12:55",
+        "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Clawed",
+        "link": "https://www.hyperdimensional.co/p/clawed",
+        "published": "Mon, 02 Mar 2026 12:21",
+        "summary": "On Anthropic and the Department of War",
         "source": "Hyperdimensional"
     }
 ]
