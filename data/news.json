@@ -1,72 +1,44 @@
 [
     {
-        "title": "Is the Pentagon allowed to surveil Americans with AI?",
-        "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-        "published": "Fri, 06 Mar 2026 19:21",
-        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA\u2019s collection of bulk&#8230;",
+        "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+        "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+        "published": "Fri, 13 Mar 2026 15:16",
+        "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Dean Ball on open models and government control ",
-        "link": "https://www.interconnects.ai/p/how-anthropic-vs-dow-impacts-open",
-        "published": "Fri, 06 Mar 2026 14:03",
-        "summary": "Subtle precedents on the future of open models set by the unfolding Anthropic v. Department of War case.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Olmo Hybrid and future LLM architectures",
-        "link": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
-        "published": "Thu, 05 Mar 2026 16:16",
-        "summary": "The latest Olmo model and discussions at the frontier of open-source post training tools.",
-        "source": "Interconnects"
-    },
-    {
-        "title": "Online harassment is entering its AI era",
-        "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-        "published": "Thu, 05 Mar 2026 10:00",
-        "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;",
+        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "published": "Thu, 12 Mar 2026 22:23",
+        "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Bridging the operational AI gap",
-        "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-        "published": "Wed, 04 Mar 2026 14:00",
-        "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&#8230;",
+        "title": "Pragmatic by design: Engineering AI for the real world",
+        "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+        "published": "Thu, 12 Mar 2026 13:00",
+        "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-        "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-        "published": "Tue, 03 Mar 2026 16:35",
-        "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+        "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+        "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+        "published": "Wed, 11 Mar 2026 12:46",
+        "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Building a strong data infrastructure for AI agent success",
+        "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+        "published": "Tue, 10 Mar 2026 14:00",
+        "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+        "link": "https://deepmind.google/blog/10-years-of-alphago/",
+        "published": "Mon, 09 Mar 2026 13:52",
+        "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
         "source": "DeepMind"
-    },
-    {
-        "title": "Latest open artifacts (#19): Qwen 3.5, GLM 5, MiniMax 2.5 \u2014 Chinese labs' latest push of the frontier",
-        "link": "https://www.interconnects.ai/p/latest-open-artifacts-19-qwen-35",
-        "published": "Tue, 03 Mar 2026 16:30",
-        "summary": "Welcome to the year of the horse!",
-        "source": "Interconnects"
-    },
-    {
-        "title": "OpenAI\u2019s \u201ccompromise\u201d with the Pentagon is what Anthropic feared",
-        "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-        "published": "Mon, 02 Mar 2026 17:29",
-        "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon\u2019s public reprimand of Anthropic, were \u201cdefinitely rushed.\u201d In its announcements, OpenAI took great pains to say that&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "I checked out one of the biggest anti-AI protests yet",
-        "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-        "published": "Mon, 02 Mar 2026 12:55",
-        "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Clawed",
-        "link": "https://www.hyperdimensional.co/p/clawed",
-        "published": "Mon, 02 Mar 2026 12:21",
-        "summary": "On Anthropic and the Department of War",
-        "source": "Hyperdimensional"
     }
 ]
