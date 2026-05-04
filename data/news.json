@@ -1,58 +1,51 @@
 [
     {
-        "title": "Three reasons why DeepSeek\u2019s new model matters",
-        "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-        "published": "Fri, 24 Apr 2026 21:40",
-        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek\u2019s previous models, V4 is open source, meaning it is available&#8230;",
+        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+        "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+        "published": "Fri, 01 May 2026 22:08",
+        "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-        "link": "https://deepmind.google/blog/decoupled-diloco/",
-        "published": "Wed, 22 Apr 2026 10:20",
-        "summary": "",
+        "title": "Cyber-Insecurity in the AI Era",
+        "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+        "published": "Fri, 01 May 2026 15:54",
+        "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Operationalizing AI for Scale and Sovereignty",
+        "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+        "published": "Fri, 01 May 2026 15:31",
+        "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance\u2014positioning data&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "A new US phone network for Christians aims to block porn and gender-related content",
+        "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+        "published": "Fri, 01 May 2026 09:00",
+        "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can\u2019t be turned off even by adult account owners. It\u2019s also rolling out a filter&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
+        "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "published": "Thu, 30 Apr 2026 15:59",
+        "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Enabling a new model for healthcare with AI co-clinician",
+        "link": "https://deepmind.google/blog/ai-co-clinician/",
+        "published": "Thu, 30 Apr 2026 12:14",
+        "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
         "source": "DeepMind"
     },
     {
-        "title": "AI needs a strong data fabric to deliver business value",
-        "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-        "published": "Wed, 22 Apr 2026 10:05",
-        "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "10 Things That Matter in AI Right Now",
-        "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-        "published": "Tue, 21 Apr 2026 20:45",
-        "summary": "",
-        "source": "Technology Review"
-    },
-    {
-        "title": "LLMs+",
-        "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-        "published": "Tue, 21 Apr 2026 20:45",
-        "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI\u2019s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The ashes of the old tech world still&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Supercharged scams",
-        "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-        "published": "Tue, 21 Apr 2026 20:45",
-        "summary": "When ChatGPT was released to the public in late 2022, it opened people\u2019s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails\u2014both the untargeted spam kind and more sophisticated,&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Partnering with industry leaders to accelerate AI transformation",
-        "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-        "published": "Tue, 21 Apr 2026 14:54",
-        "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+        "title": "Announcing our partnership with the Republic of Korea",
+        "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+        "published": "Mon, 27 Apr 2026 07:00",
+        "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
         "source": "DeepMind"
-    },
-    {
-        "title": "Reading today's open-closed performance gap",
-        "link": "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
-        "published": "Mon, 20 Apr 2026 18:25",
-        "summary": "The complex factors that determine the single evaluation number so many focus on. Plus, how this changes in the future.",
-        "source": "Interconnects"
     }
 ]
