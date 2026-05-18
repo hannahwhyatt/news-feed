@@ -1,58 +1,58 @@
 [
     {
-        "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-        "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-        "published": "Fri, 08 May 2026 23:59",
-        "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk\u2019s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they\u2019d promised to maintain&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Notes from inside China's AI labs",
-        "link": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
-        "published": "Thu, 07 May 2026 15:42",
-        "summary": "Lessons from my trip to talk to most of the leading AI labs in China.",
+        "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
+        "link": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+        "published": "Sat, 16 May 2026 17:00",
+        "summary": "An eventful month with one flagship release after another",
         "source": "Interconnects"
     },
     {
-        "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-        "link": "https://deepmind.google/blog/alphaevolve-impact/",
-        "published": "Wed, 06 May 2026 10:43",
-        "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-        "source": "DeepMind"
+        "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+        "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+        "published": "Sat, 16 May 2026 11:33",
+        "summary": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+        "source": "Ahead of AI"
     },
     {
-        "title": "Before Leviathan Wakes",
-        "link": "https://www.hyperdimensional.co/p/before-leviathan-wakes",
-        "published": "Tue, 05 May 2026 11:52",
-        "summary": "Why I Believe What I Believe",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "A blueprint for using AI to strengthen democracy",
-        "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-        "published": "Tue, 05 May 2026 09:00",
-        "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+        "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+        "published": "Fri, 15 May 2026 23:39",
+        "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "The distillation panic",
-        "link": "https://www.interconnects.ai/p/the-distillation-panic",
-        "published": "Mon, 04 May 2026 15:56",
-        "summary": "",
+        "title": "How Chinese short dramas became AI content machines",
+        "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+        "published": "Fri, 15 May 2026 09:00",
+        "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. \u201cTwo months,\u201d the man says. \u201cGive me an heir, or&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Data readiness for agentic AI in financial services",
+        "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+        "published": "Thu, 14 May 2026 13:00",
+        "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+        "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+        "published": "Thu, 14 May 2026 13:00",
+        "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: \u201cCapability now, control later.\u201d Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "The shock of seeing your body used in deepfake porn",
+        "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "published": "Thu, 14 May 2026 09:00",
+        "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she\u2019d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "How open model ecosystems compound",
+        "link": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+        "published": "Tue, 12 May 2026 15:54",
+        "summary": "Further reflections on China's high-participation, open-first AI ecosystem.",
         "source": "Interconnects"
-    },
-    {
-        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-        "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-        "published": "Mon, 04 May 2026 15:51",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI\u2014Sam Altman and Elon Musk\u2014began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Aviate, Navigate, Communicate",
-        "link": "https://www.hyperdimensional.co/p/aviate-navigate-communicate",
-        "published": "Mon, 04 May 2026 11:46",
-        "summary": "What to do about Mythos",
-        "source": "Hyperdimensional"
     }
 ]
