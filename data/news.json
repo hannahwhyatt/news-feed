@@ -1,51 +1,58 @@
 [
     {
-        "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-        "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-        "published": "Fri, 29 May 2026 10:00",
-        "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+        "title": "LLM Research Papers: The 2026 List (January to May)",
+        "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+        "published": "Sat, 06 Jun 2026 11:16",
+        "summary": "",
+        "source": "Ahead of AI"
+    },
+    {
+        "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+        "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "published": "Fri, 05 Jun 2026 09:00",
+        "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "A Cascade of Conscientiousness",
-        "link": "https://www.hyperdimensional.co/p/a-cascade-of-conscientiousness",
-        "published": "Thu, 28 May 2026 11:45",
-        "summary": "Launching FAI's new Physical Intelligence Project",
+        "title": "Betting on Humans",
+        "link": "https://writing.antonleicht.me/cp/200603941",
+        "published": "Thu, 04 Jun 2026 12:07",
+        "summary": "What to do about AI & jobs",
         "source": "Hyperdimensional"
     },
     {
-        "title": "The AI Hype Index: AI gets booed in graduation season",
-        "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-        "published": "Thu, 28 May 2026 09:51",
-        "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
+        "title": "How courts are coping with a flood of AI-generated lawsuits",
+        "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "published": "Thu, 04 Jun 2026 10:50",
+        "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "Some ideas for what comes next, May 2026",
-        "link": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
-        "published": "Tue, 26 May 2026 15:39",
-        "summary": "Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more.",
+        "title": "Farewell Ai2",
+        "link": "https://www.interconnects.ai/p/farewell-ai2",
+        "published": "Tue, 02 Jun 2026 14:15",
+        "summary": "",
         "source": "Interconnects"
     },
     {
-        "title": "Rethinking organizational design in the age of agentic AI",
-        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-        "published": "Tue, 26 May 2026 14:54",
-        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
+        "title": "Rehumanizing global health care with agentic AI",
+        "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+        "published": "Tue, 02 Jun 2026 11:23",
+        "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "A reality check on the AI jobs hysteria",
-        "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-        "published": "Tue, 26 May 2026 09:00",
-        "summary": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;",
+        "title": "How small businesses can leverage AI",
+        "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+        "published": "Tue, 02 Jun 2026 09:00",
+        "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "It\u2019s time to address the looming crisis in entry-level work",
-        "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-        "published": "Tue, 26 May 2026 09:00",
-        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
-        "source": "Technology Review"
+        "title": "Open and closed models are on different exponentials",
+        "link": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+        "published": "Mon, 01 Jun 2026 13:03",
+        "summary": "Where marginally higher intelligence drives value, and where it doesn't.",
+        "source": "Interconnects"
     }
 ]
