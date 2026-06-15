@@ -1,58 +1,72 @@
 [
     {
-        "title": "LLM Research Papers: The 2026 List (January to May)",
-        "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-        "published": "Sat, 06 Jun 2026 11:16",
-        "summary": "",
-        "source": "Ahead of AI"
-    },
-    {
-        "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
-        "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-        "published": "Fri, 05 Jun 2026 09:00",
-        "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Betting on Humans",
-        "link": "https://writing.antonleicht.me/cp/200603941",
-        "published": "Thu, 04 Jun 2026 12:07",
-        "summary": "What to do about AI & jobs",
-        "source": "Hyperdimensional"
-    },
-    {
-        "title": "How courts are coping with a flood of AI-generated lawsuits",
-        "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-        "published": "Thu, 04 Jun 2026 10:50",
-        "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
-        "source": "Technology Review"
-    },
-    {
-        "title": "Farewell Ai2",
-        "link": "https://www.interconnects.ai/p/farewell-ai2",
-        "published": "Tue, 02 Jun 2026 14:15",
-        "summary": "",
+        "title": "Welcome to the AGI era of AI governance",
+        "link": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+        "published": "Sun, 14 Jun 2026 17:43",
+        "summary": "It's a one-way door and we weren't ready for it.",
         "source": "Interconnects"
     },
     {
-        "title": "Rehumanizing global health care with agentic AI",
-        "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-        "published": "Tue, 02 Jun 2026 11:23",
-        "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "published": "Thu, 11 Jun 2026 11:00",
+        "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
         "source": "Technology Review"
     },
     {
-        "title": "How small businesses can leverage AI",
-        "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-        "published": "Tue, 02 Jun 2026 09:00",
-        "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
-        "source": "Technology Review"
+        "title": "DiffusionGemma: 4x faster text generation",
+        "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+        "published": "Wed, 10 Jun 2026 16:24",
+        "summary": "",
+        "source": "DeepMind"
     },
     {
-        "title": "Open and closed models are on different exponentials",
-        "link": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
-        "published": "Mon, 01 Jun 2026 13:03",
-        "summary": "Where marginally higher intelligence drives value, and where it doesn't.",
+        "title": "Investing in multi-agent AI safety research",
+        "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+        "published": "Wed, 10 Jun 2026 10:21",
+        "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Claude Fable 5 and new AI safety fables",
+        "link": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+        "published": "Tue, 09 Jun 2026 22:59",
+        "summary": "One step further into the power politics of frontier AI systems.",
         "source": "Interconnects"
+    },
+    {
+        "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+        "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+        "published": "Tue, 09 Jun 2026 15:16",
+        "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+        "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+        "published": "Tue, 09 Jun 2026 14:10",
+        "summary": "",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Powering the future of robotics in Europe",
+        "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+        "published": "Tue, 09 Jun 2026 14:02",
+        "summary": "",
+        "source": "DeepMind"
+    },
+    {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "published": "Tue, 09 Jun 2026 10:20",
+        "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
+        "source": "Technology Review"
+    },
+    {
+        "title": "Five things you need to know about AI",
+        "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "published": "Tue, 09 Jun 2026 09:16",
+        "summary": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+        "source": "Technology Review"
     }
 ]
